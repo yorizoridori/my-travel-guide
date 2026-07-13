@@ -23,7 +23,7 @@
   function infoContent(item) {
     const added = JSON.parse(localStorage.getItem("nowdaRoute") || "[]").includes(item.id);
     const mapLink = `https://map.kakao.com/link/map/${encodeURIComponent(item.name)},${item.lat},${item.lon}`;
-    return `<div class="map-info"><span class="map-info-category">${escapeHtml(item.category)}</span><h3>${escapeHtml(item.name)}</h3><p class="map-info-address">${escapeHtml(item.address)}</p><p class="map-info-benefit"><strong>혜택</strong> · ${escapeHtml(item.benefit)}</p><div class="map-info-actions"><a href="${mapLink}" target="_blank" rel="noopener">카카오맵 열기</a><button type="button" onclick="window.toggleNowdaRoute(${item.id});this.textContent='✓ 코스에 담김'">${added ? "✓ 코스에 담김" : "+ 코스에 담기"}</button></div></div>`;
+    return `<div class="map-info"><span class="map-info-category">${escapeHtml(item.category)}</span><h3>${escapeHtml(item.name)}</h3><p class="map-info-address">${escapeHtml(item.address)}</p><p class="map-info-benefit"><strong>혜택</strong> · ${escapeHtml(item.benefit)}</p><div class="map-info-actions"><a href="${mapLink}" target="_blank" rel="noopener">카카오맵 열기</a><button type="button" onclick="window.toggleNowdaRoute(${item.id});this.textContent='✓ 코스에 담김'">${added ? "✓ 코스에 담김" : "+ 코스에 담기"}</button><button class="map-info-nearby" type="button" onclick="window.openNowdaNearby(${item.id})">인근 제휴사 추천</button></div></div>`;
   }
 
   function addMarker(item) {

@@ -164,6 +164,7 @@ function openNearby(id) {
   $("#nearbyModal").hidden = false;
   document.body.style.overflow = "hidden";
 }
+window.openNowdaNearby = openNearby;
 
 function closeNearby() {
   $("#nearbyModal").hidden = true;

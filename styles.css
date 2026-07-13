@@ -121,6 +121,7 @@ select { width: 100%; padding: 10px 34px 10px 12px; color: var(--ink); backgroun
 .map-info-benefit { margin: 0; padding: 9px; background: #f2f0e9; font-size: 9px; line-height: 1.5; }
 .map-info-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-top: 10px; }
 .map-info-actions a, .map-info-actions button { padding: 8px; color: var(--green); background: #fff; border: 1px solid #b8c4be; text-align: center; text-decoration: none; cursor: pointer; font-size: 9px; font-weight: 700; }
+.map-info-actions .map-info-nearby { grid-column: 1 / -1; color: #fff; background: var(--green); border-color: var(--green); }
 
 footer { padding: 40px 0; color: rgba(255,255,255,.72); background: #122d24; }
 .footer-inner { display: flex; justify-content: space-between; align-items: center; gap: 30px; }
