@@ -67,15 +67,34 @@
         <p class="result-kicker">PARTNER DIRECTORY</p>
         <h2><span id="resultCount">242</span>개의 제휴사</h2>
       </div>
-      <select id="sortOrder" class="sort-select" aria-label="정렬 방식">
-        <option value="category">카테고리순</option>
-        <option value="name">가나다순</option>
-        <option value="location">지역순</option>
-      </select>
+      <div class="result-tools">
+        <div class="view-switch" aria-label="보기 방식">
+          <button class="active" id="galleryViewButton" type="button">갤러리</button>
+          <button id="mapViewButton" type="button">지도</button>
+        </div>
+        <select id="sortOrder" class="sort-select" aria-label="정렬 방식">
+          <option value="category">카테고리순</option>
+          <option value="name">가나다순</option>
+          <option value="location">지역순</option>
+        </select>
+      </div>
     </section>
 
     <div class="active-summary" id="activeSummary" hidden></div>
     <section class="card-grid" id="cardGrid" aria-live="polite"></section>
+    <section class="map-section" id="mapSection" hidden aria-label="나우다 제휴사 지도">
+      <div class="map-toolbar">
+        <div class="map-legend">
+          <span><i class="tour"></i>관광지</span>
+          <span><i class="activity"></i>체험/레포츠</span>
+          <span><i class="food"></i>식음료</span>
+          <span><i class="shop"></i>쇼핑/소품샵</span>
+        </div>
+        <span class="map-count"><strong id="mapMarkerCount">0</strong>개 표시 중</span>
+      </div>
+      <div id="kakaoMap"></div>
+      <div class="map-error" id="mapError" hidden></div>
+    </section>
     <div class="empty-state" id="emptyState" hidden>
       <span>⌕</span>
       <h3>검색 결과가 없어요</h3>
@@ -124,7 +143,9 @@
     </div>
   </div>
 
+  <script src="kakao-config.js"></script>
   <script src="data.js"></script>
   <script src="app.js"></script>
+  <script src="map.js"></script>
 </body>
 </html>

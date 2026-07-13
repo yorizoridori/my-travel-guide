@@ -2,4 +2,6 @@
 __pycache__/
 *.pyc
 test_gallery.py
+test_map.py
 generate_data.py
+kakao-config.js

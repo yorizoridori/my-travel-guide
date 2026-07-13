@@ -83,6 +83,7 @@ function render() {
   if (state.area !== "all") active.push(state.area);
   els.summary.hidden = active.length === 0;
   els.summary.textContent = active.length ? `${active.join(" · ")} 조건으로 찾은 결과입니다.` : "";
+  window.dispatchEvent(new CustomEvent("nowda:results", { detail: { items: results } }));
 }
 
 function saveRoute() {
@@ -95,6 +96,9 @@ function toggleRoute(id) {
   saveRoute();
   render();
 }
+window.toggleNowdaRoute = toggleRoute;
+window.getNowdaFilteredData = filteredData;
+window.renderNowdaGallery = render;
 
 function renderRoute() {
   const items = route.map(id => DATA.find(item => item.id === id)).filter(Boolean);
