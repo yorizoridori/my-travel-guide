@@ -1,0 +1,5 @@
+*.png
+__pycache__/
+*.pyc
+test_gallery.py
+generate_data.py
