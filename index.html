@@ -21,7 +21,7 @@
     </nav>
     <div class="hero-content shell" id="top">
       <p class="eyebrow">JEJU OFFICIAL TRAVEL MEMBERSHIP</p>
-      <h1>오늘의 제주를<br><em>혜택과 함께</em> 발견하세요.</h1>
+      <h1><em>나우다와 함께</em><br>제주 여행을 준비하세요.</h1>
       <p class="hero-copy">관광지부터 로컬 맛집과 작은 상점까지,<br>나우다 제휴사 242곳을 한눈에 모았습니다.</p>
       <div class="hero-stats" aria-label="카테고리별 업체 수">
         <div><strong>76</strong><span>관광지</span></div>
@@ -121,11 +121,25 @@
       <button id="closeDrawer" type="button" aria-label="닫기">×</button>
     </div>
     <p class="drawer-intro">방문 순서를 조정하고 선택한 혜택을 한 번에 확인하세요.</p>
-    <div class="route-list" id="routeList"></div>
-    <div class="route-empty" id="routeEmpty"><span>＋</span><p>마음에 드는 제휴사를<br>코스에 담아보세요.</p></div>
-    <section class="benefit-summary" id="benefitSummary" hidden>
-      <div class="summary-title"><span>선택한 혜택</span><strong id="benefitCount"></strong></div>
-      <div id="benefitList"></div>
+    <div class="course-view-switch" aria-label="내 코스 보기 방식">
+      <button class="active" id="courseListViewButton" type="button">목록으로 보기</button>
+      <button id="courseMapViewButton" type="button">지도에서 보기</button>
+    </div>
+    <div id="courseListView">
+      <div class="route-list" id="routeList"></div>
+      <div class="route-empty" id="routeEmpty"><span>＋</span><p>마음에 드는 제휴사를<br>코스에 담아보세요.</p></div>
+      <section class="benefit-summary" id="benefitSummary" hidden>
+        <div class="summary-title"><span>선택한 혜택</span><strong id="benefitCount"></strong></div>
+        <div id="benefitList"></div>
+      </section>
+    </div>
+    <section class="course-map-view" id="courseMapView" hidden>
+      <div class="course-map-summary">
+        <strong><span id="courseMapCount">0</span>개 장소</strong>
+        <span id="courseMapDistance">총 직선거리 0km</span>
+      </div>
+      <div id="courseMap" aria-label="내 코스 지도"></div>
+      <p class="course-map-note">번호는 방문 순서이며 연결선과 거리는 좌표 사이의 직선 기준입니다.</p>
     </section>
     <div class="drawer-actions">
       <button class="copy-route" id="copyRoute" type="button">코스 복사하기</button>
@@ -139,12 +153,26 @@
       <div class="modal-head"><div><p>NEARBY PARTNERS</p><h2 id="nearbyTitle">인근 제휴사</h2></div><button id="closeNearby" type="button" aria-label="닫기">×</button></div>
       <p class="nearby-copy" id="nearbyCopy"></p>
       <div class="nearby-grid" id="nearbyGrid"></div>
+      <button class="nearby-back" id="nearbyBack" type="button" hidden>← 이전 추천으로</button>
       <p class="distance-note">거리는 좌표 사이의 직선거리 기준이며 실제 이동거리와 다를 수 있습니다.</p>
     </div>
   </div>
 
+  <div class="detail-modal" id="detailModal" hidden role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <button class="modal-backdrop" id="detailBackdrop" aria-label="상세 정보 닫기"></button>
+    <article class="detail-card">
+      <div class="modal-head detail-head">
+        <div><p id="detailEyebrow">PARTNER DETAILS</p><h2 id="detailTitle">제휴사 상세 정보</h2></div>
+        <button id="closeDetail" type="button" aria-label="닫기">×</button>
+      </div>
+      <div id="detailContent"></div>
+    </article>
+  </div>
+
   <script src="kakao-config.js"></script>
   <script src="data.js"></script>
+  <script src="images.js"></script>
+  <script src="details.js"></script>
   <script src="app.js"></script>
   <script src="map.js"></script>
 </body>

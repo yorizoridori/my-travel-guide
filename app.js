@@ -1,10 +1,14 @@
 const DATA = window.NOWDA_DATA || [];
+const DETAILS = window.NOWDA_DETAILS || {};
+const IMAGES = window.NOWDA_IMAGES || {};
 const PAGE_SIZE = 24;
 const categories = ["전체", "관광지", "체험/레포츠", "식음료", "쇼핑/소품샵"];
 const categoryOrder = Object.fromEntries(categories.map((name, index) => [name, index]));
 
 const state = { search: "", category: "전체", location: "all", area: "all", sort: "category", visible: PAGE_SIZE };
 let route = JSON.parse(localStorage.getItem("nowdaRoute") || "[]").filter(id => DATA.some(item => item.id === id));
+let nearbySourceId = null;
+let nearbyHistory = [];
 const $ = (selector) => document.querySelector(selector);
 const els = {
   search: $("#search"), categoryFilters: $("#categoryFilters"), location: $("#locationFilter"), area: $("#areaFilter"),
@@ -36,7 +40,8 @@ function updateAreas() {
 function filteredData() {
   const query = normalize(state.search);
   const filtered = DATA.filter(item => {
-    const haystack = normalize([item.name,item.address,item.benefit,item.category,item.area].join(" "));
+    const detail = DETAILS[item.id] || {};
+    const haystack = normalize([item.name,detail.address || item.address,item.benefit,item.category,item.area,detail.summary,detail.description].join(" "));
     return (!query || haystack.includes(query)) &&
       (state.category === "전체" || item.category === state.category) &&
       (state.location === "all" || item.location === state.location) &&
@@ -50,13 +55,16 @@ function filteredData() {
 }
 
 function card(item) {
+  const detail = DETAILS[item.id];
   const warning = ["휴업", "확인 필요"].includes(item.status);
   const showNote = item.status !== "특이사항 미확인";
   const added = route.includes(item.id);
   return `<article class="card" data-category="${escaped(item.category)}">
     <div class="card-top"><span class="category">${escaped(item.category)}</span><span class="status ${warning ? "warning" : ""}">${escaped(item.status)}</span></div>
     <h3>${escaped(item.name)}</h3>
-    <p class="address">${escaped(item.address)}</p>
+    <p class="address">${escaped(detail?.address || item.address)}</p>
+    ${detail ? `<p class="card-summary">${escaped(detail.summary)}</p>` : ""}
+    <button class="card-detail" data-detail="${item.id}" type="button">사진·상세 정보 보기 <span>→</span></button>
     <div class="benefit-box"><span>NOWDA BENEFIT</span><p>${escaped(item.benefit)}</p></div>
     ${showNote ? `<p class="note">${escaped(item.note)}</p>` : ""}
     <a class="card-link" href="${escaped(item.sourceUrl)}" target="_blank" rel="noopener">비짓제주에서 자세히 보기 <span>↗</span></a>
@@ -116,13 +124,17 @@ function renderRoute() {
   $("#benefitSummary").hidden = items.length === 0;
   $("#benefitCount").textContent = `${items.length}개`;
   $("#benefitList").innerHTML = items.map(item => `<div class="benefit-line"><strong>${escaped(item.name)}</strong> · ${escaped(item.benefit)}</div>`).join("");
+  $("#courseMapViewButton").disabled = items.length === 0;
+  window.dispatchEvent(new CustomEvent("nowda:routechange", { detail: { items } }));
 }
+window.getNowdaRouteItems = () => route.map(id => DATA.find(item => item.id === id)).filter(Boolean);
 
 function openDrawer() {
   $("#courseDrawer").classList.add("open");
   $("#courseDrawer").setAttribute("aria-hidden", "false");
   $("#drawerBackdrop").hidden = false;
   document.body.style.overflow = "hidden";
+  window.dispatchEvent(new CustomEvent("nowda:draweropen", { detail: { items: window.getNowdaRouteItems() } }));
 }
 
 function closeDrawer() {
@@ -139,32 +151,104 @@ function distanceKm(a, b) {
   return 6371 * 2 * Math.atan2(Math.sqrt(value), Math.sqrt(1 - value));
 }
 
+function distanceBand(distance) {
+  if (distance < 1) return 0;
+  if (distance < 3) return 1;
+  if (distance < 5) return 2;
+  return 3;
+}
+
 function nearbyFor(source) {
-  const candidates = DATA.filter(item => item.id !== source.id && item.lat && item.lon && !["휴업", "확인 필요"].includes(item.status))
+  const categoryGroups = {
+    "관광지": [["식음료"], ["체험/레포츠", "쇼핑/소품샵"], ["관광지"]],
+    "체험/레포츠": [["식음료"], ["관광지", "쇼핑/소품샵"], ["체험/레포츠"]],
+    "식음료": [["관광지", "체험/레포츠"], ["쇼핑/소품샵"], ["식음료"]],
+    "쇼핑/소품샵": [["관광지", "식음료"], ["체험/레포츠"], ["쇼핑/소품샵"]]
+  };
+  const groups = categoryGroups[source.category] || [];
+  const categoryRank = category => {
+    const rank = groups.findIndex(group => group.includes(category));
+    return rank < 0 ? groups.length : rank;
+  };
+  return DATA.filter(item => item.id !== source.id && !route.includes(item.id) && item.lat && item.lon && !["휴업", "확인 필요"].includes(item.status))
     .map(item => ({...item, distance: distanceKm(source, item)}))
-    .sort((a,b) => a.distance - b.distance);
-  const take = (types, count) => candidates.filter(item => types.includes(item.category)).slice(0, count);
-  const preferred = source.category === "식음료"
-    ? [...take(["관광지", "체험/레포츠"], 4), ...take(["식음료", "쇼핑/소품샵"], 2)]
-    : [...take(["식음료"], 3), ...take(["관광지", "체험/레포츠", "쇼핑/소품샵"], 3)];
-  return [...new Map(preferred.sort((a,b) => a.distance - b.distance).map(item => [item.id, item])).values()].slice(0, 6);
+    .sort((a, b) => {
+      const bandDifference = distanceBand(a.distance) - distanceBand(b.distance);
+      if (bandDifference) return bandDifference;
+      const categoryDifference = categoryRank(a.category) - categoryRank(b.category);
+      return categoryDifference || a.distance - b.distance;
+    })
+    .slice(0, 6);
 }
 
 function openNearby(id) {
   const source = DATA.find(item => item.id === id);
   if (!source || !source.lat || !source.lon) return;
+  nearbySourceId = id;
   const nearby = nearbyFor(source);
-  $("#nearbyTitle").textContent = `${source.name} 인근 추천`;
-  $("#nearbyCopy").textContent = source.category === "식음료" ? "식사 전후 함께 둘러보기 좋은 관광지·체험과 다른 먹거리를 추천해요." : "이 장소와 함께 방문하기 좋은 가까운 식음료·관광 제휴사를 추천해요.";
+  $("#nearbyTitle").textContent = `${source.name} 다음 코스 추천`;
+  $("#nearbyCopy").textContent = "가까운 거리 구간과 다른 카테고리를 우선해요. 장소를 담으면 그곳을 기준으로 다음 추천이 이어집니다.";
   $("#nearbyGrid").innerHTML = nearby.map(item => `<article class="nearby-item">
     <div class="nearby-item-top"><span>${escaped(item.category)}</span><strong>약 ${item.distance < 1 ? Math.round(item.distance * 1000) + "m" : item.distance.toFixed(1) + "km"}</strong></div>
     <h3>${escaped(item.name)}</h3><p>${escaped(item.benefit)}</p>
-    <button type="button" class="${route.includes(item.id) ? "added" : ""}" data-nearby-add="${item.id}">${route.includes(item.id) ? "✓ 코스에 담김" : "+ 함께 코스에 담기"}</button>
-  </article>`).join("");
+    <button type="button" data-nearby-add="${item.id}">코스에 담고 다음 추천 보기 →</button>
+  </article>`).join("") || '<p class="nearby-empty">새로 추천할 제휴사가 없습니다.</p>';
+  $("#nearbyBack").hidden = nearbyHistory.length === 0;
   $("#nearbyModal").hidden = false;
   document.body.style.overflow = "hidden";
 }
-window.openNowdaNearby = openNearby;
+
+function startNearby(id) {
+  nearbyHistory = [];
+  openNearby(id);
+}
+window.openNowdaNearby = startNearby;
+
+function openDetail(id) {
+  const item = DATA.find(entry => entry.id === id);
+  if (!item) return;
+  const detail = DETAILS[id] || {};
+  const image = detail.imageUrl ? detail : (IMAGES[id] || {});
+  const address = detail.address || item.address;
+  const hours = detail.weeklyHours?.length
+    ? detail.weeklyHours.map(row => `<div class="hours-row"><strong>${escaped(row.days)}</strong><span>${escaped(row.hours)}</span></div>`).join("")
+    : '<div class="hours-unverified">요일별 운영시간을 확인하고 있습니다.</div>';
+  const hasFullDetail = Boolean(DETAILS[id]);
+  const mapLink = item.lat && item.lon
+    ? `https://map.kakao.com/link/map/${encodeURIComponent(item.name)},${item.lat},${item.lon}`
+    : `https://map.kakao.com/?q=${encodeURIComponent(address)}`;
+  const added = route.includes(id);
+
+  $("#detailEyebrow").textContent = `${item.category} · ${item.area || item.location}`;
+  $("#detailTitle").textContent = item.name;
+  $("#detailContent").innerHTML = `
+    ${image.imageUrl ? `<figure class="detail-photo"><img src="${escaped(image.imageUrl)}" alt="${escaped(image.imageAlt || `${item.name} 대표 사진`)}"><figcaption>사진 · <a href="${escaped(image.imageSourceUrl || detail.infoSourceUrl)}" target="_blank" rel="noopener">${escaped(image.imageSourceLabel || detail.infoSourceLabel || "출처 보기")}</a></figcaption></figure>` : ""}
+    ${hasFullDetail ? `<p class="detail-summary">${escaped(detail.summary)}</p><p class="detail-description">${escaped(detail.description)}</p>` : '<p class="detail-pending">이 제휴사의 소개와 운영시간은 아직 확인 전입니다. 현재 확보된 기본 정보를 먼저 보여드립니다.</p>'}
+    <section class="detail-section"><h3>주소</h3><p>${escaped(address)}</p></section>
+    <section class="detail-section"><h3>요일별 운영시간</h3><div class="hours-table">${hours}</div>${detail.hoursNote ? `<p class="hours-note">※ ${escaped(detail.hoursNote)}</p>` : ""}</section>
+    <div class="detail-pair">
+      <section class="detail-section"><h3>문의</h3><p>${escaped(detail.phone || "정보 확인 필요")}</p></section>
+      <section class="detail-section"><h3>운영 상태</h3><p>${escaped(item.status)}</p></section>
+    </div>
+    <section class="detail-benefit"><span>NOWDA BENEFIT</span><p>${escaped(item.benefit)}</p></section>
+    ${detail.checkedAt ? `<p class="detail-verified">${escaped(detail.checkedAt)} 확인 · <a href="${escaped(detail.infoSourceUrl)}" target="_blank" rel="noopener">${escaped(detail.infoSourceLabel)}</a><br>운영시간과 휴무는 업체 사정에 따라 달라질 수 있습니다.</p>` : ""}
+    <div class="detail-actions">
+      <button class="detail-route ${added ? "added" : ""}" data-detail-add="${id}" type="button">${added ? "✓ 코스에 담김" : "+ 코스에 담기"}</button>
+      <button data-detail-nearby="${id}" type="button" ${item.lat && item.lon ? "" : "disabled"}>인근 제휴사 추천</button>
+      <a href="${mapLink}" target="_blank" rel="noopener">카카오맵에서 보기 ↗</a>
+      <a href="${escaped(item.sourceUrl)}" target="_blank" rel="noopener">비짓제주 원문 ↗</a>
+    </div>`;
+  const detailImage = $("#detailContent").querySelector(".detail-photo img");
+  if (detailImage) detailImage.addEventListener("error", () => { detailImage.closest(".detail-photo").hidden = true; });
+  $("#detailModal").hidden = false;
+  document.body.style.overflow = "hidden";
+}
+window.openNowdaDetail = openDetail;
+
+function closeDetail() {
+  $("#detailModal").hidden = true;
+  document.body.style.overflow = "";
+}
 
 function closeNearby() {
   $("#nearbyModal").hidden = true;
@@ -189,8 +273,24 @@ els.loadMore.addEventListener("click", () => { state.visible += PAGE_SIZE; rende
 els.grid.addEventListener("click", event => {
   const add = event.target.closest("[data-add]");
   const nearby = event.target.closest("[data-nearby]");
+  const detail = event.target.closest("[data-detail]");
   if (add) toggleRoute(Number(add.dataset.add));
-  if (nearby) openNearby(Number(nearby.dataset.nearby));
+  if (nearby) startNearby(Number(nearby.dataset.nearby));
+  if (detail) openDetail(Number(detail.dataset.detail));
+});
+$("#detailContent").addEventListener("click", event => {
+  const add = event.target.closest("[data-detail-add]");
+  const nearby = event.target.closest("[data-detail-nearby]");
+  if (add) {
+    const id = Number(add.dataset.detailAdd);
+    toggleRoute(id);
+    openDetail(id);
+  }
+  if (nearby) {
+    const id = Number(nearby.dataset.detailNearby);
+    closeDetail();
+    startNearby(id);
+  }
 });
 $("#routeList").addEventListener("click", event => {
   const remove = event.target.closest("[data-remove]");
@@ -205,13 +305,28 @@ $("#routeList").addEventListener("click", event => {
 });
 $("#nearbyGrid").addEventListener("click", event => {
   const add = event.target.closest("[data-nearby-add]");
-  if (add) { toggleRoute(Number(add.dataset.nearbyAdd)); openNearby(Number(DATA.find(x => x.name === $("#nearbyTitle").textContent.replace(" 인근 추천", ""))?.id)); }
+  if (add) {
+    const id = Number(add.dataset.nearbyAdd);
+    if (!route.includes(id)) {
+      route = [...route, id];
+      saveRoute();
+      render();
+    }
+    if (nearbySourceId !== null) nearbyHistory.push(nearbySourceId);
+    openNearby(id);
+  }
+});
+$("#nearbyBack").addEventListener("click", () => {
+  const previousId = nearbyHistory.pop();
+  if (previousId !== undefined) openNearby(previousId);
 });
 $("#courseFab").addEventListener("click", openDrawer);
 $("#closeDrawer").addEventListener("click", closeDrawer);
 $("#drawerBackdrop").addEventListener("click", closeDrawer);
 $("#closeNearby").addEventListener("click", closeNearby);
 $("#nearbyBackdrop").addEventListener("click", closeNearby);
+$("#closeDetail").addEventListener("click", closeDetail);
+$("#detailBackdrop").addEventListener("click", closeDetail);
 $("#copyRoute").addEventListener("click", copyRoute);
 $("#clearRoute").addEventListener("click", () => { if (route.length && confirm("담아둔 코스를 모두 비울까요?")) { route = []; saveRoute(); render(); } });
 
@@ -222,7 +337,7 @@ function reset() {
 $("#resetFilters").addEventListener("click", reset);
 $("#emptyReset").addEventListener("click", reset);
 document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); } });
-document.addEventListener("keydown", e => { if (e.key === "Escape") { closeDrawer(); closeNearby(); } });
+document.addEventListener("keydown", e => { if (e.key === "Escape") { closeDrawer(); closeNearby(); closeDetail(); } });
 
 updateAreas();
 renderRoute();
