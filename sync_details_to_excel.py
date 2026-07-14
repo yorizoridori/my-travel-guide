@@ -27,16 +27,26 @@ DETAIL_HEADERS = [
     "대표사진 출처",
 ]
 
+STATUS_NOTES = {
+    "라반 이호테우점": "확인 필요: 동일 주소에 다른 상호의 계속사업자 정보가 확인되어 라반의 폐업·상호 변경 여부 확인 필요 (2026-07-14)",
+    "디저트팩토리 쇠소깍점": "휴업/폐업: 비짓제주 나우다 공식 API에 '업체 폐업으로 이용 불가' 명시 (2026-07-14)",
+    "제주지프": "확인 필요: 비짓제주 나우다 공식 API에 '동절기 기간 임시 휴업' 문구가 현재도 남아 있어 운영 재개 여부 확인 필요 (2026-07-14)",
+}
+
 
 def load_details() -> dict[int, dict]:
     text = (GALLERY_DIR / "details.js").read_text(encoding="utf-8")
     body = text.split("=", 1)[1].strip().removesuffix(";")
-    body = re.sub(
-        r"([,{]\s*)([A-Za-z_][A-Za-z0-9_]*|\d+)\s*:",
-        r'\1"\2":',
-        body,
-    )
-    return {int(key): value for key, value in json.loads(body).items()}
+    try:
+        parsed = json.loads(body)
+    except json.JSONDecodeError:
+        body = re.sub(
+            r"([,{]\s*)([A-Za-z_][A-Za-z0-9_]*|\d+)\s*:",
+            r'\1"\2":',
+            body,
+        )
+        parsed = json.loads(body)
+    return {int(key): value for key, value in parsed.items()}
 
 
 def load_images() -> dict[int, dict]:
@@ -121,11 +131,11 @@ def update_workbook(path: Path, details_by_name: dict[str, dict]) -> None:
                 headers["비고"],
                 "주소 표기 정정: 공식 안내 주소 '서귀포시 중문관광로 224, ICC JEJU 1층' 반영 (2026-07-13)",
             ).alignment = Alignment(vertical="top", wrap_text=True)
-        if name == "라반 이호테우점" and "비고" in headers:
+        if name in STATUS_NOTES and "비고" in headers:
             sheet.cell(
                 row,
                 headers["비고"],
-                "확인 필요: 동일 주소에 다른 상호의 계속사업자 정보가 확인되어 라반의 폐업·상호 변경 여부 확인 필요 (2026-07-14)",
+                STATUS_NOTES[name],
             ).alignment = Alignment(vertical="top", wrap_text=True)
 
     missing = set(details_by_name) - updated_names
