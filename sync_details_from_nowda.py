@@ -5,14 +5,19 @@ from __future__ import annotations
 import importlib.util
 import json
 import re
+from datetime import date
 from pathlib import Path
 
 
 GALLERY_DIR = Path(__file__).resolve().parent
 WORKSPACE_DIR = GALLERY_DIR.parent
 NOWDA_SYNC = WORKSPACE_DIR / ".claude" / "skills" / "nowda-notion" / "sync.py"
-CHECKED_AT = "2026-07-14"
+CHECKED_AT = date.today().isoformat()
 TIME_RE = re.compile(r"\d{1,2}:\d{2}\s*(?:~|-|–)\s*\d{1,2}:\d{2}")
+OUTDATED_PUBLIC_BENEFIT_NOTICE = (
+    "한시적으로 레벨에 관계없이 적용되었던 공영관광지 입장 무료 or 할인 혜택이 "
+    "2026년 7월 1일부터 2단계 (LEVEL 2)멤버십 혜택으로 변경 됩니다."
+)
 
 
 def load_nowda_module():
@@ -77,6 +82,7 @@ def phone_from(place: dict, text: str) -> str:
 
 def intro_from(text: str, name: str, category: str) -> tuple[str, str]:
     intro = text.split("[나우다(관광증) 이용 안내]", 1)[0].strip()
+    intro = intro.replace(OUTDATED_PUBLIC_BENEFIT_NOTICE, "").strip()
     intro = re.sub(r"\s+", " ", intro)
     if intro:
         summary = intro if len(intro) <= 95 else intro[:92].rstrip() + "…"
@@ -156,6 +162,20 @@ def main() -> None:
         pair = products.get(item["code"])
         if not pair:
             missing.append({"id": item["id"], "name": item["name"], "code": item["code"]})
+            image = images.get(str(item["id"]), {})
+            pending = "비짓제주 공개 나우다 목록에 새로 등록된 제휴사입니다. 상세 소개와 운영정보는 공식 API 반영을 기다리고 있습니다."
+            details[item["id"]] = {
+                **image,
+                "summary": pending,
+                "description": pending,
+                "address": item.get("address", ""),
+                "weeklyHours": [],
+                "hoursNote": "신규 제휴사 운영시간·휴무일 공식 업데이트 대기",
+                "phone": "정보 확인 필요",
+                "checkedAt": CHECKED_AT,
+                "infoSourceLabel": "비짓제주 나우다 공개 목록",
+                "infoSourceUrl": item["sourceUrl"],
+            }
             continue
         place, product = pair
         raw_notice = product.get("notice") or place.get("notice") or ""

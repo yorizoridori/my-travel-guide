@@ -5,6 +5,21 @@ const PAGE_SIZE = 24;
 const categories = ["전체", "관광지", "체험/레포츠", "식음료", "쇼핑/소품샵"];
 const categoryOrder = Object.fromEntries(categories.map((name, index) => [name, index]));
 
+// 자유로운 표현을 제휴사 데이터에 쓰인 말로 연결한다. 이 목록에 없는 단어도
+// 업체명, 주소, 혜택, 소개문에서 그대로 검색되므로 검색어가 제한되지는 않는다.
+const SEARCH_CONCEPTS = [
+  { label: "분위기 좋은 곳", terms: ["분좋카", "분위기", "감성", "감성카페", "분위기좋은카페", "예쁜카페", "인테리어", "포토존", "인생샷", "사진"] },
+  { label: "전망 좋은 곳", terms: ["뷰맛집", "뷰좋은", "전망", "오션뷰", "바다뷰", "산뷰", "정원뷰", "루프탑", "바다", "해안", "풍경", "경관"] },
+  { label: "흑돼지", terms: ["흑돼지", "제주흑돼지", "돼지고기", "고기집", "고깃집", "돼지구이"] },
+  { label: "아이와 함께", terms: ["아이와", "아이랑", "애들이랑", "어린이", "유아", "키즈", "가족", "가족여행", "가족체험"] },
+  { label: "비 오는 날", terms: ["비오는날", "비올때", "우천", "실내", "박물관", "미술관", "전시", "공방"] },
+  { label: "데이트", terms: ["데이트", "연인", "커플", "로맨틱", "감성", "사진"] },
+  { label: "카페", terms: ["카페", "커피", "디저트", "베이커리", "빵", "브런치", "음료"] },
+  { label: "체험", terms: ["체험", "액티비티", "놀거리", "레포츠", "클래스", "만들기"] },
+  { label: "반려동물", terms: ["반려동물", "반려견", "강아지", "애견", "펫", "댕댕이"] },
+  { label: "산책과 힐링", terms: ["산책", "걷기", "힐링", "조용한", "여유", "숲", "정원", "휴양"] }
+];
+
 const state = { search: "", category: "전체", location: "all", area: "all", sort: "category", visible: PAGE_SIZE };
 let route = JSON.parse(localStorage.getItem("nowdaRoute") || "[]").filter(id => DATA.some(item => item.id === id));
 let nearbySourceId = null;
@@ -26,8 +41,85 @@ categories.forEach((category) => {
   els.categoryFilters.append(button);
 });
 
-function normalize(value) { return String(value || "").toLocaleLowerCase().replace(/\s+/g, ""); }
+function normalize(value) { return String(value || "").toLocaleLowerCase().replace(/[^0-9a-z가-힣]/g, ""); }
 function escaped(value) { return String(value || "").replace(/[&<>'"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c])); }
+function isNewPartner(item) {
+  if (!item.newUntil) return false;
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const expires = new Date(`${item.newUntil}T23:59:59`);
+  return !Number.isNaN(expires.getTime()) && expires >= today;
+}
+
+function updateCollectionMeta() {
+  const now = new Date();
+  const month = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, "0")}`;
+  $("#collectionMonth").textContent = month;
+  $("#partnerTotal").textContent = DATA.length.toLocaleString("ko-KR");
+  $("#heroPartnerTotal").textContent = DATA.length.toLocaleString("ko-KR");
+  document.querySelectorAll("[data-category-stat]").forEach(stat => {
+    stat.querySelector("strong").textContent = DATA.filter(item => item.category === stat.dataset.categoryStat).length.toLocaleString("ko-KR");
+  });
+}
+
+function searchProfile(item) {
+  const detail = DETAILS[item.id] || {};
+  const fields = {
+    name: normalize(item.name),
+    category: normalize(item.category),
+    location: normalize([item.location, item.area, detail.address || item.address].join(" ")),
+    benefit: normalize(item.benefit),
+    description: normalize([detail.summary, detail.description].join(" "))
+  };
+  fields.all = Object.values(fields).join(" ");
+  return fields;
+}
+
+function parseSearch(query) {
+  const rawTokens = String(query || "").toLocaleLowerCase().match(/[0-9a-z가-힣]+/g) || [];
+  const compact = normalize(query);
+  const concepts = SEARCH_CONCEPTS.filter(concept => concept.terms.some(term => compact.includes(normalize(term))));
+  const conceptTerms = new Set(concepts.flatMap(concept => concept.terms.map(normalize)));
+  const tokens = [...new Set(rawTokens.map(normalize).filter(token => token.length > 1))];
+  return { compact, tokens, concepts, conceptTerms };
+}
+
+function scoreSearch(item, parsed) {
+  if (!parsed.compact) return { score: 0, reasons: [] };
+  const profile = searchProfile(item);
+  let score = 0;
+  const reasons = [];
+
+  if (profile.name.includes(parsed.compact)) { score += 30; reasons.push("업체명 일치"); }
+  const directTokens = parsed.tokens.filter(token => profile.all.includes(token));
+  directTokens.forEach(token => {
+    if (profile.name.includes(token)) score += 12;
+    else if (profile.category.includes(token) || profile.location.includes(token)) score += 8;
+    else if (profile.benefit.includes(token)) score += 6;
+    else score += 4;
+  });
+  if (directTokens.length) reasons.push(...directTokens.slice(0, 2));
+
+  parsed.concepts.forEach(concept => {
+    const matches = concept.terms.map(normalize).filter(term => profile.all.includes(term));
+    if (matches.length) {
+      score += 5 + Math.min(matches.length, 3) * 2;
+      reasons.push(concept.label);
+    }
+  });
+
+  // 검색 문장에 카페/흑돼지처럼 명확한 업종 의도가 있으면 엉뚱한 결과를 줄인다.
+  const wantsCafe = parsed.concepts.some(x => x.label === "카페") || ["분좋카", "카페"].some(x => parsed.compact.includes(x));
+  if (wantsCafe && /카페|커피|베이커리|디저트|브런치/.test(profile.all)) score += 10;
+  const wantsBlackPork = parsed.concepts.some(x => x.label === "흑돼지");
+  if (wantsBlackPork && /흑돼지/.test(profile.all)) score += 14;
+
+  const matchedIntent = directTokens.length > 0 ||
+    parsed.concepts.some(concept => concept.terms.some(term => profile.all.includes(normalize(term)))) ||
+    (wantsCafe && /카페|커피|베이커리|디저트|브런치/.test(profile.all)) ||
+    (wantsBlackPork && /흑돼지/.test(profile.all));
+  return { score: matchedIntent ? score : 0, reasons: [...new Set(reasons)].slice(0, 3) };
+}
 
 function updateAreas() {
   const previous = state.area;
@@ -38,20 +130,22 @@ function updateAreas() {
 }
 
 function filteredData() {
-  const query = normalize(state.search);
-  const filtered = DATA.filter(item => {
-    const detail = DETAILS[item.id] || {};
-    const haystack = normalize([item.name,detail.address || item.address,item.benefit,item.category,item.area,detail.summary,detail.description].join(" "));
-    return (!query || haystack.includes(query)) &&
+  const parsed = parseSearch(state.search);
+  const filtered = DATA.map(item => ({ item, search: scoreSearch(item, parsed) })).filter(({ item, search }) => {
+    return (!parsed.compact || search.score > 0) &&
       (state.category === "전체" || item.category === state.category) &&
       (state.location === "all" || item.location === state.location) &&
       (state.area === "all" || item.area === state.area);
-  });
-  return filtered.sort((a,b) => {
-    if (state.sort === "name") return a.name.localeCompare(b.name,"ko");
-    if (state.sort === "location") return (a.location+a.area+a.name).localeCompare(b.location+b.area+b.name,"ko");
-    return (categoryOrder[a.category] - categoryOrder[b.category]) || a.name.localeCompare(b.name,"ko");
-  });
+  }).sort((a,b) => {
+    const newDifference = Number(isNewPartner(b.item)) - Number(isNewPartner(a.item));
+    if (newDifference) return newDifference;
+    if (parsed.compact && b.search.score !== a.search.score) return b.search.score - a.search.score;
+    const left = a.item, right = b.item;
+    if (state.sort === "name") return left.name.localeCompare(right.name,"ko");
+    if (state.sort === "location") return (left.location+left.area+left.name).localeCompare(right.location+right.area+right.name,"ko");
+    return (categoryOrder[left.category] - categoryOrder[right.category]) || left.name.localeCompare(right.name,"ko");
+  }).map(({ item, search }) => ({ ...item, _searchReasons: search.reasons }));
+  return filtered;
 }
 
 function card(item) {
@@ -60,9 +154,10 @@ function card(item) {
   const showNote = item.status !== "특이사항 미확인";
   const added = route.includes(item.id);
   return `<article class="card" data-category="${escaped(item.category)}">
-    <div class="card-top"><span class="category">${escaped(item.category)}</span><span class="status ${warning ? "warning" : ""}">${escaped(item.status)}</span></div>
+    <div class="card-top"><div class="card-labels"><span class="category">${escaped(item.category)}</span>${isNewPartner(item) ? '<span class="new-badge">NEW</span>' : ""}</div><span class="status ${warning ? "warning" : ""}">${escaped(item.status)}</span></div>
     <h3>${escaped(item.name)}</h3>
     <p class="address">${escaped(detail?.address || item.address)}</p>
+    ${state.search && item._searchReasons?.length ? `<div class="match-reasons"><span>검색 연결</span>${item._searchReasons.map(reason => `<em>${escaped(reason)}</em>`).join("")}</div>` : ""}
     ${detail ? `<p class="card-summary">${escaped(detail.summary)}</p>` : ""}
     <button class="card-detail" data-detail="${item.id}" type="button">사진·상세 정보 보기 <span>→</span></button>
     <div class="benefit-box"><span>NOWDA BENEFIT</span><p>${escaped(item.benefit)}</p></div>
@@ -213,6 +308,12 @@ function openDetail(id) {
   const hours = detail.weeklyHours?.length
     ? detail.weeklyHours.map(row => `<div class="hours-row"><strong>${escaped(row.days)}</strong><span>${escaped(row.hours)}</span></div>`).join("")
     : '<div class="hours-unverified">요일별 운영시간을 확인하고 있습니다.</div>';
+  const annualOpenNote = String(detail.hoursNote || "").includes("연중무휴");
+  const hoursNote = detail.hoursNote
+    ? annualOpenNote
+      ? `<div class="hours-note annual-open-note"><strong>나우다 등록정보</strong><span>${escaped(detail.hoursNote)}</span><em>실제 휴무·임시휴무는 방문 전 업체에 확인해주세요.</em></div>`
+      : `<p class="hours-note">※ ${escaped(detail.hoursNote)}</p>`
+    : "";
   const hasFullDetail = Boolean(DETAILS[id]);
   const mapLink = item.lat && item.lon
     ? `https://map.kakao.com/link/map/${encodeURIComponent(item.name)},${item.lat},${item.lon}`
@@ -223,9 +324,9 @@ function openDetail(id) {
   $("#detailTitle").textContent = item.name;
   $("#detailContent").innerHTML = `
     ${image.imageUrl ? `<figure class="detail-photo"><img src="${escaped(image.imageUrl)}" alt="${escaped(image.imageAlt || `${item.name} 대표 사진`)}"><figcaption>사진 · <a href="${escaped(image.imageSourceUrl || detail.infoSourceUrl)}" target="_blank" rel="noopener">${escaped(image.imageSourceLabel || detail.infoSourceLabel || "출처 보기")}</a></figcaption></figure>` : ""}
-    ${hasFullDetail ? `<p class="detail-summary">${escaped(detail.summary)}</p><p class="detail-description">${escaped(detail.description)}</p>` : '<p class="detail-pending">이 제휴사의 소개와 운영시간은 아직 확인 전입니다. 현재 확보된 기본 정보를 먼저 보여드립니다.</p>'}
+    ${hasFullDetail ? `<p class="detail-summary">${escaped(detail.description || detail.summary)}</p>` : '<p class="detail-pending">이 제휴사의 소개와 운영시간은 아직 확인 전입니다. 현재 확보된 기본 정보를 먼저 보여드립니다.</p>'}
     <section class="detail-section"><h3>주소</h3><p>${escaped(address)}</p></section>
-    <section class="detail-section"><h3>요일별 운영시간</h3><div class="hours-table">${hours}</div>${detail.hoursNote ? `<p class="hours-note">※ ${escaped(detail.hoursNote)}</p>` : ""}</section>
+    <section class="detail-section"><h3>요일별 운영시간</h3><div class="hours-table">${hours}</div>${hoursNote}</section>
     <div class="detail-pair">
       <section class="detail-section"><h3>문의</h3><p>${escaped(detail.phone || "정보 확인 필요")}</p></section>
       <section class="detail-section"><h3>운영 상태</h3><p>${escaped(item.status)}</p></section>
@@ -266,6 +367,12 @@ function copyRoute() {
 
 let searchTimer;
 els.search.addEventListener("input", e => { clearTimeout(searchTimer); searchTimer = setTimeout(() => { state.search = e.target.value.trim(); state.visible = PAGE_SIZE; render(); }, 120); });
+document.querySelectorAll("[data-search-example]").forEach(button => button.addEventListener("click", () => {
+  els.search.value = button.dataset.searchExample;
+  state.search = button.dataset.searchExample;
+  state.visible = PAGE_SIZE;
+  render();
+}));
 els.location.addEventListener("change", e => { state.location = e.target.value; state.visible = PAGE_SIZE; updateAreas(); render(); });
 els.area.addEventListener("change", e => { state.area = e.target.value; state.visible = PAGE_SIZE; render(); });
 els.sort.addEventListener("change", e => { state.sort = e.target.value; render(); });
@@ -339,6 +446,7 @@ $("#emptyReset").addEventListener("click", reset);
 document.addEventListener("keydown", e => { if (e.key === "/" && document.activeElement !== els.search) { e.preventDefault(); els.search.focus(); } });
 document.addEventListener("keydown", e => { if (e.key === "Escape") { closeDrawer(); closeNearby(); closeDetail(); } });
 
+updateCollectionMeta();
 updateAreas();
 renderRoute();
 render();

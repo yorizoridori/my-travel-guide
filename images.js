@@ -1450,5 +1450,41 @@ window.NOWDA_IMAGES = {
     "imageAlt": "행복한상점 동문시장점 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2511205"
+  },
+  "251": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/양서대학.webp",
+    "imageAlt": "양서대학 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607061"
+  },
+  "252": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/잔잔히.webp",
+    "imageAlt": "잔잔히 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070629"
+  },
+  "253": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/벨벨왓.webp",
+    "imageAlt": "벨벨왓 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070631"
+  },
+  "254": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/스카이다이어리.webp",
+    "imageAlt": "스카이 다이어리 (Sky Diary) 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070743"
+  },
+  "255": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/시원하당.webp",
+    "imageAlt": "시원하당 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070739"
+  },
+  "256": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/라봉샵.webp",
+    "imageAlt": "라봉샵 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070741"
   }
 };

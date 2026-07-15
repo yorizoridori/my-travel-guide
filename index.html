@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260714-3">
+  <link rel="stylesheet" href="styles.css?v=20260715-4">
 </head>
 <body>
   <header class="hero">
@@ -17,17 +17,17 @@
         <span class="brand-mark">NOW</span>
         <span>나우다 제휴사 가이드</span>
       </a>
-      <span class="nav-meta">2026.07 기준 · 242곳</span>
+      <span class="nav-meta"><span id="collectionMonth">2026.07</span> 기준 · <span id="partnerTotal">0</span>곳</span>
     </nav>
     <div class="hero-content shell" id="top">
       <p class="eyebrow">JEJU OFFICIAL TRAVEL MEMBERSHIP</p>
       <h1><em>나우다와 함께</em><br>제주 여행을 준비하세요.</h1>
-      <p class="hero-copy">관광지부터 로컬 맛집과 작은 상점까지,<br>나우다 제휴사 242곳을 한눈에 모았습니다.</p>
+      <p class="hero-copy">관광지부터 로컬 맛집과 작은 상점까지,<br>나우다 제휴사 <span id="heroPartnerTotal">0</span>곳을 한눈에 모았습니다.</p>
       <div class="hero-stats" aria-label="카테고리별 업체 수">
-        <div><strong>76</strong><span>관광지</span></div>
-        <div><strong>59</strong><span>체험/레포츠</span></div>
-        <div><strong>83</strong><span>식음료</span></div>
-        <div><strong>24</strong><span>쇼핑/소품샵</span></div>
+        <div data-category-stat="관광지"><strong>0</strong><span>관광지</span></div>
+        <div data-category-stat="체험/레포츠"><strong>0</strong><span>체험/레포츠</span></div>
+        <div data-category-stat="식음료"><strong>0</strong><span>식음료</span></div>
+        <div data-category-stat="쇼핑/소품샵"><strong>0</strong><span>쇼핑/소품샵</span></div>
       </div>
     </div>
   </header>
@@ -35,11 +35,18 @@
   <main class="shell main-content">
     <section class="filter-panel" aria-label="제휴사 검색 및 필터">
       <label class="search-wrap">
-        <span class="sr-only">업체명, 주소 또는 혜택 검색</span>
+        <span class="sr-only">원하는 장소를 자유롭게 검색</span>
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.3-4.3m2.3-5.2a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
-        <input id="search" type="search" placeholder="업체명, 주소, 혜택을 검색해보세요" autocomplete="off">
+        <input id="search" type="search" placeholder="예: 성산에서 바다 보이는 분위기 좋은 카페" autocomplete="off">
         <kbd>/</kbd>
       </label>
+      <div class="search-examples" aria-label="추천 검색어">
+        <span>이렇게 찾아보세요</span>
+        <button type="button" data-search-example="흑돼지">흑돼지</button>
+        <button type="button" data-search-example="분좋카">분좋카</button>
+        <button type="button" data-search-example="아이와 비오는 날">아이와 비오는 날</button>
+        <button type="button" data-search-example="바다 보이는 카페">바다 보이는 카페</button>
+      </div>
 
       <div class="filter-group">
         <span class="filter-label">카테고리</span>
@@ -170,10 +177,10 @@
   </div>
 
   <script src="kakao-config.js?v=20260714-3"></script>
-  <script src="data.js?v=20260714-3"></script>
-  <script src="images.js?v=20260714-3"></script>
-  <script src="details.js?v=20260714-3"></script>
-  <script src="app.js?v=20260714-3"></script>
+  <script src="data.js?v=20260715-1"></script>
+  <script src="images.js?v=20260715-1"></script>
+  <script src="details.js?v=20260715-4"></script>
+  <script src="app.js?v=20260715-6"></script>
   <script src="map.js?v=20260714-3"></script>
 </body>
 </html>

@@ -44,6 +44,10 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .search-wrap svg { width: 22px; fill: none; stroke: currentColor; stroke-width: 1.7; }
 .search-wrap input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: 17px; }
 .search-wrap input::placeholder { color: #a09f99; }
+.search-examples { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; padding-top: 12px; }
+.search-examples > span { margin-right: 3px; color: #858b87; font-size: 10px; font-weight: 700; }
+.search-examples button { padding: 6px 10px; border: 1px solid #d9dedb; border-radius: 999px; background: #fff; color: #53605a; cursor: pointer; font-size: 10px; }
+.search-examples button:hover { border-color: var(--green); color: var(--green); }
 kbd { padding: 2px 8px; color: #8b8b85; background: #f0eee8; border: 1px solid #dedbd3; border-radius: 4px; font-size: 11px; }
 .filter-group { display: flex; align-items: center; gap: 25px; margin-top: 22px; }
 .filter-label, .select-row label { color: #777b76; font-size: 11px; font-weight: 700; white-space: nowrap; }
@@ -75,12 +79,17 @@ select { width: 100%; padding: 10px 34px 10px 12px; color: var(--ink); backgroun
 .card[data-category="식음료"] { --accent: var(--food); }
 .card[data-category="쇼핑/소품샵"] { --accent: var(--shop); }
 .card-top { display: flex; justify-content: space-between; gap: 8px; align-items: center; }
+.card-labels { display: flex; align-items: center; gap: 6px; }
+.new-badge { padding: 5px 7px; border-radius: 999px; color: #fff; background: #e45f3f; font-size: 8px; font-weight: 800; letter-spacing: .08em; box-shadow: 0 3px 10px rgba(228, 95, 63, .2); }
 .category { color: var(--accent); font-size: 10px; font-weight: 800; letter-spacing: .06em; }
 .status { color: #75807a; background: #f0f1ed; padding: 4px 7px; border-radius: 2px; font-size: 9px; }
 .status.warning { color: #8a4a1c; background: #fff0dd; }
 .card h3 { margin: 17px 0 10px; font-family: "Gowun Dodum"; font-size: 23px; font-weight: 400; line-height: 1.35; }
 .address { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.65; }
 .card-summary { margin: 14px 0 0; color: #4f5d56; font-size: 11px; line-height: 1.65; }
+.match-reasons { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 11px; align-items: center; }
+.match-reasons span { color: #8b928e; font-size: 9px; font-weight: 700; }
+.match-reasons em { padding: 4px 7px; border-radius: 999px; background: #edf4f0; color: var(--green); font-size: 9px; font-style: normal; font-weight: 700; }
 .card-detail { display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 11px; padding: 9px 0; color: var(--green); background: transparent; border: 0; border-bottom: 1px solid #cbd3cf; cursor: pointer; text-align: left; font-size: 10px; font-weight: 800; }
 .card-detail span { transition: transform .2s ease; }
 .card-detail:hover span { transform: translateX(3px); }
@@ -210,8 +219,7 @@ footer a { color: var(--lime); font-size: 11px; text-decoration: none; }
 .detail-photo img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
 .detail-photo figcaption { position: absolute; right: 9px; bottom: 8px; padding: 5px 7px; color: #fff; background: rgba(22, 31, 27, .72); font-size: 8px; }
 .detail-photo figcaption a { color: inherit; text-underline-offset: 2px; }
-.detail-summary { margin: 23px 0 8px; color: var(--green); font-family: "Gowun Dodum"; font-size: 19px; line-height: 1.55; }
-.detail-description { margin: 0 0 22px; color: #56635d; font-size: 11px; line-height: 1.85; white-space: pre-line; }
+.detail-summary { margin: 23px 0 22px; color: var(--green); font-family: "Gowun Dodum"; font-size: 19px; line-height: 1.55; white-space: pre-line; }
 .detail-pending { margin: 22px 0; padding: 14px; color: #796044; background: #f2e9dc; font-size: 10px; line-height: 1.65; }
 .detail-section { margin: 0; padding: 17px 0; border-top: 1px solid #e1ddd3; }
 .detail-section h3 { margin: 0 0 9px; color: #77817c; font-size: 9px; letter-spacing: .08em; }
@@ -224,6 +232,10 @@ footer a { color: var(--lime); font-size: 11px; text-decoration: none; }
 .hours-row span { color: #38443e; text-align: right; }
 .hours-unverified { padding: 13px; color: #8b765f; font-size: 10px; }
 .hours-note { margin: 9px 0 0 !important; color: #848b87 !important; font-size: 9px !important; }
+.annual-open-note { display: grid; gap: 5px; padding: 11px 12px; border-radius: 8px; background: #f4f2eb; line-height: 1.55; }
+.annual-open-note strong { width: fit-content; padding: 3px 6px; border-radius: 999px; color: var(--green); background: #e2ece6; font-size: 8px; }
+.annual-open-note span { color: #59645f; }
+.annual-open-note em { color: #8a684d; font-style: normal; }
 .detail-benefit { margin-top: 5px; padding: 17px; background: #e8eadc; border-left: 3px solid var(--green); }
 .detail-benefit span { color: var(--green); font-size: 9px; font-weight: 800; letter-spacing: .12em; }
 .detail-benefit p { margin: 7px 0 0; font-size: 12px; line-height: 1.65; }

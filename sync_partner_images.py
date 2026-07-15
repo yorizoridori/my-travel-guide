@@ -25,6 +25,14 @@ def load_partners() -> list[dict]:
     return json.loads(text.split("=", 1)[1].strip().removesuffix(";"))
 
 
+def load_existing_images() -> dict[int, dict]:
+    if not OUTPUT_PATH.exists():
+        return {}
+    text = OUTPUT_PATH.read_text(encoding="utf-8")
+    parsed = json.loads(text.split("=", 1)[1].strip().removesuffix(";"))
+    return {int(key): value for key, value in parsed.items()}
+
+
 def fetch_image(partner: dict) -> tuple[int, dict | None, str | None]:
     source_url = partner["sourceUrl"]
     request = urllib.request.Request(
@@ -51,6 +59,7 @@ def fetch_image(partner: dict) -> tuple[int, dict | None, str | None]:
 
 def main() -> None:
     partners = load_partners()
+    existing_images = load_existing_images()
     images: dict[int, dict] = {}
     failures: list[tuple[int, str]] = []
     with ThreadPoolExecutor(max_workers=8) as executor:
@@ -61,6 +70,12 @@ def main() -> None:
                 images[partner_id] = image
             else:
                 failures.append((partner_id, error or "알 수 없는 오류"))
+
+    # 일시적인 네트워크/원본 페이지 오류로 정상 사진이 사라지지 않게 보존한다.
+    active_ids = {partner["id"] for partner in partners}
+    for partner_id, image in existing_images.items():
+        if partner_id in active_ids and partner_id not in images:
+            images[partner_id] = image
 
     ordered = {partner_id: images[partner_id] for partner_id in sorted(images)}
     OUTPUT_PATH.write_text(
