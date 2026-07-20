@@ -1819,15 +1819,15 @@ window.NOWDA_DATA = [
     "code": "BPR26022427",
     "name": "제주인어",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 신중로 46",
+    "address": "제주특별자치도 서귀포시 남원읍 일주동로 7928",
     "location": "서귀포시",
     "area": "제주",
     "benefit": "2인 이상 체험 참여시 총 5,000원 할인",
     "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26022427",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254613215464,
-    "lon": 126.50988281911
+    "note": "카카오맵 주소 확인 (2026-07-20)",
+    "lat": 33.26519351,
+    "lon": 126.6387361
   },
   {
     "id": 123,
@@ -2899,15 +2899,15 @@ window.NOWDA_DATA = [
     "code": "BPR25072510",
     "name": "제육이다",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 대청로 12",
+    "address": "제주특별자치도 서귀포시 중정로61번길 23 1층",
     "location": "서귀포시",
     "area": "제주",
     "benefit": "전체 비용의 10% 할인",
     "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072510",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2516021,
-    "lon": 126.5011568
+    "note": "카카오맵 주소 확인 (2026-07-20)",
+    "lat": 33.24999098,
+    "lon": 126.56260462
   },
   {
     "id": 195,

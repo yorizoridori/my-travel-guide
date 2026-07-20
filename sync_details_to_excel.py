@@ -55,10 +55,9 @@ def load_images() -> dict[int, dict]:
     return {int(key): value for key, value in json.loads(body).items()}
 
 
-def load_names() -> dict[int, str]:
+def load_data() -> list[dict]:
     text = (GALLERY_DIR / "data.js").read_text(encoding="utf-8")
-    data = json.loads(text.split("=", 1)[1].strip().removesuffix(";"))
-    return {item["id"]: item["name"] for item in data}
+    return json.loads(text.split("=", 1)[1].strip().removesuffix(";"))
 
 
 def hours_text(detail: dict) -> str:
@@ -67,11 +66,16 @@ def hours_text(detail: dict) -> str:
     )
 
 
-def update_workbook(path: Path, details_by_name: dict[str, dict]) -> None:
+def update_workbook(
+    path: Path,
+    details_by_name: dict[str, dict],
+    data_by_name: dict[str, dict],
+) -> None:
     workbook = load_workbook(path)
     sheet = workbook.active
-    if sheet.max_row != 243:
-        raise ValueError(f"{path.name}: 242개 제휴사 행이 아닙니다 ({sheet.max_row - 1}개)")
+    expected_rows = len(data_by_name) + 1
+    if sheet.max_row not in (243, expected_rows):
+        raise ValueError(f"{path.name}: 예상하지 못한 제휴사 행 수입니다 ({sheet.max_row - 1}개)")
 
     headers = {sheet.cell(1, column).value: column for column in range(1, sheet.max_column + 1)}
     header_template = sheet.cell(1, sheet.max_column)
@@ -140,7 +144,44 @@ def update_workbook(path: Path, details_by_name: dict[str, dict]) -> None:
 
     missing = set(details_by_name) - updated_names
     if missing:
-        raise ValueError(f"{path.name}: 업체명을 찾지 못했습니다: {sorted(missing)}")
+        template_row = sheet.max_row
+        for name in sorted(missing, key=lambda value: data_by_name[value]["id"]):
+            item = data_by_name[name]
+            detail = details_by_name[name]
+            row = sheet.max_row + 1
+            for column in range(1, sheet.max_column + 1):
+                source = sheet.cell(template_row, column)
+                target = sheet.cell(row, column)
+                target._style = copy.copy(source._style)
+                target.font = copy.copy(source.font)
+                target.fill = copy.copy(source.fill)
+                target.border = copy.copy(source.border)
+                target.alignment = copy.copy(source.alignment)
+                target.number_format = source.number_format
+            core_values = {
+                "업체명": name,
+                "카테고리": item.get("category", ""),
+                "주소": detail.get("address") or item.get("address", ""),
+                "혜택": item.get("benefit", ""),
+                "상세링크": item.get("sourceUrl", ""),
+                "한줄소개": detail.get("summary", ""),
+                "상세소개": detail.get("description", ""),
+                "운영시간(요일포함)": hours_text(detail),
+                "운영시간 비고": detail.get("hoursNote", ""),
+                "전화번호": detail.get("phone", ""),
+                "상세정보 확인일": detail.get("checkedAt", ""),
+                "상세정보 출처": "\n".join(
+                    value for value in (detail.get("infoSourceLabel"), detail.get("infoSourceUrl")) if value
+                ),
+                "대표사진 URL": detail.get("imageUrl", ""),
+                "대표사진 대체텍스트": detail.get("imageAlt", ""),
+                "대표사진 출처": "\n".join(
+                    value for value in (detail.get("imageSourceLabel"), detail.get("imageSourceUrl")) if value
+                ),
+            }
+            for header, value in core_values.items():
+                if header in headers:
+                    sheet.cell(row, headers[header], value).alignment = Alignment(vertical="top", wrap_text=True)
 
     widths = {
         "한줄소개": 38,
@@ -164,7 +205,7 @@ def update_workbook(path: Path, details_by_name: dict[str, dict]) -> None:
     check = load_workbook(temporary, read_only=True, data_only=True)
     check_sheet = check.active
     check_headers = [check_sheet.cell(1, column).value for column in range(1, check_sheet.max_column + 1)]
-    if check_sheet.max_row != 243 or not all(header in check_headers for header in DETAIL_HEADERS):
+    if check_sheet.max_row != expected_rows or not all(header in check_headers for header in DETAIL_HEADERS):
         check.close()
         temporary.unlink(missing_ok=True)
         raise ValueError(f"{path.name}: 저장 후 검증에 실패했습니다")
@@ -175,7 +216,9 @@ def update_workbook(path: Path, details_by_name: dict[str, dict]) -> None:
 def main() -> None:
     details = load_details()
     images = load_images()
-    names = load_names()
+    data = load_data()
+    names = {item["id"]: item["name"] for item in data}
+    data_by_name = {item["name"]: item for item in data}
     records = {
         item_id: {**image, **details.get(item_id, {})}
         for item_id, image in images.items()
@@ -185,7 +228,7 @@ def main() -> None:
     if not targets:
         raise FileNotFoundError("업데이트할 나우다 엑셀 파일이 없습니다")
     for target in targets:
-        update_workbook(target, details_by_name)
+        update_workbook(target, details_by_name, data_by_name)
         print(f"UPDATED {target.name}: {len(details_by_name)}개 상세정보")
 
 
