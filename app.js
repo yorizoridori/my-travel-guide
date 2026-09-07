@@ -150,7 +150,7 @@ function filteredData() {
 
 function card(item) {
   const detail = DETAILS[item.id];
-  const warning = ["휴업", "확인 필요"].includes(item.status);
+  const warning = ["휴업", "휴관", "폐업", "확인 필요"].includes(item.status);
   const showNote = item.status !== "특이사항 미확인";
   const added = route.includes(item.id);
   return `<article class="card" data-category="${escaped(item.category)}">
@@ -265,7 +265,7 @@ function nearbyFor(source) {
     const rank = groups.findIndex(group => group.includes(category));
     return rank < 0 ? groups.length : rank;
   };
-  return DATA.filter(item => item.id !== source.id && !route.includes(item.id) && item.lat && item.lon && !["휴업", "확인 필요"].includes(item.status))
+  return DATA.filter(item => item.id !== source.id && !route.includes(item.id) && item.lat && item.lon && !["휴업", "휴관", "폐업", "확인 필요"].includes(item.status))
     .map(item => ({...item, distance: distanceKm(source, item)}))
     .sort((a, b) => {
       const bandDifference = distanceBand(a.distance) - distanceBand(b.distance);

@@ -231,6 +231,7 @@ def main() -> None:
             "infoSourceUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_300000000014428",
         },
     }
+    fallback_details = {key: value for key, value in fallback_details.items() if key in {item['id'] for item in missing}}
     details.update(fallback_details)
     missing = [item for item in missing if item["id"] not in fallback_details]
 

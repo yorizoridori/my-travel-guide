@@ -505,7 +505,7 @@ window.NOWDA_IMAGES = {
   },
   "85": {
     "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/김녕리어촌체험휴양마을협의회.webp",
-    "imageAlt": "김녕리어촌체험휴양마을협외회 대표이미지",
+    "imageAlt": "김녕리어촌체험휴양마을협의회 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072940"
   },
@@ -1486,5 +1486,221 @@ window.NOWDA_IMAGES = {
     "imageAlt": "라봉샵 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070741"
+  },
+  "257": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/색달포레스트.webp",
+    "imageAlt": "색달포레스트 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072024"
+  },
+  "258": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/촐파크.webp",
+    "imageAlt": "촐파크 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072031"
+  },
+  "259": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/무지개요트.webp",
+    "imageAlt": "무지개요트 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070742"
+  },
+  "260": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/리버티셀프스튜디오.webp",
+    "imageAlt": "리버티 셀프스튜디오 셀프사진관 동문시장점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607102"
+  },
+  "261": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/제주차농.webp",
+    "imageAlt": "제주차농 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072026"
+  },
+  "262": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/고등어사진관.webp",
+    "imageAlt": "고등어사진관 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072028"
+  },
+  "263": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/카페더플로라화련.webp",
+    "imageAlt": "카페더플로라화련 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072029"
+  },
+  "264": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/흙빚는화가.webp",
+    "imageAlt": "흙빚는화가 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072030"
+  },
+  "265": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/옷귀마테마타운.webp",
+    "imageAlt": "옷귀마테마타운 승마장 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072032"
+  },
+  "266": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/제주돌고래힐링투어.webp",
+    "imageAlt": "제주돌고래힐링투어 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072218"
+  },
+  "267": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/텍사스두마리치킨.webp",
+    "imageAlt": "텍사스두마리치킨연동점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607101"
+  },
+  "268": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/연향주옥.webp",
+    "imageAlt": "연향주옥 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607103"
+  },
+  "269": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/제주육대표.webp",
+    "imageAlt": "제주육대표 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072025"
+  },
+  "270": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/메르헨가든.webp",
+    "imageAlt": "메르헨가든 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072027"
+  },
+  "271": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/세이지룸.webp",
+    "imageAlt": "세이지룸 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073119"
+  },
+  "272": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/제주팜테이블.webp",
+    "imageAlt": "제주팜테이블 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073121"
+  },
+  "273": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/무브멘탈랩&뉴로필라테스.webp",
+    "imageAlt": "무브멘탈랩&뉴로필라테스 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073123"
+  },
+  "274": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/요가베르데원데이클래스.webp",
+    "imageAlt": "요가베르데 원데이클래스 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26080711"
+  },
+  "275": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/조이아워.webp",
+    "imageAlt": "조이아워 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608101"
+  },
+  "276": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/드론파크.webp",
+    "imageAlt": "제주드론파크 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081316"
+  },
+  "277": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/사운드벙커.webp",
+    "imageAlt": "사운드벙커 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608192"
+  },
+  "278": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/올레사진관.webp",
+    "imageAlt": "올레사진관 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608193"
+  },
+  "279": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/뚜띠콜로리뮤제오.webp",
+    "imageAlt": "뚜띠콜로리 뮤제오 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608263"
+  },
+  "280": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/마녀의언덕.webp",
+    "imageAlt": "제주오션뷰카페 마녀의언덕 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607288"
+  },
+  "281": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/라망드제주.webp",
+    "imageAlt": "라망드제주 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073118"
+  },
+  "282": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/제주수울.webp",
+    "imageAlt": "제주수울 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073120"
+  },
+  "283": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/아이갓에브리씽카페오놀점.webp",
+    "imageAlt": "아이갓에브리씽 카페 오놀점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073122"
+  },
+  "284": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/영포에버.webp",
+    "imageAlt": "카페 영포에버 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081317"
+  },
+  "285": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/포빈즈로스터리카페.webp",
+    "imageAlt": "포빈즈 로스터리카페 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081416"
+  },
+  "286": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/도을.webp",
+    "imageAlt": "도을 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082011"
+  },
+  "287": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/중문별장.webp",
+    "imageAlt": "중문별장 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608211"
+  },
+  "288": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/블리스풀.webp",
+    "imageAlt": "블리스풀 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608191"
+  },
+  "289": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/덕이네.webp",
+    "imageAlt": "덕이네 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082127"
+  },
+  "290": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/아우아우.webp",
+    "imageAlt": "아우아우 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082521"
+  },
+  "291": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/글로시말차.webp",
+    "imageAlt": "글로시말차 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608265"
+  },
+  "292": {
+    "imageUrl": "https://www.visitjeju.net/image/nowda/thumb/휠체어투어.webp",
+    "imageAlt": "제주 휠체어투어 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608264"
   }
 };
