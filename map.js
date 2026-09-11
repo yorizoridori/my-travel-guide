@@ -202,20 +202,26 @@
   function setView(view) {
     activeView = view;
     const isMap = view === "map";
-    document.querySelector("#cardGrid").hidden = isMap;
+    const isTheme = view === "theme";
+    const isGallery = view === "gallery";
+    document.querySelector("#cardGrid").hidden = !isGallery;
     document.querySelector("#mapSection").hidden = !isMap;
-    if (isMap) document.querySelector("#loadMore").hidden = true;
-    document.querySelector("#sortOrder").hidden = isMap;
-    document.querySelector("#galleryViewButton").classList.toggle("active", !isMap);
+    document.querySelector("#themeSection").hidden = !isTheme;
+    document.querySelector("#loadMore").hidden = isMap || isTheme;
+    document.querySelector("#sortOrder").hidden = isMap || isTheme;
+    document.querySelector("#galleryViewButton").classList.toggle("active", isGallery);
     document.querySelector("#mapViewButton").classList.toggle("active", isMap);
+    document.querySelector("#themeViewButton").classList.toggle("active", isTheme);
     if (isMap && ready) {
       setTimeout(() => { map.relayout(); applyResults(window.getNowdaFilteredData(), true); }, 30);
     }
-    if (!isMap && window.renderNowdaGallery) window.renderNowdaGallery();
+    if (isGallery && window.renderNowdaGallery) window.renderNowdaGallery();
+    if (isTheme && window.renderNowdaThemes) window.renderNowdaThemes();
   }
 
   document.querySelector("#galleryViewButton").addEventListener("click", () => { setView("gallery"); window.location.hash = "gallery"; });
   document.querySelector("#mapViewButton").addEventListener("click", () => { setView("map"); window.location.hash = "map"; });
+  document.querySelector("#themeViewButton").addEventListener("click", () => { setView("theme"); window.location.hash = "theme"; });
   document.querySelector("#courseListViewButton").addEventListener("click", () => setCourseDrawerView("list"));
   document.querySelector("#courseMapViewButton").addEventListener("click", () => setCourseDrawerView("map"));
   window.addEventListener("nowda:results", event => {
@@ -231,4 +237,5 @@
   });
   loadKakao();
   if (window.location.hash === "#map") setView("map");
+  if (window.location.hash === "#theme") setView("theme");
 })();

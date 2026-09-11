@@ -4,6 +4,7 @@ const IMAGES = window.NOWDA_IMAGES || {};
 const PAGE_SIZE = 24;
 const categories = ["전체", "관광지", "체험/레포츠", "식음료", "쇼핑/소품샵"];
 const categoryOrder = Object.fromEntries(categories.map((name, index) => [name, index]));
+const mainCategoryOrder = { "식음료": 0, "체험": 1, "쇼핑": 2 };
 
 // 자유로운 표현을 제휴사 데이터에 쓰인 말로 연결한다. 이 목록에 없는 단어도
 // 업체명, 주소, 혜택, 소개문에서 그대로 검색되므로 검색어가 제한되지는 않는다.
@@ -69,7 +70,8 @@ function searchProfile(item) {
     category: normalize(item.category),
     location: normalize([item.location, item.area, detail.address || item.address].join(" ")),
     benefit: normalize(item.benefit),
-    description: normalize([detail.summary, detail.description].join(" "))
+    description: normalize([detail.summary, detail.description].join(" ")),
+    tags: normalize((item.tags || []).join(" "))
   };
   fields.all = Object.values(fields).join(" ");
   return fields;
@@ -94,6 +96,7 @@ function scoreSearch(item, parsed) {
   const directTokens = parsed.tokens.filter(token => profile.all.includes(token));
   directTokens.forEach(token => {
     if (profile.name.includes(token)) score += 12;
+    else if (profile.tags.includes(token)) score += 10;
     else if (profile.category.includes(token) || profile.location.includes(token)) score += 8;
     else if (profile.benefit.includes(token)) score += 6;
     else score += 4;
@@ -143,6 +146,13 @@ function filteredData() {
     const left = a.item, right = b.item;
     if (state.sort === "name") return left.name.localeCompare(right.name,"ko");
     if (state.sort === "location") return (left.location+left.area+left.name).localeCompare(right.location+right.area+right.name,"ko");
+    if (state.sort === "subcategory") {
+      const mainDiff = (mainCategoryOrder[left.mainCategory] ?? 9) - (mainCategoryOrder[right.mainCategory] ?? 9);
+      if (mainDiff) return mainDiff;
+      const subDiff = String(left.subCategory || "").localeCompare(String(right.subCategory || ""), "ko");
+      if (subDiff) return subDiff;
+      return left.name.localeCompare(right.name, "ko");
+    }
     return (categoryOrder[left.category] - categoryOrder[right.category]) || left.name.localeCompare(right.name,"ko");
   }).map(({ item, search }) => ({ ...item, _searchReasons: search.reasons }));
   return filtered;
@@ -154,9 +164,10 @@ function card(item) {
   const showNote = item.status !== "특이사항 미확인";
   const added = route.includes(item.id);
   return `<article class="card" data-category="${escaped(item.category)}">
-    <div class="card-top"><div class="card-labels"><span class="category">${escaped(item.category)}</span>${isNewPartner(item) ? '<span class="new-badge">NEW</span>' : ""}</div><span class="status ${warning ? "warning" : ""}">${escaped(item.status)}</span></div>
+    <div class="card-top"><div class="card-labels"><span class="category">${escaped(item.category)}</span>${item.mainCategory ? `<span class="sub-category">${escaped(item.mainCategory)} · ${escaped(item.subCategory)}</span>` : ""}${isNewPartner(item) ? '<span class="new-badge">NEW</span>' : ""}</div><span class="status ${warning ? "warning" : ""}">${escaped(item.status)}</span></div>
     <h3>${escaped(item.name)}</h3>
     <p class="address">${escaped(detail?.address || item.address)}</p>
+    ${item.tags?.length ? `<div class="tag-chips">${item.tags.map(tag => `<button class="tag-chip" data-tag="${escaped(tag)}" type="button">#${escaped(tag)}</button>`).join("")}</div>` : ""}
     ${state.search && item._searchReasons?.length ? `<div class="match-reasons"><span>검색 연결</span>${item._searchReasons.map(reason => `<em>${escaped(reason)}</em>`).join("")}</div>` : ""}
     ${detail ? `<p class="card-summary">${escaped(detail.summary)}</p>` : ""}
     <button class="card-detail" data-detail="${item.id}" type="button">사진·상세 정보 보기 <span>→</span></button>
@@ -173,7 +184,17 @@ function card(item) {
 function render() {
   const results = filteredData();
   const shown = results.slice(0, state.visible);
-  els.grid.innerHTML = shown.map(card).join("");
+  if (state.sort === "subcategory") {
+    let lastGroup = null;
+    els.grid.innerHTML = shown.map(item => {
+      const group = `${item.mainCategory || "미분류"} · ${item.subCategory || "기타"}`;
+      const header = group !== lastGroup ? `<h3 class="group-header">${escaped(group)}</h3>` : "";
+      lastGroup = group;
+      return header + card(item);
+    }).join("");
+  } else {
+    els.grid.innerHTML = shown.map(card).join("");
+  }
   els.count.textContent = results.length.toLocaleString("ko-KR");
   els.empty.hidden = results.length !== 0;
   els.loadMore.hidden = state.visible >= results.length || results.length === 0;
@@ -202,6 +223,150 @@ function toggleRoute(id) {
 window.toggleNowdaRoute = toggleRoute;
 window.getNowdaFilteredData = filteredData;
 window.renderNowdaGallery = render;
+
+let themeMode = "category"; // "category" | "tag"
+let selectedTag = null;
+let selectedCategory = null; // { main, sub }
+
+function buildTagGroups() {
+  const counts = new Map();
+  DATA.forEach(item => {
+    (item.tags || []).forEach(tag => {
+      if (!counts.has(tag)) counts.set(tag, { tag, count: 0, mainCategoryVotes: {} });
+      const entry = counts.get(tag);
+      entry.count += 1;
+      const main = item.mainCategory || "기타";
+      entry.mainCategoryVotes[main] = (entry.mainCategoryVotes[main] || 0) + 1;
+    });
+  });
+  const groups = {};
+  counts.forEach(entry => {
+    const main = Object.entries(entry.mainCategoryVotes).sort((a, b) => b[1] - a[1])[0][0];
+    (groups[main] ||= []).push({ tag: entry.tag, count: entry.count });
+  });
+  Object.values(groups).forEach(list => list.sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag, "ko")));
+  const order = ["식음료", "체험", "쇼핑", "기타"];
+  return order.filter(key => groups[key]?.length).map(key => ({ main: key, tags: groups[key] }));
+}
+
+function buildCategoryGroups() {
+  const groups = {};
+  DATA.forEach(item => {
+    if (!item.mainCategory || !item.subCategory) return;
+    (groups[item.mainCategory] ||= {});
+    groups[item.mainCategory][item.subCategory] = (groups[item.mainCategory][item.subCategory] || 0) + 1;
+  });
+  const order = ["식음료", "체험", "쇼핑"];
+  return order.filter(main => groups[main]).map(main => ({
+    main,
+    subs: Object.entries(groups[main]).map(([sub, count]) => ({ sub, count })).sort((a, b) => b.count - a.count || a.sub.localeCompare(b.sub, "ko"))
+  }));
+}
+
+function renderCategoryGroups() {
+  const groups = buildCategoryGroups();
+  $("#categoryGroups").innerHTML = groups.map(group => `
+    <div class="tree-branch">
+      <div class="tree-root">${escaped(group.main)}</div>
+      <ul class="tree-children">${group.subs.map(({ sub, count }) => {
+        const isActive = selectedCategory && selectedCategory.main === group.main && selectedCategory.sub === sub;
+        const items = isActive ? DATA.filter(item => item.mainCategory === group.main && item.subCategory === sub) : [];
+        return `<li>
+          <button class="tree-item ${isActive ? "active" : ""}" type="button" data-category-main="${escaped(group.main)}" data-category-sub="${escaped(sub)}"><span>${escaped(sub)}</span><strong>${count}</strong></button>
+          ${isActive ? `<ul class="partner-list tree-result">${items.map(partnerRow).join("")}</ul>` : ""}
+        </li>`;
+      }).join("")}</ul>
+    </div>
+  `).join("");
+}
+
+function renderThemeTagCloud() {
+  const groups = buildTagGroups();
+  $("#themeGroups").innerHTML = groups.map(group => `
+    <div class="theme-group">
+      <h3>${escaped(group.main)}</h3>
+      <div class="theme-group-tags">${group.tags.map(({ tag, count }) => `
+        <button class="theme-tag-button ${tag === selectedTag ? "active" : ""}" type="button" data-theme-tag="${escaped(tag)}">${escaped(tag)}<strong>${count}</strong></button>
+      `).join("")}</div>
+    </div>
+  `).join("");
+}
+
+function partnerRow(item) {
+  const tags = item.tags || [];
+  return `<li class="partner-row" data-detail="${item.id}">
+    <span class="partner-name">${escaped(item.name)}</span>
+    <span class="partner-tags">${tags.length ? tags.map(tag => `<button class="tag-chip" data-tag="${escaped(tag)}" type="button">#${escaped(tag)}</button>`).join("") : `<em>태그 없음</em>`}</span>
+  </li>`;
+}
+
+function renderThemeResults() {
+  const container = $("#themeResults");
+  if (!selectedTag) { container.innerHTML = ""; return; }
+  const items = DATA.filter(item => (item.tags || []).includes(selectedTag));
+  const body = !items.length
+    ? `<p class="theme-results-empty">아직 해당하는 제휴사가 없어요.</p>`
+    : `<div class="theme-results-grid">${items.map(card).join("")}</div>`;
+  container.innerHTML = `<div class="theme-results-head"><h3>#${escaped(selectedTag)} · ${items.length.toLocaleString("ko-KR")}곳</h3></div>${body}`;
+}
+
+function selectTheme(tag) {
+  selectedTag = tag === selectedTag ? null : tag;
+  selectedCategory = null;
+  renderCategoryGroups();
+  renderThemeTagCloud();
+  renderThemeResults();
+}
+
+function selectCategory(main, sub) {
+  const same = selectedCategory && selectedCategory.main === main && selectedCategory.sub === sub;
+  selectedCategory = same ? null : { main, sub };
+  selectedTag = null;
+  renderCategoryGroups();
+  renderThemeResults();
+}
+
+function setThemeMode(mode) {
+  themeMode = mode;
+  $("#categoryGroups").hidden = mode !== "category";
+  $("#themeGroups").hidden = mode !== "tag";
+  $("#themeModeCategoryButton").classList.toggle("active", mode === "category");
+  $("#themeModeTagButton").classList.toggle("active", mode === "tag");
+}
+
+$("#themeModeCategoryButton").addEventListener("click", () => setThemeMode("category"));
+$("#themeModeTagButton").addEventListener("click", () => setThemeMode("tag"));
+
+$("#categoryGroups").addEventListener("click", event => {
+  const tag = event.target.closest("[data-tag]");
+  if (tag) { setThemeMode("tag"); selectTheme(tag.dataset.tag); return; }
+  const detail = event.target.closest("[data-detail]");
+  if (detail) { openDetail(Number(detail.dataset.detail)); return; }
+  const button = event.target.closest("[data-category-main]");
+  if (button) selectCategory(button.dataset.categoryMain, button.dataset.categorySub);
+});
+
+$("#themeGroups").addEventListener("click", event => {
+  const button = event.target.closest("[data-theme-tag]");
+  if (button) selectTheme(button.dataset.themeTag);
+});
+
+$("#themeResults").addEventListener("click", event => {
+  const tag = event.target.closest("[data-tag]");
+  if (tag) { setThemeMode("tag"); selectTheme(tag.dataset.tag); return; }
+  const add = event.target.closest("[data-add]");
+  const nearby = event.target.closest("[data-nearby]");
+  const detail = event.target.closest("[data-detail]");
+  if (add) { toggleRoute(Number(add.dataset.add)); return; }
+  if (nearby) { startNearby(Number(nearby.dataset.nearby)); return; }
+  if (detail) openDetail(Number(detail.dataset.detail));
+});
+
+window.renderNowdaThemes = function renderNowdaThemes() {
+  renderCategoryGroups();
+  renderThemeTagCloud();
+  renderThemeResults();
+};
 
 function renderRoute() {
   const items = route.map(id => DATA.find(item => item.id === id)).filter(Boolean);
@@ -381,9 +546,17 @@ els.grid.addEventListener("click", event => {
   const add = event.target.closest("[data-add]");
   const nearby = event.target.closest("[data-nearby]");
   const detail = event.target.closest("[data-detail]");
+  const tag = event.target.closest("[data-tag]");
   if (add) toggleRoute(Number(add.dataset.add));
   if (nearby) startNearby(Number(nearby.dataset.nearby));
   if (detail) openDetail(Number(detail.dataset.detail));
+  if (tag) {
+    els.search.value = tag.dataset.tag;
+    state.search = tag.dataset.tag;
+    state.visible = PAGE_SIZE;
+    render();
+    els.search.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
 });
 $("#detailContent").addEventListener("click", event => {
   const add = event.target.closest("[data-detail-add]");
