@@ -8,11 +8,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509185",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d498604774494201a24c741e48d1e544",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4569963,
-    "lon": 126.7143064,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4573626,
+    "lon": 126.714934,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -21,44 +21,46 @@ window.NOWDA_DATA = [
       "세계자연유산",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "d498604774494201a24c741e48d1e544"
   },
   {
     "id": 2,
     "code": "BPR25072831",
     "name": "건강과 성 박물관",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 감산리 1736",
+    "address": "서귀포시 안덕면 일주서로 1611",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "2,500원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072831",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c39de099577247dcbcb15d732e819bea",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.25472611176,
-    "lon": 126.3455649043,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2548977,
+    "lon": 126.346723,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "박물관",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "c39de099577247dcbcb15d732e819bea"
   },
   {
     "id": 3,
     "code": "BPR25072828",
     "name": "고흐의 정원",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-5",
+    "address": "서귀포시 성산읍 삼달신풍로 126-5",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 성인 4,000원 / 청소년 2,500원 / 소인 1,500원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072828",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=02350a98c5594d0abdce899f55415a54",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.373409463298,
-    "lon": 126.84408648644,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.373388,
+    "lon": 126.844068,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -67,7 +69,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "02350a98c5594d0abdce899f55415a54"
   },
   {
     "id": 4,
@@ -78,11 +81,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509188",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0b0ba5f5034f4e7f891601d2a55187e6",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4373391,
-    "lon": 126.6668484,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4415727,
+    "lon": 126.6605408,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -90,22 +93,23 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "0b0ba5f5034f4e7f891601d2a55187e6"
   },
   {
     "id": 5,
     "code": "BPR2605278",
     "name": "그리스신화박물관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한림읍 금악리 산 30-12",
+    "address": "제주특별자치도 제주시 한림읍 광산로 942 (한림읍, 그리스신화박물관)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "도민할인가 적용",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2605278",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0903d6c1c0bf490693eaccf4986cb36b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.348011135139,
-    "lon": 126.35672298669,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3477344,
+    "lon": 126.3576354,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -113,7 +117,8 @@ window.NOWDA_DATA = [
       "신화·전설",
       "체험"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "0903d6c1c0bf490693eaccf4986cb36b"
   },
   {
     "id": 6,
@@ -124,11 +129,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091812",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9fa222023a224e918766d24a0a940340",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2446073,
-    "lon": 126.5517635,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.244848,
+    "lon": 126.5511787,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -136,7 +141,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "9fa222023a224e918766d24a0a940340"
   },
   {
     "id": 7,
@@ -147,11 +153,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "고양이왕국 미로코인 1냥",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072520",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=815e3afe5cb6447aaf2b45dad27112fa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5365838,
-    "lon": 126.7723967,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5362945,
+    "lon": 126.7720257,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -159,22 +165,23 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "815e3afe5cb6447aaf2b45dad27112fa"
   },
   {
     "id": 8,
     "code": "BPR25121666",
     "name": "김택화미술관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 조천읍 신흥로 1",
+    "address": "제주 제주시 조천읍 신흥로 1",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "입장권 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25121666",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a2df63ae7e3a4b3088a24115a5140c91",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.543757471079,
-    "lon": 126.65317859801,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5437156,
+    "lon": 126.6531424,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -182,7 +189,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "a2df63ae7e3a4b3088a24115a5140c91"
   },
   {
     "id": 9,
@@ -193,11 +201,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091813",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=df1c4236b0fd4d1d8b880f4a7a5e0fd6",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4448954,
-    "lon": 126.6256807,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4450253,
+    "lon": 126.6255746,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -205,44 +213,46 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "df1c4236b0fd4d1d8b880f4a7a5e0fd6"
   },
   {
     "id": 10,
     "code": "BPR25072927",
     "name": "노형슈퍼마켙",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 노형로 89",
+    "address": "제주시 노형로 89",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "입장권 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072927",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e3c9deddbb1a48329540151583931751",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.464942342182,
-    "lon": 126.45516848665,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4649797,
+    "lon": 126.4552065,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
       "미디어아트",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "e3c9deddbb1a48329540151583931751"
   },
   {
     "id": 11,
     "code": "BPR25072878",
     "name": "더마파크",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한림읍 월림7길 155",
+    "address": "제주시 한림읍 월림 7길 155",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "공연, 승마, 카트 모두 정상가 요금의 50% 할인 우대",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072878",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=596d58c7cb1e45c9884d5d4e2c6bdfbb",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.355538747913,
-    "lon": 126.24150483728,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3549226,
+    "lon": 126.2430803,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -252,7 +262,8 @@ window.NOWDA_DATA = [
       "공연",
       "체험"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "596d58c7cb1e45c9884d5d4e2c6bdfbb"
   },
   {
     "id": 12,
@@ -262,42 +273,20 @@ window.NOWDA_DATA = [
     "address": "서귀포시 중문관광로 42",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "입장권 15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072841",
+    "benefit": "1단계 입장권 15% 할인 / 2단계 입장권 20% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0e0ee9049a384939a105bc3caff96d4c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254854,
-    "lon": 126.4092614,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.254806,
+    "lon": 126.40893,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
       "레포츠",
       "체험"
     ],
-    "eupmyeon": null
-  },
-  {
-    "id": 13,
-    "code": "BPR2507282",
-    "name": "루나폴",
-    "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 일주서로 1836",
-    "location": "서귀포시",
-    "area": "서귀서부",
-    "benefit": "입장권 15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507282",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2574551,
-    "lon": 126.3225226,
-    "mainCategory": "체험",
-    "subCategory": "디지털",
-    "tags": [
-      "미디어아트",
-      "테마파크",
-      "체험"
-    ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": null,
+    "partnerId": "0e0ee9049a384939a105bc3caff96d4c"
   },
   {
     "id": 14,
@@ -308,18 +297,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "마라도 10%할인, 가파도 17% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508252",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3fbafac77a3b4b36bba7fce2dc12ba50",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2105452,
-    "lon": 126.2576053,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2100651,
+    "lon": 126.2583796,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
       "바다",
       "체험"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "3fbafac77a3b4b36bba7fce2dc12ba50"
   },
   {
     "id": 15,
@@ -330,11 +320,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091814",
-    "status": "운영 안내 확인",
-    "note": "2026년 5월 30일 재개방했습니다. 과거 낙석에 따른 폐쇄 기사는 현재 휴관 근거로 적용하지 않았습니다. (2026-09-07 검토)",
-    "lat": 33.5281972,
-    "lon": 126.7717618,
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9ba32b58cf5a401fb1048e7375292c06",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5282731,
+    "lon": 126.7699229,
     "operationReview": {
       "checkedAt": "2026-09-07",
       "verdict": "재개방 확인",
@@ -357,22 +347,23 @@ window.NOWDA_DATA = [
       "세계자연유산",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "9ba32b58cf5a401fb1048e7375292c06"
   },
   {
     "id": 16,
     "code": "BPR25091815",
     "name": "민속자연사박물관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 삼성로 40",
+    "address": "제주 제주시 삼성로 40",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091815",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b987f775815493cbb95b060ef2621b5",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5063429,
-    "lon": 126.5315162,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.506392,
+    "lon": 126.5313379,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -380,7 +371,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "4b987f775815493cbb95b060ef2621b5"
   },
   {
     "id": 17,
@@ -390,12 +382,12 @@ window.NOWDA_DATA = [
     "address": "서귀포시 중문관광로 42",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "입장권 5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072839",
+    "benefit": "1단계 입장권 5% 할인 / 2단계 입장권 10% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bfb0fa2f5a234e80a68d55161bbcff8e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254854,
-    "lon": 126.4092614,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.254806,
+    "lon": 126.40893,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
@@ -404,22 +396,23 @@ window.NOWDA_DATA = [
       "중문",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "bfb0fa2f5a234e80a68d55161bbcff8e"
   },
   {
     "id": 18,
     "code": "BPR2604242",
     "name": "베니스랜드",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 성산읍 서성일로 474",
+    "address": "제주특별자치도 서귀포시 성산읍 난산리 2570",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "결제금액 10%할인 (중복할인 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2604242",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bd3350d90e4f4ac9907d5b247b160242",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4161941,
-    "lon": 126.8409061,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4187063,
+    "lon": 126.8530364,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -427,22 +420,23 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "bd3350d90e4f4ac9907d5b247b160242"
   },
   {
     "id": 19,
     "code": "BPR25082914",
     "name": "본태박물관",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 산록남로762번길 69",
+    "address": "제주 서귀포시 안덕면 산록남로 762번길 69",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "통합관람권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25082914",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=86effbc43c7245278838a2fe5c13aa70",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.303954807155,
-    "lon": 126.39256825882,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3038491,
+    "lon": 126.3921862,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -450,7 +444,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "86effbc43c7245278838a2fe5c13aa70"
   },
   {
     "id": 20,
@@ -461,11 +456,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091816",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b540c2797b95404aa8e1347eb2854a39",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3956632,
-    "lon": 126.6709854,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4017938,
+    "lon": 126.6753474,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -473,7 +468,8 @@ window.NOWDA_DATA = [
       "산책",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "b540c2797b95404aa8e1347eb2854a39"
   },
   {
     "id": 21,
@@ -484,9 +480,9 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606115",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=42f7f7d57b9241869007df988f17e063",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.3028885,
     "lon": 126.3181117,
     "mainCategory": "체험",
@@ -495,22 +491,23 @@ window.NOWDA_DATA = [
       "방탈출",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "42f7f7d57b9241869007df988f17e063"
   },
   {
     "id": 22,
     "code": "BPR2509191",
     "name": "비자림",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 구좌읍 비자숲길 55",
+    "address": "제주 제주시 구좌읍 비자숲길 55",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509191",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fda23d61e8fc43a0a3aab8a5880bc93c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.491097282,
-    "lon": 126.81146120569,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4843445,
+    "lon": 126.8066615,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -518,22 +515,23 @@ window.NOWDA_DATA = [
       "산책",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "fda23d61e8fc43a0a3aab8a5880bc93c"
   },
   {
     "id": 23,
     "code": "BPR26052812",
     "name": "비체올린",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한경면 판조로 253-6",
+    "address": "제주 제주시 한경면 판조로 253-6",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "입장 전옵션 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26052812",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=881fa76470414a699af8ec750e65b975",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.349447686115,
-    "lon": 126.21819077781,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3493592,
+    "lon": 126.21787,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -542,7 +540,8 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "881fa76470414a699af8ec750e65b975"
   },
   {
     "id": 24,
@@ -553,18 +552,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509192",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2b709a2037124343950083544e2a7d20",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.236226,
-    "lon": 126.3117824,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.241563,
+    "lon": 126.3133694,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "오름",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "2b709a2037124343950083544e2a7d20"
   },
   {
     "id": 25,
@@ -575,11 +575,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 1,000원 할인 (성/청/소 동일)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2603264",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50660479ddf94684a327f8a3fb5b8046",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.367665721924,
-    "lon": 126.86547292674,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.368865,
+    "lon": 126.8659698,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -587,7 +587,8 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "50660479ddf94684a327f8a3fb5b8046"
   },
   {
     "id": 26,
@@ -598,33 +599,34 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "관람료 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25090319",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=51d8818ec481419398815dd656f975a1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5099581,
-    "lon": 126.5336436,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5042849,
+    "lon": 126.5289078,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "역사유적",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "51d8818ec481419398815dd656f975a1"
   },
   {
     "id": 27,
     "code": "BPR25072919",
     "name": "상가리야자숲",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 애월읍 고하상로 326",
+    "address": "제주 제주시 애월읍 고하상로 326",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "입장권 5~10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072919",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a9b64a155b904ba0be5621ca3a5e53cd",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4392094,
-    "lon": 126.358287,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4394444,
+    "lon": 126.3584815,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -632,22 +634,23 @@ window.NOWDA_DATA = [
       "정원",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "a9b64a155b904ba0be5621ca3a5e53cd"
   },
   {
     "id": 28,
     "code": "BPR25072926",
     "name": "상효원",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 상효동 산 25",
+    "address": "서귀포시 산록남로 2847-37",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "입장권 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072926",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5f9fced587b84fc1a71004bc1b3eab27",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.306700640486,
-    "lon": 126.58527048925,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3060089,
+    "lon": 126.5846818,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -656,44 +659,46 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "5f9fced587b84fc1a71004bc1b3eab27"
   },
   {
     "id": 29,
     "code": "BPR25072930",
     "name": "생각하는정원",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한경면 녹차분재로 675",
+    "address": "제주시 한경면 녹차분재로 675",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "관람 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072930",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a45cbad2d28f489a927bda180260f20c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.325584494523,
-    "lon": 126.25500512883,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.325318,
+    "lon": 126.2548492,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "정원",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "a45cbad2d28f489a927bda180260f20c"
   },
   {
     "id": 30,
     "code": "BPR2509193",
     "name": "서귀포 치유의 숲",
     "category": "관광지",
-    "address": "제주 서귀포시  산록남로 2271",
+    "address": "제주 서귀포시 산록남로 2271",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509193",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dedc1dc3737a4632ad405110ba5439f0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3025489,
-    "lon": 126.5245747,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2919692,
+    "lon": 126.5279216,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -701,7 +706,8 @@ window.NOWDA_DATA = [
       "힐링",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "dedc1dc3737a4632ad405110ba5439f0"
   },
   {
     "id": 31,
@@ -712,11 +718,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509199",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6bcb9378e1a34dc1aa9b5ac525c21650",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2712798,
-    "lon": 126.6076749,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2716169,
+    "lon": 126.6073619,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
@@ -725,7 +731,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6bcb9378e1a34dc1aa9b5ac525c21650"
   },
   {
     "id": 32,
@@ -736,55 +743,57 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509194",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5986cce0cebc432daaf227528f0d9646",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2879365,
-    "lon": 126.4613039,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2888491,
+    "lon": 126.4603583,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "5986cce0cebc432daaf227528f0d9646"
   },
   {
     "id": 33,
     "code": "BPR250728103",
     "name": "서프라이즈테마파크",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 조천읍 남조로 2243",
+    "address": "제주시 조천읍 남조로 2243",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "입장권 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR250728103",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f8fb143ec4d42b783150d8c9b47c65b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.465179520171,
-    "lon": 126.6595999538,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4651914,
+    "lon": 126.6596074,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "전시",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "6f8fb143ec4d42b783150d8c9b47c65b"
   },
   {
     "id": 34,
     "code": "BPR2603118",
     "name": "선녀와나무꾼",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 조천읍 선교로 267",
+    "address": "제주시 조천읍 선교로 267",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "입장권 10,000원 (성/청/소 동일)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2603118",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0386baf633d1477593409463dda6302c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4790107,
-    "lon": 126.7034736,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4796076,
+    "lon": 126.7026773,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -792,22 +801,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "0386baf633d1477593409463dda6302c"
   },
   {
     "id": 35,
     "code": "BPR2509195",
     "name": "성산일출봉",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 성산읍 일출로 284-12",
+    "address": "제주 서귀포시 성산읍 성산리 1",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509195",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8acc4bde89644ee9b5569d32b0ca8a66",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.462233758483,
-    "lon": 126.93680068996,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4588827,
+    "lon": 126.9408234,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -815,7 +825,8 @@ window.NOWDA_DATA = [
       "해안절경",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "8acc4bde89644ee9b5569d32b0ca8a66"
   },
   {
     "id": 36,
@@ -826,11 +837,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "입장료 성인 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508205",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3e402f7c36aa480a870de61de3b404af",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.28166,
-    "lon": 126.3312397,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2820357,
+    "lon": 126.331768,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -839,22 +850,23 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "3e402f7c36aa480a870de61de3b404af"
   },
   {
     "id": 37,
     "code": "BPR25072890",
     "name": "쇠소깍산물관광농원",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 남원읍 하례로 90",
+    "address": "서귀포시 남원읍 하례로 90",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 3,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072890",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c63e6baa57684780a2c2500965037a14",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.257872269998,
-    "lon": 126.62470546122,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2578721,
+    "lon": 126.6247053,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -863,22 +875,23 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "c63e6baa57684780a2c2500965037a14"
   },
   {
     "id": 38,
     "code": "BPR26031722",
     "name": "스누피가든",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 구좌읍 금백조로 916",
+    "address": "제주 제주시 구좌읍 금백조로 930",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "입장권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26031722",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6ac62519804a41d38a775da625f242d3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.443448988108,
-    "lon": 126.77969921726,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4441306,
+    "lon": 126.7781683,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -887,22 +900,23 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "6ac62519804a41d38a775da625f242d3"
   },
   {
     "id": 39,
     "code": "BPR26070621",
     "name": "아르떼뮤지엄",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 애월읍 어림비로 478",
+    "address": "제주특별자치도 제주시 애월읍 어림비로 478 (애월읍, 아르떼뮤지엄)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "20% 할인 제공 (정상가 기준)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070621",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ae0a05f8ee0644a0a5950c1e20151ca7",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.39669804346,
-    "lon": 126.34497590284,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3964708,
+    "lon": 126.3446147,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
@@ -910,22 +924,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "ae0a05f8ee0644a0a5950c1e20151ca7"
   },
   {
     "id": 40,
     "code": "BPR25072813",
     "name": "아이바가든",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 애월읍 고성남서길 10",
+    "address": "제주시 애월읍 고성남서길 10",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "입장권 2,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072813",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7b36f298842547fcb13eb0db95152dba",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.433393513007,
-    "lon": 126.42202224318,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4339332,
+    "lon": 126.4215301,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
@@ -933,22 +948,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "7b36f298842547fcb13eb0db95152dba"
   },
   {
     "id": 41,
     "code": "BPR25072814",
     "name": "에코랜드 테마파크",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 조천읍 번영로 1278-169",
+    "address": "제주시 조천읍 번영로 1278-169",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "입장권 3,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072814",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a76db8cc111e4f9f89ec2114a8421b71",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.45534851446,
-    "lon": 126.66885276552,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4470257,
+    "lon": 126.667399,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -957,7 +973,8 @@ window.NOWDA_DATA = [
       "테마파크",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "a76db8cc111e4f9f89ec2114a8421b71"
   },
   {
     "id": 42,
@@ -968,18 +985,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509196",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3a90815909764e66abdee26df430a067",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2334813,
-    "lon": 126.3146307,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2314515,
+    "lon": 126.3149602,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "해안절경",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "3a90815909764e66abdee26df430a067"
   },
   {
     "id": 43,
@@ -990,11 +1008,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "우도",
     "benefit": "입장권 30%할인(+무료 아메리카노 제공)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26021913",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cfde71b24dcb426b9ee2ea4a5ff51fab",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4932337,
-    "lon": 126.9561537,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4931581,
+    "lon": 126.9557378,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1002,29 +1020,31 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "우도면",
+    "partnerId": "cfde71b24dcb426b9ee2ea4a5ff51fab"
   },
   {
     "id": 44,
     "code": "BPR2507283",
     "name": "워터월드 제주",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 월드컵로 33",
+    "address": "서귀포시 월드컵로 33",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "입장권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507283",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e99f461af42a463bb51be3107f926b28",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2461852,
-    "lon": 126.5093244,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.245346,
+    "lon": 126.5087052,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
       "미디어아트",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "e99f461af42a463bb51be3107f926b28"
   },
   {
     "id": 45,
@@ -1035,11 +1055,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509197",
-    "status": "휴관",
-    "note": "본관은 시설확충 공사로 휴관 중이며 2027년 재개관 예정입니다. 인근 이중섭 전시공간은 별도로 운영됩니다. (2026-09-07 검토)",
-    "lat": 33.2458718,
-    "lon": 126.5649209,
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d3fdc7e3eb844633a917902f4ef2729f",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.245156,
+    "lon": 126.5644857,
     "operationReview": {
       "checkedAt": "2026-09-07",
       "verdict": "본관 휴관 확인",
@@ -1066,22 +1086,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "d3fdc7e3eb844633a917902f4ef2729f"
   },
   {
     "id": 46,
     "code": "BPR25072816",
     "name": "일출랜드",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 성산읍 중산간동로 4150-30",
+    "address": "서귀포시 성산읍 중산간동로 1450-30",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 25% 할인, 동백족욕체험 50% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072816",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7db8f55ac3aa457d982926cba74e37b0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3822761,
-    "lon": 126.8418303,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3832875,
+    "lon": 126.8415363,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1089,7 +1110,8 @@ window.NOWDA_DATA = [
       "테마파크",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "7db8f55ac3aa457d982926cba74e37b0"
   },
   {
     "id": 47,
@@ -1100,11 +1122,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "25% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072923",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=42348dbf6c5441c684a92f0aa8ee9fb1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4631364,
-    "lon": 126.5709261,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4627949,
+    "lon": 126.5711875,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
@@ -1113,22 +1135,23 @@ window.NOWDA_DATA = [
       "힐링",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "42348dbf6c5441c684a92f0aa8ee9fb1"
   },
   {
     "id": 48,
     "code": "BPR2509198",
     "name": "정방폭포",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 칠십리로214번길 37",
+    "address": "제주 서귀포시 칠십리로 214번길 37",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509198",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3de3e11830064d6593336460a61bb0b3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.244747952884,
-    "lon": 126.57305013032,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2448813,
+    "lon": 126.5715834,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1136,22 +1159,23 @@ window.NOWDA_DATA = [
       "해안절경",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "3de3e11830064d6593336460a61bb0b3"
   },
   {
     "id": 49,
     "code": "BPR25091910",
     "name": "제주도립김창열미술관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한림읍 용금로 883-5",
+    "address": "제주 제주시 한림읍 용금로 883-5",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091910",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d29fedc3932e4d94b418b816e28df258",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3391085,
-    "lon": 126.2687552,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3390713,
+    "lon": 126.2686718,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1159,22 +1183,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "d29fedc3932e4d94b418b816e28df258"
   },
   {
     "id": 50,
     "code": "BPR25091911",
     "name": "제주도립미술관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 1100로 2894-78",
+    "address": "제주 제주시 1100로 2894-78",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091911",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bb11e4411175409897cc245098a788c1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4525957,
-    "lon": 126.4896313,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.452549,
+    "lon": 126.4895814,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1183,22 +1208,23 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "bb11e4411175409897cc245098a788c1"
   },
   {
     "id": 51,
     "code": "BPR25091912",
     "name": "제주돌문화공원",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 조천읍 남조로 2023",
+    "address": "제주 제주시 남조로 2023",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091912",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cdd9483e7aac4a51848b3150d3d61468",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4373391,
-    "lon": 126.6668484,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4488381,
+    "lon": 126.6610153,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1206,22 +1232,23 @@ window.NOWDA_DATA = [
       "신화·전설",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "cdd9483e7aac4a51848b3150d3d61468"
   },
   {
     "id": 52,
     "code": "BPR26052811",
     "name": "제주러브랜드",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 연동 680-26",
+    "address": "제주시 1100로 2894-72",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "10,000원 결제 후 이용 가능 (5,000원 할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26052811",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bf26b62e95f46b1897d41d4ff26a9b9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.451714251315,
-    "lon": 126.49017132747,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4517135,
+    "lon": 126.4901715,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1229,7 +1256,8 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "7bf26b62e95f46b1897d41d4ff26a9b9"
   },
   {
     "id": 53,
@@ -1240,40 +1268,42 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091913",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3af59ec2c6304f619830a726796a6183",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5138664,
-    "lon": 126.5217134,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5140021,
+    "lon": 126.5218052,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "역사유적",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "3af59ec2c6304f619830a726796a6183"
   },
   {
     "id": 54,
     "code": "BPR26031721",
     "name": "제주민속촌",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 표선면 민속해안로 631-34",
+    "address": "제주 서귀포시 표선면 민속해안로 631-34",
     "location": "서귀포시",
     "area": "서귀동부",
-    "benefit": "입장권 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26031721",
+    "benefit": "1단계 입장권 20% 할인 / 2단계 입장권 30% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=23157b8692914aa4862fe339925fa64c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.321287140931,
-    "lon": 126.84308821321,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.324438,
+    "lon": 126.8421323,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "역사유적",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "23157b8692914aa4862fe339925fa64c"
   },
   {
     "id": 55,
@@ -1284,40 +1314,42 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091914",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=629a3d8d57684d22be63f81fd9dde466",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4451439,
-    "lon": 126.5492347,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4452744,
+    "lon": 126.5494616,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "629a3d8d57684d22be63f81fd9dde466"
   },
   {
     "id": 56,
     "code": "BPR25072921",
     "name": "제주불빛정원",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 애월읍 평화로 2346",
+    "address": "제주시 애월읍 평화로 2346",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "성인 19%, 청소년/소인 23%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072921",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3549165c7ed94653a6e68910ae52cf40",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.422597848284,
-    "lon": 126.40896543389,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4223047,
+    "lon": 126.4092007,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
       "정원",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "3549165c7ed94653a6e68910ae52cf40"
   },
   {
     "id": 57,
@@ -1328,11 +1360,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091915",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=846d6c4403974633ac260abd9bc99d5a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4569963,
-    "lon": 126.7143064,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4568773,
+    "lon": 126.71428,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1341,22 +1373,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "846d6c4403974633ac260abd9bc99d5a"
   },
   {
     "id": 58,
     "code": "BPR25072894",
     "name": "제주아리랑 혼 (더케이쇼)",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 표선면 번영로 2564-21",
+    "address": "서귀포시 선면 번영로 2564-21",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "성인 3,000원 / 청소년 5,000원 / 소인 6,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072894",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=23afd2aa41cd4a11bbe90b8b73e3209c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.402698444164,
-    "lon": 126.77864567282,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4027196,
+    "lon": 126.7786294,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
@@ -1364,22 +1397,23 @@ window.NOWDA_DATA = [
       "신화·전설",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "23afd2aa41cd4a11bbe90b8b73e3209c"
   },
   {
     "id": 59,
     "code": "BPR25072870",
     "name": "제주항공우주박물관",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 218",
+    "address": "서귀포시 안덕면 녹차분재로 218",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "1인 1,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072870",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ca64b998af6c4fcba84bf4c54d0e7715",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.304207403858,
-    "lon": 126.29966150128,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3043417,
+    "lon": 126.2996188,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1387,7 +1421,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "ca64b998af6c4fcba84bf4c54d0e7715"
   },
   {
     "id": 60,
@@ -1398,11 +1433,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091916",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2a5f9b8c1e5744f6a85028032d499814",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5226733,
-    "lon": 126.8643163,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5235989,
+    "lon": 126.8633983,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1410,7 +1445,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "2a5f9b8c1e5744f6a85028032d499814"
   },
   {
     "id": 61,
@@ -1421,11 +1457,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "입장권 성인 2,000원, 청소년 1,000원 할인 적용",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26040933",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d21279167a2a4955a8855f5b42e3745d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.24025015175,
-    "lon": 126.43411012533,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2402778,
+    "lon": 126.4341667,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1433,22 +1469,23 @@ window.NOWDA_DATA = [
       "캐릭터",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "d21279167a2a4955a8855f5b42e3745d"
   },
   {
     "id": 62,
     "code": "BPR25091917",
     "name": "중문·대포해안 주상절리대",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 이어도로 36-24",
+    "address": "제주 서귀포시 이어도로 36-34",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091917",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=eb96744007ca43dba70db14b61e90847",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.238903642256,
-    "lon": 126.42648670052,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2389015,
+    "lon": 126.4264613,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1456,7 +1493,8 @@ window.NOWDA_DATA = [
       "중문",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "eb96744007ca43dba70db14b61e90847"
   },
   {
     "id": 63,
@@ -1467,11 +1505,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091918",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dffccb78b9fb4d09b7b6c2a96a8ac86f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2522307,
-    "lon": 126.4183698,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2514587,
+    "lon": 126.4172831,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1479,22 +1517,23 @@ window.NOWDA_DATA = [
       "중문",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "dffccb78b9fb4d09b7b6c2a96a8ac86f"
   },
   {
     "id": 64,
     "code": "BPR25091919",
     "name": "천지연폭포",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 남성중로 2-9",
+    "address": "제주 서귀포시 천지동 666-2",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "LEVEL 2 이상 전액 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091919",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=47c4b147e1944a788aa21dcd6057d49a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.243838112237,
-    "lon": 126.55983150786,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2469679,
+    "lon": 126.5544249,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1502,44 +1541,46 @@ window.NOWDA_DATA = [
       "산책",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "47c4b147e1944a788aa21dcd6057d49a"
   },
   {
     "id": 65,
     "code": "BPR2509021",
     "name": "카멜리아힐",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 병악로 166",
+    "address": "제주 서귀포시 안덕면 병악로 166",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "입장권 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509021",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aa31cc1df26946f3a85a03d222f734c3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.290140185764,
-    "lon": 126.3683652252,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2901401,
+    "lon": 126.3683651,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "정원",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "aa31cc1df26946f3a85a03d222f734c3"
   },
   {
     "id": 66,
     "code": "BPR25072443",
     "name": "파더스가든",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 병악로 44-33",
+    "address": "서귀포시 안덕면 병악로 44-33",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "입장권 50% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072443",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1b4e1c40b4e24427bd726531e370a533",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.280125106637,
-    "lon": 126.36474711985,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2801485,
+    "lon": 126.3657648,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
@@ -1548,22 +1589,23 @@ window.NOWDA_DATA = [
       "동물",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "1b4e1c40b4e24427bd726531e370a533"
   },
   {
     "id": 67,
     "code": "BPR25072910",
     "name": "편백포레스트",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 남원읍 한남리 산 18",
+    "address": "서귀포시 남원읍 서성로 544-97",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "ATV 전 코스 10,000원 할인 (ATV 이용 시 입장료 무료)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072910",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0fba42c2a8f64a6c84627f909d97ca02",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.317548896521,
-    "lon": 126.65986272946,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3174795,
+    "lon": 126.65969,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -1573,22 +1615,23 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "0fba42c2a8f64a6c84627f909d97ca02"
   },
   {
     "id": 68,
     "code": "BPR25072842",
     "name": "피규어뮤지엄제주",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 안덕면 상창리 1875-8",
+    "address": "서귀포시 안덕면 한창로 243",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "입장권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072842",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cc5bae4d398741639de7b3fb65ee03af",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.281922223642,
-    "lon": 126.35550303861,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2819847,
+    "lon": 126.3553971,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1596,22 +1639,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "cc5bae4d398741639de7b3fb65ee03af"
   },
   {
     "id": 69,
     "code": "BPR25072880",
     "name": "하리보해피월드",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 아연로 444-1",
+    "address": "제주시 아연로 444-1",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "입장권 1인 3,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072880",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c17393af3393436f842596051ac0b577",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4739518,
-    "lon": 126.52873,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4738816,
+    "lon": 126.5287704,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1620,7 +1664,8 @@ window.NOWDA_DATA = [
       "포토존",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "c17393af3393436f842596051ac0b577"
   },
   {
     "id": 70,
@@ -1630,34 +1675,35 @@ window.NOWDA_DATA = [
     "address": "제주특별자치도 서귀포시 중문관광로 42",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "5%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606087",
+    "benefit": "1단계 5%할인 / 2단계 10%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6fbd401b3869406da5e275afe5ad4443",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254854,
-    "lon": 126.4092614,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2549,
+    "lon": 126.4088,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
       "방탈출",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6fbd401b3869406da5e275afe5ad4443"
   },
   {
     "id": 71,
     "code": "BPR25072872",
     "name": "한라디지털아트뮤지엄",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한라대학로 38",
+    "address": "제주시 한라대학로 38 한라컨벤션 로비층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "관람료 20%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072872",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50678ebf4484495fab48b87961c251e3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4773741,
-    "lon": 126.4746605,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4782323,
+    "lon": 126.4745199,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
@@ -1665,7 +1711,8 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "50678ebf4484495fab48b87961c251e3"
   },
   {
     "id": 72,
@@ -1676,33 +1723,34 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "카페 이용 시 입장료 무료",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25082913",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1d68cb842fa84d779f9b46525296daad",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3971294,
-    "lon": 126.2502641,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3969606,
+    "lon": 126.2498438,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "정원",
       "체험"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "1d68cb842fa84d779f9b46525296daad"
   },
   {
     "id": 73,
     "code": "BPR25091920",
     "name": "현대미술관",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 한경면 저지14길 35",
+    "address": "제주 제주시 한경면 저지 14길 35",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "LEVEL 2 이상 50% 감면",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091920",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2e2428523484a29af795ef3f828179b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.339892,
-    "lon": 126.2656119,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3399653,
+    "lon": 126.2658374,
     "mainCategory": "체험",
     "subCategory": "전시",
     "tags": [
@@ -1710,22 +1758,23 @@ window.NOWDA_DATA = [
       "전시",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "e2e2428523484a29af795ef3f828179b"
   },
   {
     "id": 74,
     "code": "BPR25072817",
     "name": "화조원",
     "category": "관광지",
-    "address": "제주특별자치도 제주시 애월읍 애원로 804",
+    "address": "제주시 애월읍 애원로 804",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "입장권 15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072817",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cac61cbe37a248a596d5495b59cd2c31",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.411308045711,
-    "lon": 126.37200529162,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4109687,
+    "lon": 126.3718941,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1733,7 +1782,8 @@ window.NOWDA_DATA = [
       "테마파크",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "cac61cbe37a248a596d5495b59cd2c31"
   },
   {
     "id": 75,
@@ -1744,11 +1794,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "환상숲 입장시 담양족욕카페 내 음료 및 물건 10% 할인(기존 할인상품 중복할인 불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072932",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7fdaa0bb82e44b69983e08ac84292c9d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3229494,
-    "lon": 126.263523,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3228291,
+    "lon": 126.2632257,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -1757,44 +1807,46 @@ window.NOWDA_DATA = [
       "족욕",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "7fdaa0bb82e44b69983e08ac84292c9d"
   },
   {
     "id": 76,
     "code": "BPR25072843",
     "name": "휴애리자연생활공원",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 남원읍 신례동로 256",
+    "address": "제주특별자치도서귀포시 남원읍 신례동로 256",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072843",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a34e96fdba57417aaf43d0cc44ec10d1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.308534752575,
-    "lon": 126.63438083206,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.308545,
+    "lon": 126.634409,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "정원",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "a34e96fdba57417aaf43d0cc44ec10d1"
   },
   {
     "id": 77,
     "code": "BPR2509083",
     "name": "9.81파크",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 천덕로 880-24",
+    "address": "제주 제주시 애월읍 천덕로 880-24",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "스포츠랩 1회권 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509083",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f83f8b8fdfbc44cabc0093650b285740",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3899391,
-    "lon": 126.3663248,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3900368,
+    "lon": 126.3665089,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -1803,22 +1855,23 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "f83f8b8fdfbc44cabc0093650b285740"
   },
   {
     "id": 78,
     "code": "BPR25072826",
     "name": "WE호텔 제주 메디웰센터",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 1100로 453-95",
+    "address": "제주 서귀포시 1100로 453-95 2F WE병원, 메디컬스파센터",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072826",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c17c667be65142e5ad6cd4122a57a2c1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2861489,
-    "lon": 126.4444554,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2860122,
+    "lon": 126.4441678,
     "mainCategory": "체험",
     "subCategory": "웰니스",
     "tags": [
@@ -1826,29 +1879,31 @@ window.NOWDA_DATA = [
       "체험",
       "한라산뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "c17c667be65142e5ad6cd4122a57a2c1"
   },
   {
     "id": 79,
     "code": "BPR2508049",
     "name": "WE호텔제주 웰니스 센터",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 1100로 453-95",
+    "address": "제주 서귀포시 1100로 453-95 1층 웰니스 센터",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508049",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=608b9d850c1048fca2e91bd1cbc77eea",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2861489,
-    "lon": 126.4444554,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2857028,
+    "lon": 126.4445111,
     "mainCategory": "체험",
     "subCategory": "웰니스",
     "tags": [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "608b9d850c1048fca2e91bd1cbc77eea"
   },
   {
     "id": 80,
@@ -1858,12 +1913,12 @@ window.NOWDA_DATA = [
     "address": "서귀포시 중문관광로 42",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "입장권 35% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072840",
+    "benefit": "1단계 입장권 35% 할인 / 2단계 입장권 50% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6ec7e9085bbc4343b1c97342c67f1da9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254854,
-    "lon": 126.4092614,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2548377,
+    "lon": 126.4077356,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
@@ -1873,29 +1928,31 @@ window.NOWDA_DATA = [
       "중문",
       "라이딩"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6ec7e9085bbc4343b1c97342c67f1da9"
   },
   {
     "id": 81,
     "code": "BPR26040929",
     "name": "거신 XR",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-7",
+    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-7 (성산읍)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "4,000원 결제 후 이용 가능 ( 20%할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26040929",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c01cbb70f3304052bc180ba7133ec3c3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.373404271195,
-    "lon": 126.84447560907,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.373654,
+    "lon": 126.8439927,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
       "XR·VR",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "c01cbb70f3304052bc180ba7133ec3c3"
   },
   {
     "id": 82,
@@ -1906,11 +1963,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "럭셔리 투어 입장권 성인 25%, 소인 35% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072820",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8562b1f43e254872aa12ad7c38607323",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.238754,
-    "lon": 126.439644,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2382505,
+    "lon": 126.4395475,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -1919,7 +1976,8 @@ window.NOWDA_DATA = [
       "체험",
       "한라산뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "8562b1f43e254872aa12ad7c38607323"
   },
   {
     "id": 83,
@@ -1930,9 +1988,9 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "ATV 전 코스 15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072892",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7789f912f9894fa4a9aaf989ff6d9a9d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.3141358,
     "lon": 126.3581406,
     "mainCategory": "체험",
@@ -1942,20 +2000,21 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "7789f912f9894fa4a9aaf989ff6d9a9d"
   },
   {
     "id": 84,
     "code": "BPR2606029",
     "name": "김녕깡통열차",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 7-6",
+    "address": "제주 제주시 구좌읍 해맞이해안로 7-6",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606029",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=393be62fdd034a2ca5281e202008f7a3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.5570238,
     "lon": 126.7598808,
     "mainCategory": "체험",
@@ -1964,45 +2023,23 @@ window.NOWDA_DATA = [
       "레포츠",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
-  },
-  {
-    "id": 85,
-    "code": "BPR25072940",
-    "name": "김녕리어촌체험휴양마을협의회",
-    "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 김녕항1길 50-11",
-    "location": "제주시",
-    "area": "제주동부",
-    "benefit": "씨글라스체험, 배낚시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072940",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5581302,
-    "lon": 126.7402139,
-    "mainCategory": "체험",
-    "subCategory": "바다",
-    "tags": [
-      "낚시",
-      "바다",
-      "체험"
-    ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "393be62fdd034a2ca5281e202008f7a3"
   },
   {
     "id": 86,
     "code": "BPR26060135",
     "name": "김녕왕발통",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 7-6",
+    "address": "제주특별자치도 제주시 구좌읍 김녕로21길 23 (구좌읍)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26060135",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1482e7ffa318457980d529ccd24acdfa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5570238,
-    "lon": 126.7598808,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5578684,
+    "lon": 126.7549973,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
@@ -2010,66 +2047,69 @@ window.NOWDA_DATA = [
       "체험",
       "해안도로"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "1482e7ffa318457980d529ccd24acdfa"
   },
   {
     "id": 87,
     "code": "BPR25072893",
     "name": "낙타트래킹",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 번영로 2564-21",
+    "address": "서귀포시 표선면 번영로 2564-21",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "낙타트래킹 21% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072893",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b8eda30e4cbe462b8fbbd487594a858d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.402698444164,
-    "lon": 126.77864567282,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4026984,
+    "lon": 126.7786456,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
       "동물",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "b8eda30e4cbe462b8fbbd487594a858d"
   },
   {
     "id": 88,
     "code": "BPR26020316",
     "name": "니우 스튜디오",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 성읍이리로 60",
+    "address": "제주 서귀포시 표선면 성읍이리로 60",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26020316",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5c131d22247e4b61bcef115618e105db",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.412860818384,
-    "lon": 126.77280959495,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4128688,
+    "lon": 126.7728089,
     "mainCategory": "체험",
     "subCategory": "사진",
     "tags": [
       "사진촬영",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "5c131d22247e4b61bcef115618e105db"
   },
   {
     "id": 89,
     "code": "BPR25072819",
     "name": "다이나믹메이즈 제주",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 번영로 2644",
+    "address": "서귀포시 표선면 번영로 2644",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "부스트업+레벨2 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072819",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2270a6375e04113b51e55a76db433d1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.399111477381,
-    "lon": 126.78470579657,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3990992,
+    "lon": 126.7846734,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
@@ -2077,7 +2117,8 @@ window.NOWDA_DATA = [
       "테마파크",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "e2270a6375e04113b51e55a76db433d1"
   },
   {
     "id": 90,
@@ -2088,11 +2129,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "입장권 20%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2510202",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=20d3e4944ad8437e99e5842cf6441550",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3028885,
-    "lon": 126.3181117,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3028884,
+    "lon": 126.3175373,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
@@ -2100,22 +2141,23 @@ window.NOWDA_DATA = [
       "캐릭터",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "20d3e4944ad8437e99e5842cf6441550"
   },
   {
     "id": 91,
     "code": "BPR26040930",
     "name": "로보배틀",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-7",
+    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-5 (성산읍)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "4,000원 결제 후 이용 가능 ( 20%할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26040930",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e40e7b209f4a437c8736c121814c0dd4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.373404271195,
-    "lon": 126.84447560907,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3734188,
+    "lon": 126.8436423,
     "mainCategory": "체험",
     "subCategory": "디지털",
     "tags": [
@@ -2123,66 +2165,69 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "e40e7b209f4a437c8736c121814c0dd4"
   },
   {
     "id": 92,
     "code": "BPR2512037",
     "name": "르벙쓸레브",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 한경면 청수서5길 1-13",
+    "address": "제주 제주시 한경면 청수서5길 1-13 르벙쓸레브",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "캠크닉 20% 할인(캠크닉 이용자, 글램핑 이용시 15% 추가 할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512037",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=acc638a6dca840bca04f8b63b57da1d3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.30341427288,
-    "lon": 126.25665533004,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3034081,
+    "lon": 126.2566616,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
       "레포츠",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "acc638a6dca840bca04f8b63b57da1d3"
   },
   {
     "id": 93,
     "code": "BPR25122348",
     "name": "마라도가는 여객선 매표소",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 대정읍 송악관광로 424",
+    "address": "제주 서귀포시 대정읍 송악관광로 424 송악산항여객터미널",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "왕복 승선권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25122348",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c3fa07da90c947b080398b8bbb67d2e4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.207398313759,
-    "lon": 126.29051978124,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2073975,
+    "lon": 126.2905315,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
       "바다",
       "체험"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "c3fa07da90c947b080398b8bbb67d2e4"
   },
   {
     "id": 94,
     "code": "BPR25072877",
     "name": "목장카페 드르쿰다",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 번영로 2454",
+    "address": "제주시 표선면 번영로 2454",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "카트체험 40% 할인, 승마체험 40% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072877",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=81e3db76e9d54fada288b904d732f809",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.408793168904,
-    "lon": 126.76986598657,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4083884,
+    "lon": 126.7706674,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -2193,7 +2238,8 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "81e3db76e9d54fada288b904d732f809"
   },
   {
     "id": 95,
@@ -2203,12 +2249,12 @@ window.NOWDA_DATA = [
     "address": "제주 제주시 월랑북3길 16-5 1층 동쪽",
     "location": "제주시",
     "area": "제주시내",
-    "benefit": "2인 이상 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072955",
+    "benefit": "1단계 2인 이상 5,000원 할인 / 2단계 2인이상 5,000원 할인, 석고방향제 증정",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9e71acd8b7dc4e3687e64300f2ba2826",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4933382,
-    "lon": 126.4765513,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4933242,
+    "lon": 126.476542,
     "mainCategory": "체험",
     "subCategory": "공방",
     "tags": [
@@ -2216,7 +2262,8 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "9e71acd8b7dc4e3687e64300f2ba2826"
   },
   {
     "id": 96,
@@ -2227,11 +2274,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1인 체험 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508057",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7a95a755e6594a4a8bbd43a7b2ba051b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5150019,
-    "lon": 126.5242723,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5149654,
+    "lon": 126.5242155,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
@@ -2239,22 +2286,23 @@ window.NOWDA_DATA = [
       "사진촬영",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "7a95a755e6594a4a8bbd43a7b2ba051b"
   },
   {
     "id": 97,
     "code": "BPR250728104",
     "name": "물드련마씸",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남원읍 한신로 87-27",
+    "address": "서귀포시 남원읍 한신로 87-27",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "체험, 제품 구매 시 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR250728104",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3b2a466ccdf94bdca0e4ca21c6cb42c7",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3155869,
-    "lon": 126.7032229,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3150953,
+    "lon": 126.7037129,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
@@ -2262,64 +2310,67 @@ window.NOWDA_DATA = [
       "염색체험",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "3b2a466ccdf94bdca0e4ca21c6cb42c7"
   },
   {
     "id": 98,
     "code": "BPR25072512",
     "name": "바다쓰기",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 하귀1길 138",
+    "address": "제주시 애월읍 하귀 1길 138(하귀 1리 감귤작목반)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "1인 체험 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072512",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=914b858341804ea4a9d4a1c5ac2f9e5a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4773333,
-    "lon": 126.4190548,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4773142,
+    "lon": 126.4190269,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "914b858341804ea4a9d4a1c5ac2f9e5a"
   },
   {
     "id": 99,
     "code": "BPR2507284",
     "name": "바람불어좋은날",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 안덕면 사계로 68",
+    "address": "서귀포시 안덕면 사계로 68",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "1인 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507284",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b6a4ac0decf44aa6a8da702201ccfcee",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2372398,
-    "lon": 126.2978859,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2371433,
+    "lon": 126.2978757,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "염색체험",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "b6a4ac0decf44aa6a8da702201ccfcee"
   },
   {
     "id": 100,
     "code": "BPR26061525",
     "name": "백미리",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 동광로13길 5",
+    "address": "제주특별자치도 제주시 동광로13길 5 (일도이동) 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "클래스, 주문 제작 케이크 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26061525",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3da482da261c4a18bf4eb8ba7fea7439",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.5050686,
     "lon": 126.5366987,
     "mainCategory": "체험",
@@ -2328,44 +2379,46 @@ window.NOWDA_DATA = [
       "베이킹클래스",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "3da482da261c4a18bf4eb8ba7fea7439"
   },
   {
     "id": 101,
     "code": "BPR25072917",
     "name": "뷰제주하늘",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 성산읍 서성일로 397",
+    "address": "서귀포시 성산읍 서성일로 397",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "승마 목장코스 28%, 승마 오름트레킹 22%, 15,000원 상당 사진증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072917",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=264d6a16185d4e8fb51058436ae75f33",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.413087006194,
-    "lon": 126.83280920921,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.413224,
+    "lon": 126.832962,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
       "승마",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "264d6a16185d4e8fb51058436ae75f33"
   },
   {
     "id": 102,
     "code": "BPR25072916",
     "name": "서귀포다이브센터",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남원읍 하례망장포로 65-13",
+    "address": "서귀포시 남원읍 하례망장포로 65-13, 2층",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "비치체험다이빙 35% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072916",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d8dad865e8444236bb7db9809855e11b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.25975689827,
-    "lon": 126.6395296858,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2592505,
+    "lon": 126.6394465,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2373,22 +2426,23 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "d8dad865e8444236bb7db9809855e11b"
   },
   {
     "id": 103,
     "code": "BPR2507292",
     "name": "서귀포유람선",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남성중로 40",
+    "address": "서귀포시 남성중로 40",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "성인 5,000원/ 청소년,소인 4,000원/ 유아 2,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507292",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=009fdef5a593414a941e3eeeffb6b46a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.239201172507,
-    "lon": 126.55842386517,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2392101,
+    "lon": 126.5584133,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2396,22 +2450,23 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "009fdef5a593414a941e3eeeffb6b46a"
   },
   {
     "id": 104,
     "code": "BPR25072858",
     "name": "서귀포잠수함",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남성중로 40",
+    "address": "서귀포시 남성중로 40",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "승선권 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072858",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=43cb26f5424241dd904940bbfa2b76b9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.239201172507,
-    "lon": 126.55842386517,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2391371,
+    "lon": 126.5586263,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2419,44 +2474,46 @@ window.NOWDA_DATA = [
       "유람선",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "43cb26f5424241dd904940bbfa2b76b9"
   },
   {
     "id": 105,
     "code": "BPR26060136",
     "name": "섭지코지깡통열차",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 7-6",
-    "location": "제주시",
-    "area": "제주동부",
+    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 107 (성산읍, 휘닉스아일랜드콘도)",
+    "location": "서귀포시",
+    "area": "서귀동부",
     "benefit": "15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26060136",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7c95a2b6ff2740cc817095a900f9d584",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5570238,
-    "lon": 126.7598808,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4300919,
+    "lon": 126.9272996,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
       "레포츠",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "7c95a2b6ff2740cc817095a900f9d584"
   },
   {
     "id": 106,
     "code": "BPR25072915",
     "name": "성산포유람선",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 성산읍 성산등용로 112-7",
+    "address": "서귀포시 성산읍 성산등용로 130-21, 1층(성산포종합여객터미널)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "유람선 승선권 성인 5,000원/ 청소년 3,000원/ 소인 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072915",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbdf480a690f497c8924373280b888d4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.471912665325,
-    "lon": 126.93310479419,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.472928,
+    "lon": 126.9345062,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2464,22 +2521,23 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "fbdf480a690f497c8924373280b888d4"
   },
   {
     "id": 107,
     "code": "BPR250728100",
     "name": "알레스팜",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 중산간서로 5397",
+    "address": "제주시 애월읍 중산간서로 5397 샤인히얼 60",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "입장권 10% 할인, 액션 페인팅 체험 3,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR250728100",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d8421520af2043c494f0cb8e614b74c0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.43215,
-    "lon": 126.3206576,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4321038,
+    "lon": 126.3205268,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
@@ -2487,29 +2545,31 @@ window.NOWDA_DATA = [
       "체험",
       "웰니스"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "d8421520af2043c494f0cb8e614b74c0"
   },
   {
     "id": 108,
     "code": "BPR2507299",
     "name": "알제이",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 애원로 515",
+    "address": "제주시 애월읍 평화로 2590",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "제주도마체험, 제주프리미엄 향셋트체험, 제주감귤 뱅쇼증류주체험, 한라산 오메기귤빵 체험 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507299",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8265e454b27e4b8c8ef622857b9eab9d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.429298868685,
-    "lon": 126.35272270072,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4381064,
+    "lon": 126.4272892,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "8265e454b27e4b8c8ef622857b9eab9d"
   },
   {
     "id": 109,
@@ -2520,11 +2580,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "기본코스 10% 할인, 초원/알프스코스 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508271",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f291a553c9b8477ca5190f90249fc6e7",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3986584,
-    "lon": 126.8026919,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3986419,
+    "lon": 126.8025506,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -2532,22 +2592,23 @@ window.NOWDA_DATA = [
       "동물",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "f291a553c9b8477ca5190f90249fc6e7"
   },
   {
     "id": 110,
     "code": "BPR25093013",
     "name": "액트몬 제주점",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 중문관광로 205",
+    "address": "제주 서귀포시 중문관광로 205 코시롱빌딩 B1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25093013",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cd36a5f6bc86409c888d3be130770bc1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.243886397606,
-    "lon": 126.42166238509,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2438863,
+    "lon": 126.4216623,
     "mainCategory": "체험",
     "subCategory": "액티비티",
     "tags": [
@@ -2555,22 +2616,23 @@ window.NOWDA_DATA = [
       "방탈출",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "cd36a5f6bc86409c888d3be130770bc1"
   },
   {
     "id": 111,
     "code": "BPR26061218",
     "name": "액티브파크",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 한림읍 금능남로 76",
+    "address": "제주특별자치도 제주시 한림읍 금능남로 76 (한림읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "클라이밍 5,000원 할인 / 카트 1인승 50% 할인 / 카트 2인승 20,000원",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26061218",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=48a36e7d746d47b2a70fe647071bcff1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.381142420492,
-    "lon": 126.23607845678,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3812142,
+    "lon": 126.2360938,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -2579,22 +2641,23 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "48a36e7d746d47b2a70fe647071bcff1"
   },
   {
     "id": 112,
     "code": "BPR25072855",
     "name": "어바웃제주",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 서해안로 66",
+    "address": "제주시 서해안로 66, 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "체험/기념품 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072855",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9a68e82178924a6fbe6ed0f94c886bfb",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5026913,
-    "lon": 126.4568685,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.502748,
+    "lon": 126.4568741,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
@@ -2602,22 +2665,23 @@ window.NOWDA_DATA = [
       "체험",
       "핸드메이드"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "9a68e82178924a6fbe6ed0f94c886bfb"
   },
   {
     "id": 113,
     "code": "BPR25072875",
     "name": "열대과일농장 유진팡",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남원읍 원님로399번길 31-7",
+    "address": "서귀포시 남원읍 원님로 399번길 31-7",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "도민할인가 적용",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072875",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8641e62c50ea4d75b57e22f22ff7b238",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.339917757557,
-    "lon": 126.74251574825,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3398939,
+    "lon": 126.7423901,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
@@ -2625,44 +2689,46 @@ window.NOWDA_DATA = [
       "정원",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "8641e62c50ea4d75b57e22f22ff7b238"
   },
   {
     "id": 114,
     "code": "BPR25072889",
     "name": "오늘은녹차한잔",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772",
+    "address": "서귀포시 표선면 중산간동로 4772 (성읍리 2197-11)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "족욕 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072889",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0f6bb90545a94536be3e9010999759c9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.381829574003,
-    "lon": 126.79100489395,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3818449,
+    "lon": 126.791065,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "족욕",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "0f6bb90545a94536be3e9010999759c9"
   },
   {
     "id": 115,
     "code": "BPR2201245",
     "name": "오늘은녹차한잔 카트장",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772",
+    "address": "제주 서귀포시 표선면 중산간동로 4772",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "카트이용권 12,000원(성/청/소 동일)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2201245",
-    "status": "운영 안내 확인",
-    "note": "최근 카트 이용권 판매와 나우다 공개 혜택 안내를 확인했습니다. 당일 운행·혜택 적용은 현장에 확인해주세요. (2026-09-07 검토)",
-    "lat": 33.3818296,
-    "lon": 126.7910049,
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=503e40a8f1f64557b59c1561f1cf3191",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3818497,
+    "lon": 126.7910726,
     "operationReview": {
       "checkedAt": "2026-09-07",
       "verdict": "최근 이용권 판매 자료 확인",
@@ -2678,7 +2744,14 @@ window.NOWDA_DATA = [
         }
       ]
     },
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "mainCategory": "체험",
+    "subCategory": "레포츠",
+    "tags": [
+      "카트체험",
+      "레포츠"
+    ],
+    "partnerId": "503e40a8f1f64557b59c1561f1cf3191"
   },
   {
     "id": 116,
@@ -2689,11 +2762,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "화과자 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072949",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=10c7bf12491c4e84a78a5a10ce4f2d58",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4949819,
-    "lon": 126.5645628,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.495125,
+    "lon": 126.5647337,
     "mainCategory": "체험",
     "subCategory": "공방",
     "tags": [
@@ -2701,7 +2774,8 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "10c7bf12491c4e84a78a5a10ce4f2d58"
   },
   {
     "id": 117,
@@ -2711,34 +2785,35 @@ window.NOWDA_DATA = [
     "address": "제주 제주시 애월읍 광령평화3길 21",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508253",
+    "benefit": "1단계 20% 할인 / 2단계 30% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=22dde38fb2334ac698a34bb6823237de",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4473509,
-    "lon": 126.4326773,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.447322,
+    "lon": 126.4326451,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
       "서핑",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "22dde38fb2334ac698a34bb6823237de"
   },
   {
     "id": 118,
     "code": "BPR25072911",
     "name": "제주 소랑ATV",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 남원읍 서성로 955-117",
+    "address": "서귀포시 남원읍 서성로 955-117 1동 1층 101호",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "전 코스 10,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072911",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=11617f8fe90949ba95b3d740adc4627e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3405289,
-    "lon": 126.6838038,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3404485,
+    "lon": 126.6834324,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -2746,20 +2821,21 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "11617f8fe90949ba95b3d740adc4627e"
   },
   {
     "id": 119,
     "code": "BPR2606296",
     "name": "제주도공방노꼬메",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 동문로21길 19-2",
+    "address": "제주특별자치도 제주시 동문로21길 19-2 (건입동) 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1인 체험 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606296",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6573bf8d6e6a4433a9d75f535d9bbb0e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.5157265,
     "lon": 126.5368254,
     "mainCategory": "체험",
@@ -2768,29 +2844,31 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6573bf8d6e6a4433a9d75f535d9bbb0e"
   },
   {
     "id": 120,
     "code": "BPR2508089",
     "name": "제주바다하늘다이브센터",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 도두3길 20",
+    "address": "제주 제주시 도두 3길 20",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1인체험 10,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508089",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1daed239359340ef9180e386375f22f9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5033777,
-    "lon": 126.4678537,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5044015,
+    "lon": 126.4701525,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
       "다이빙",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "1daed239359340ef9180e386375f22f9"
   },
   {
     "id": 121,
@@ -2800,56 +2878,58 @@ window.NOWDA_DATA = [
     "address": "제주 서귀포시 성산읍 서성일로 809",
     "location": "서귀포시",
     "area": "서귀동부",
-    "benefit": "1,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2511061",
+    "benefit": "1단계 1,000원 할인 / 2단계 2,000원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f63233890cf4e3e800a153731175911",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4360639,
-    "lon": 126.8672484,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4360006,
+    "lon": 126.8672817,
     "mainCategory": "체험",
     "subCategory": "감귤",
     "tags": [
       "감귤",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "6f63233890cf4e3e800a153731175911"
   },
   {
     "id": 122,
     "code": "BPR26022427",
     "name": "제주인어",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 신중로 46",
+    "address": "제주 서귀포시 남원읍 일주동로 7928",
     "location": "서귀포시",
-    "area": "서귀포시내",
+    "area": "서귀동부",
     "benefit": "2인 이상 체험 참여시 총 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26022427",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f090110490d24a9dbc97eccd0e12ea9b",
     "status": "특이사항 미확인",
-    "note": "카카오맵 주소 확인 (2026-07-20)",
-    "lat": 33.254613215464,
-    "lon": 126.50988281911,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2651856,
+    "lon": 126.6387333,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
       "다이빙",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": "남원읍",
+    "partnerId": "f090110490d24a9dbc97eccd0e12ea9b"
   },
   {
     "id": 123,
     "code": "BPR25072933",
     "name": "제주제트",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 대포로 172-5",
+    "address": "서귀포시 대포로 172-5",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "제트보트, 파라세일링, 배낚시 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072933",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5a458ab871c6491c8ead9707704b2b27",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.238424844095,
-    "lon": 126.43945358815,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2384179,
+    "lon": 126.439465,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2857,45 +2937,8 @@ window.NOWDA_DATA = [
       "낚시",
       "체험"
     ],
-    "eupmyeon": null
-  },
-  {
-    "id": 124,
-    "code": "BPR25072925",
-    "name": "제주지프",
-    "category": "체험/레포츠",
-    "address": "제주시 조천읍 신북로 503 2층 201",
-    "location": "제주시",
-    "area": "제주동부",
-    "benefit": "미니지프 1시간 대여권 10,000원 할인(최대 2인탑승)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072925",
-    "status": "확인 필요",
-    "note": "공식 나우다에 동절기 임시휴업 안내가 남아 있고 이용권 판매 자료도 있습니다. 현재 재개 여부는 0507-1436-0385로 확인이 필요합니다. (2026-09-07 검토)",
-    "lat": 33.5423356,
-    "lon": 126.6704101,
-    "operationReview": {
-      "checkedAt": "2026-09-07",
-      "verdict": "휴업 안내와 판매 자료 상충",
-      "confidence": "현재 재개 여부 미확정",
-      "sources": [
-        {
-          "title": "비짓제주 나우다 동절기 휴업 안내",
-          "url": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072925"
-        },
-        {
-          "title": "NOL 함덕 미니지프 이용권",
-          "url": "https://travel.interpark.com/tna/products/f926647b-c7a1-4547-b30e-831d28262a5f"
-        }
-      ]
-    },
-    "mainCategory": "체험",
-    "subCategory": "레포츠",
-    "tags": [
-      "지프",
-      "체험",
-      "라이딩"
-    ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": null,
+    "partnerId": "5a458ab871c6491c8ead9707704b2b27"
   },
   {
     "id": 125,
@@ -2906,11 +2949,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508056",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a0b28489475a46a5a90a752a7496ab4e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3435805,
-    "lon": 126.6829605,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3432784,
+    "lon": 126.682743,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -2918,7 +2961,8 @@ window.NOWDA_DATA = [
       "체험",
       "라이딩"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "a0b28489475a46a5a90a752a7496ab4e"
   },
   {
     "id": 126,
@@ -2929,11 +2973,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "결제 금액 10% 할인, 블루투스스피커, 선글라스, 무전기, 망원경 무료대여",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072954",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=384deb1ee56743b8aaccb3f81eb9c8c9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3271271,
-    "lon": 126.1697436,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3202817,
+    "lon": 126.16894,
     "mainCategory": "체험",
     "subCategory": "레포츠",
     "tags": [
@@ -2942,22 +2986,23 @@ window.NOWDA_DATA = [
       "해안도로",
       "라이딩"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "384deb1ee56743b8aaccb3f81eb9c8c9"
   },
   {
     "id": 127,
     "code": "BPR25072827",
     "name": "차귀도 태양배낚시 with 돌고래",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 한경면 노을해안로 1154",
+    "address": "제주시 한경면 노을해안로 1154 차귀횟집",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "컵라면 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072827",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=172e79102b034897baddf9583a865275",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3088943,
-    "lon": 126.1645028,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3088622,
+    "lon": 126.1644601,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -2966,7 +3011,8 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "172e79102b034897baddf9583a865275"
   },
   {
     "id": 128,
@@ -2977,11 +3023,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "도민 할인가 적용",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081433",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8f570353cabf4bb29a8bfd8aa8eb39fa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5025428,
-    "lon": 126.4582488,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5028399,
+    "lon": 126.4585766,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
@@ -2989,73 +3035,77 @@ window.NOWDA_DATA = [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "8f570353cabf4bb29a8bfd8aa8eb39fa"
   },
   {
     "id": 129,
     "code": "BPR2508084",
     "name": "토토아뜰리에",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 고성북길 112-4",
+    "address": "제주시 애월읍 고성북길 112-4",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "제주당근파운드케이크 만들기 체험 5%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508084",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b2866d5f920242868e76c7b6b95806d5",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4700255,
-    "lon": 126.4133815,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4700325,
+    "lon": 126.4134417,
     "mainCategory": "체험",
     "subCategory": "공방",
     "tags": [
       "쿠킹클래스",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "b2866d5f920242868e76c7b6b95806d5"
   },
   {
     "id": 130,
     "code": "BPR2603031",
     "name": "파호이호이 라바필드파크 제주",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 고전길 6",
+    "address": "제주 제주시 애월읍 중산간서로 5994-47",
     "location": "제주시",
-    "area": "제주시내",
-    "benefit": "바람에 걸어두는 소원 대나무 만들기 무료체험권",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2603031",
+    "area": "제주서부",
+    "benefit": "1단계 바람에 걸어두는 소원 대나무 만들기 무료체험권 / 2단계 돌스탬핑으로 나만의 코스터 만들기 무료체험권",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=28ab102343d24248845c3f6fe8a78a24",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.506609652484,
-    "lon": 126.5258137671,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4476738,
+    "lon": 126.3739672,
     "mainCategory": "체험",
     "subCategory": "자연",
     "tags": [
       "산책",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": "애월읍",
+    "partnerId": "28ab102343d24248845c3f6fe8a78a24"
   },
   {
     "id": 131,
     "code": "BPR25072812",
     "name": "하이파이브제주",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 고내로13길 107",
+    "address": "제주 제주시 아연로 112 1층",
     "location": "제주시",
-    "area": "제주서부",
+    "area": "제주시내",
     "benefit": "입장료 10% 할인(보호자 입장 무료)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072812",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=13b13e23b5ce4187b20f4b5730b7254e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4726175,
-    "lon": 126.3487469,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4733685,
+    "lon": 126.5033512,
     "mainCategory": "체험",
     "subCategory": "기타",
     "tags": [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": null,
+    "partnerId": "13b13e23b5ce4187b20f4b5730b7254e"
   },
   {
     "id": 132,
@@ -3066,18 +3116,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "1인 체험 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2605211",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9bbb4c767bc7444b9cc91d3a6d418389",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4624624,
-    "lon": 126.9351486,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4632731,
+    "lon": 126.9344405,
     "mainCategory": "체험",
     "subCategory": "공방",
     "tags": [
       "한복체험",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "9bbb4c767bc7444b9cc91d3a6d418389"
   },
   {
     "id": 133,
@@ -3088,11 +3139,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1인 체험 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508195",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=be1ea3afc48749ff862ad345ec8b2acd",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.497446,
-    "lon": 126.4480497,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.497507,
+    "lon": 126.4495833,
     "mainCategory": "체험",
     "subCategory": "바다",
     "tags": [
@@ -3100,7 +3151,8 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "be1ea3afc48749ff862ad345ec8b2acd"
   },
   {
     "id": 134,
@@ -3111,11 +3163,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "결제금액 10%할인 (중복할인 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2604081",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cd9428700f3d4445a3a444f56d93c7e0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2604907,
-    "lon": 126.4948354,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2603982,
+    "lon": 126.4904426,
     "mainCategory": "체험",
     "subCategory": "공방",
     "tags": [
@@ -3123,20 +3175,21 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "cd9428700f3d4445a3a444f56d93c7e0"
   },
   {
     "id": 135,
     "code": "BPR26062611",
     "name": "휴 퍼스널컬러",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 광양7길 18",
+    "address": "제주특별자치도 제주시 광양7길 18 (이도이동, 경기빌딩) 2층 퍼즈스튜디오",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "진단비 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26062611",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0422f8c60a924b7faf7bf3f8206d79d5",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.5009065,
     "lon": 126.5311323,
     "mainCategory": "체험",
@@ -3145,7 +3198,8 @@ window.NOWDA_DATA = [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "0422f8c60a924b7faf7bf3f8206d79d5"
   },
   {
     "id": 136,
@@ -3156,104 +3210,87 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "첫 술한병 무료 증정(소주, 맥주)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508204",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3d0bdc83d25a49b8a2f4303cb8e378f3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2477651,
-    "lon": 126.3361111,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.247871,
+    "lon": 126.3359589,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "식당",
       "술집"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "3d0bdc83d25a49b8a2f4303cb8e378f3"
   },
   {
     "id": 137,
     "code": "BPR25072823",
     "name": "WE호텔제주 다채",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 1100로 453-95",
+    "address": "제주 서귀포시 1100로 453-95",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072823",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f7e9133fc5884e459d011ffb72db1c63",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2861489,
-    "lon": 126.4444554,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2860122,
+    "lon": 126.4441678,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "숲",
       "한라산뷰"
     ],
-    "eupmyeon": null
-  },
-  {
-    "id": 138,
-    "code": "BPR2508048",
-    "name": "WE호텔제주 아잘리아 라운지&바",
-    "category": "식음료",
-    "address": "제주특별자치도 서귀포시 1100로 453-95",
-    "location": "서귀포시",
-    "area": "서귀포시내",
-    "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508048",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2861489,
-    "lon": 126.4444554,
-    "mainCategory": "식음료",
-    "subCategory": "카페",
-    "tags": [
-      "술집"
-    ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "f7e9133fc5884e459d011ffb72db1c63"
   },
   {
     "id": 139,
     "code": "BPR2603115",
     "name": "cafe224",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문관광로 224",
+    "address": "제주특별자치도 서귀포시 중문관광로 224 (중문동, 제주국제컨벤션센터) 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "음료 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2603115",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a22ed0774666474087f5db0d51e11b3e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.24128963641,
-    "lon": 126.42444289956,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2412891,
+    "lon": 126.4244532,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "전시",
       "디저트"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "a22ed0774666474087f5db0d51e11b3e"
   },
   {
     "id": 140,
     "code": "BPR26040928",
     "name": "고흐 제주에 반하다",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 126-5",
+    "address": "제주특별자치도 서귀포시 성산읍 삼달신풍로 132 (성산읍)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "결제금액 10%할인 (중복할인 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26040928",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=88faf479dfd44678b96a25364947c017",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.373409463298,
-    "lon": 126.84408648644,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.373654,
+    "lon": 126.8439927,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "감성카페"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "88faf479dfd44678b96a25364947c017"
   },
   {
     "id": 141,
@@ -3264,95 +3301,99 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "10% 할인, 1만원 이상 구매 시 현애원 입장권 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072895",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9cede4216ad748b0ad851db9fc3a210d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4559681,
-    "lon": 126.9084076,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4560365,
+    "lon": 126.9083033,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "브런치",
       "디저트"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "9cede4216ad748b0ad851db9fc3a210d"
   },
   {
     "id": 142,
     "code": "BPR2602252",
     "name": "그초록",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 구좌읍 행원로7길 23-16",
+    "address": "제주 제주시 구좌읍 행원로7길 23-16 1층(바닷가앞)",
     "location": "제주시",
     "area": "제주동부",
-    "benefit": "모든 음료 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2602252",
+    "benefit": "1단계 모든 음료 10% 할인 / 2단계 아메리카노 50% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=77be30777b914fd9be07933fdf0211ff",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.556374889592,
-    "lon": 126.80640094761,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5563591,
+    "lon": 126.8064018,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "77be30777b914fd9be07933fdf0211ff"
   },
   {
     "id": 143,
     "code": "BPR2507258",
     "name": "금악리 자양식당",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 한림읍 금악로 18",
+    "address": "제주특별자치도 제주시 한림읍 금악로 18, 씨동",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "테이블 당 음료서비스 1개",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507258",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f4f41cfeb8743d69ca3f0ee3fcf9769",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3586969,
-    "lon": 126.2966655,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3587222,
+    "lon": 126.296642,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "로컬맛집"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "3f4f41cfeb8743d69ca3f0ee3fcf9769"
   },
   {
     "id": 144,
     "code": "BPR25072811",
     "name": "김선문",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 하소로 735",
+    "address": "제주시 애월읍 하소로 735, 2층",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "식사메뉴 15% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072811",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ea6b0ce0b4a64f9cbe7dc00628131789",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4192422,
-    "lon": 126.396054,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.419283,
+    "lon": 126.3960058,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "다이닝",
       "오션뷰"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "ea6b0ce0b4a64f9cbe7dc00628131789"
   },
   {
     "id": 145,
     "code": "BPR2606267",
     "name": "까망돼지",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 색달중앙로 21",
+    "address": "제주특별자치도 서귀포시 색달중앙로 21 (색달동, 여미지하우스) 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "결제 금액의 5.000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606267",
+    "benefit": "결제 금액의 5,000원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a3d3917ec26c4a1ebfba324274a8d449",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.2574019,
     "lon": 126.4134702,
     "mainCategory": "식음료",
@@ -3360,7 +3401,8 @@ window.NOWDA_DATA = [
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "a3d3917ec26c4a1ebfba324274a8d449"
   },
   {
     "id": 146,
@@ -3371,38 +3413,40 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "음료류에 한하여 30% 할인(베이커리류 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072934",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=effc7c1f099f4362a56cb423e10bcccc",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2685348,
-    "lon": 126.4165519,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2694822,
+    "lon": 126.4169176,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "effc7c1f099f4362a56cb423e10bcccc"
   },
   {
     "id": 147,
     "code": "BPR2605277",
     "name": "날쌘카페 제주그림카페점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 안덕면 녹차분재로 217",
+    "address": "제주특별자치도 서귀포시 안덕면 항공우주로 83 (안덕면, 제주항공우주박물관) 4층",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "결제금액의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2605277",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a5ed16c42b6447cb9f9c5ff3bc9140cc",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3027032,
-    "lon": 126.2991031,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3040455,
+    "lon": 126.2997178,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "감성카페"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "a5ed16c42b6447cb9f9c5ff3bc9140cc"
   },
   {
     "id": 148,
@@ -3413,185 +3457,145 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "귤 음료 제공 테이블당 1개",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091056",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a2fe6050baba484ea2fa0a3dbf54bad3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.493129,
-    "lon": 126.5027435,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4930938,
+    "lon": 126.5026023,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "해산물"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "a2fe6050baba484ea2fa0a3dbf54bad3"
   },
   {
     "id": 149,
     "code": "BPR2507287",
     "name": "남매네흑돼지 서귀포신시가지점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 신서로32번길 18",
+    "address": "서귀포시 신서로 32번길 18, 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "10% 할인(주류제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507287",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3fb5ef99de3a43668240b429640b5a7b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2532361,
-    "lon": 126.5061607,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2532193,
+    "lon": 126.5061473,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "3fb5ef99de3a43668240b429640b5a7b"
   },
   {
     "id": 150,
     "code": "BPR2507259",
     "name": "내노키카페",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 남원읍 태위로723번길 30-16",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로 723번길 30-16",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "음료, 디저트 10% 할인(+ 웰컴디저트 서비스 제공)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507259",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=19d47145ed6a41d18257f7a925b8934a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2833278,
-    "lon": 126.7233943,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.28356,
+    "lon": 126.723371,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": "남원읍"
-  },
-  {
-    "id": 151,
-    "code": "BPR2508055",
-    "name": "달그리안",
-    "category": "식음료",
-    "address": "제주특별자치도 제주시 우도면 우도해안길 1128",
-    "location": "제주시",
-    "area": "우도",
-    "benefit": "음료/아이스크림 20% 할인 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508055",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4979263,
-    "lon": 126.9679156,
-    "mainCategory": "식음료",
-    "subCategory": "카페",
-    "tags": [
-      "오션뷰",
-      "아이스크림",
-      "우도",
-      "해안가"
-    ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "남원읍",
+    "partnerId": "19d47145ed6a41d18257f7a925b8934a"
   },
   {
     "id": 152,
     "code": "BPR25072920",
     "name": "당주제제주오메기떡",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중정로61번길 20",
+    "address": "서귀포시 중정로 61번길 20, 6호",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072920",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0dd903a1f6814878b637185762120402",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2495636,
-    "lon": 126.5630367,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2497066,
+    "lon": 126.5630713,
     "mainCategory": "식음료",
     "subCategory": "간식",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "0dd903a1f6814878b637185762120402"
   },
   {
     "id": 153,
     "code": "BPR25121667",
     "name": "동백갈비",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문상로 46",
+    "address": "제주 서귀포시 중문상로 46, 2층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "결제금액 10%할인 (중복할인 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25121667",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c70aa77b8b4e4acd8147a2f6870fd641",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.252388875978,
-    "lon": 126.42586475543,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2524088,
+    "lon": 126.4258095,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "고기"
     ],
-    "eupmyeon": null
-  },
-  {
-    "id": 154,
-    "code": "BPR25081327",
-    "name": "드르쿰다 제주 상효점",
-    "category": "식음료",
-    "address": "제주특별자치도 서귀포시 516로 619",
-    "location": "서귀포시",
-    "area": "서귀포시내",
-    "benefit": "음료 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081327",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.303523548565,
-    "lon": 126.59851812808,
-    "mainCategory": "식음료",
-    "subCategory": "카페",
-    "tags": [
-      "커피",
-      "숲"
-    ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "c70aa77b8b4e4acd8147a2f6870fd641"
   },
   {
     "id": 155,
     "code": "BPR25081321",
     "name": "드르쿰다 제주 애월점",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 수산서3길 28",
+    "address": "제주 제주시 애월읍 수산서3길 28",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "음료 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081321",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bb397dc93651478db668db9dfac21b40",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.47010488295,
-    "lon": 126.38516709208,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4706008,
+    "lon": 126.3849556,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "bb397dc93651478db668db9dfac21b40"
   },
   {
     "id": 156,
     "code": "BPR25081311",
     "name": "드르쿰다카페 제주성산점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로25번길 64",
+    "address": "제주 서귀포시 성산읍 섭지코지로25번길 64",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "음료 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081311",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=16620c5ad74e428f80a9fd7a930d67a9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.444512399091,
-    "lon": 126.91908588351,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.444476,
+    "lon": 126.9190861,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -3599,7 +3603,8 @@ window.NOWDA_DATA = [
       "오션뷰",
       "포토존"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "16620c5ad74e428f80a9fd7a930d67a9"
   },
   {
     "id": 157,
@@ -3610,193 +3615,192 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "아메리카노 무료 or 기타 제조음료10%",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509171",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=758cc5ff94c84104af1e2f9d44a28c15",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4670843,
-    "lon": 126.5088097,
-    "eupmyeon": null
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4670639,
+    "lon": 126.5088169,
+    "eupmyeon": null,
+    "mainCategory": "식음료",
+    "subCategory": "카페",
+    "tags": [
+      "쿠킹클래스",
+      "디저트"
+    ],
+    "partnerId": "758cc5ff94c84104af1e2f9d44a28c15"
   },
   {
     "id": 158,
     "code": "BPR26061138",
     "name": "또옵서식당",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 7-6",
+    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 7-6 (구좌읍)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "관광증 제시 시 공기밥 무료",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26061138",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f04fd82d8ee49979392d7b8858e7739",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.52421,
-    "lon": 126.855491,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5565617,
+    "lon": 126.7593749,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "향토음식"
     ],
-    "eupmyeon": "구좌읍"
-  },
-  {
-    "id": 159,
-    "code": "BPR2507289",
-    "name": "라반 이호테우점",
-    "category": "식음료",
-    "address": "제주시 서해안로 45(이호일동)",
-    "location": "제주시",
-    "area": "제주시내",
-    "benefit": "방문객 1인 에스까르고 소량(뿔소라 1개, 달팽이 1마리)제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507289",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5009781,
-    "lon": 126.4555914,
-    "eupmyeon": null
+    "eupmyeon": "구좌읍",
+    "partnerId": "3f04fd82d8ee49979392d7b8858e7739"
   },
   {
     "id": 160,
     "code": "BPR2606297",
     "name": "루브린라운지",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 남원읍 태위로360번길 46",
+    "address": "제주특별자치도 서귀포시 남원읍 태위로360번길 46 (남원읍)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "음료 2만원 이상 주문시 에그타르트 1개 무료 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606297",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=750656338ed34345aca7b837b5934eeb",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2762917,
-    "lon": 126.6737194,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2722843,
+    "lon": 126.6839449,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "정원",
       "오션뷰"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "750656338ed34345aca7b837b5934eeb"
   },
   {
     "id": 161,
     "code": "BPR25112813",
     "name": "마트리모니오",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 아연로 195",
+    "address": "제주 제주시 아연로 195 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "브런치 메뉴 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25112813",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bd50ca5b06994ab084db96bc8c1c0909",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.468913211559,
-    "lon": 126.51009847644,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.468914,
+    "lon": 126.5100995,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "브런치",
-      "커피"
+      "커피",
+      "반려동물동반"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "bd50ca5b06994ab084db96bc8c1c0909"
   },
   {
     "id": 162,
     "code": "BPR25111812",
     "name": "망고데이 필리핀디저트카페",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 신양로 102",
+    "address": "제주 서귀포시 성산읍 신양로 102 망고데이",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "1만원 이상 구매시 망고차or청귤차or망고아이스크림 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25111812",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4ac2d66474744591ad852764f92cfafe",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.436356707624,
-    "lon": 126.92052177138,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4364559,
+    "lon": 126.9206333,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "디저트"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "4ac2d66474744591ad852764f92cfafe"
   },
   {
     "id": 163,
     "code": "BPR2507255",
     "name": "면공장",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 어림비로 478",
+    "address": "제주시 어림비로 478 아르떼뮤지엄 제주 매표소 맞은편",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "전 메뉴 10% 할인(주류/음료 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507255",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=08e11d0ba9114dadb4dfe6c196ff65ce",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3964708,
-    "lon": 126.3446147,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.396697,
+    "lon": 126.3449783,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "08e11d0ba9114dadb4dfe6c196ff65ce"
   },
   {
     "id": 164,
     "code": "BPR25072918",
     "name": "모루쿠다 서귀포올레시장점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 태평로431번길 32",
+    "address": "서귀포시 태평로 431번길 32, 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "4시이전 이용시 10% 할인, 4시이후 저녁 이용시 음료수 서비스",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072918",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b93d93995f1e42c289af93dbb2869116",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2482754,
-    "lon": 126.5662123,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2482301,
+    "lon": 126.566138,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "해산물"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "b93d93995f1e42c289af93dbb2869116"
   },
   {
     "id": 165,
     "code": "BPR2507286",
     "name": "물",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 삼무로11길 9",
+    "address": "제주 제주시 한림읍 명제로 155 2층",
     "location": "제주시",
-    "area": "제주시내",
+    "area": "제주서부",
     "benefit": "5% 할인(+애월연어 협재직영점 이용영수증 지참 시 5% 추가 할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507286",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=136d16d4cd8d4eb3b8cf16752572be34",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4926527,
-    "lon": 126.496282,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3925301,
+    "lon": 126.2630795,
     "mainCategory": "식음료",
     "subCategory": "간식",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": null
+    "eupmyeon": "한림읍",
+    "partnerId": "136d16d4cd8d4eb3b8cf16752572be34"
   },
   {
     "id": 166,
     "code": "BPR25091974",
     "name": "미쁜제과",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 대정읍 도원남로 16",
+    "address": "제주 서귀포시 대정읍 도원남로 16",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25091974",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7900e5a40119412992e0edbc79301eae",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.269134892608,
-    "lon": 126.18013124974,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2691404,
+    "lon": 126.1800996,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -3804,50 +3808,53 @@ window.NOWDA_DATA = [
       "베이커리",
       "오션뷰"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "7900e5a40119412992e0edbc79301eae"
   },
   {
     "id": 167,
     "code": "BPR2606295",
     "name": "미스터두리안카페",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 유수암평화길 139",
+    "address": "제주특별자치도 제주시 애월읍 유수암평화길 139 (애월읍) 1층",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "아메리카노 1000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606295",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cb648c87204b4b3494d90b0e5262ef0c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4314584,
-    "lon": 126.4082331,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4314717,
+    "lon": 126.4082319,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "디저트"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "cb648c87204b4b3494d90b0e5262ef0c"
   },
   {
     "id": 168,
     "code": "BPR2507281",
     "name": "미스터크랩",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 남원읍 남태해안로 533",
+    "address": "서귀포시 남원읍 남태해안로 533",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "식사(브런치 포함) 주문 시 음료 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507281",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f488f87744348f5ad5c2c94b9bb1b1d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2890558,
-    "lon": 126.7513597,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2890628,
+    "lon": 126.7513502,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "해산물",
       "해안도로"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "3f488f87744348f5ad5c2c94b9bb1b1d"
   },
   {
     "id": 169,
@@ -3858,39 +3865,41 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "1인 2,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508206",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=750677b3bae14a399ecd4c2cfa5ba192",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5254913,
-    "lon": 126.8548482,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5254116,
+    "lon": 126.8542322,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "뷔페"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "750677b3bae14a399ecd4c2cfa5ba192"
   },
   {
     "id": 170,
     "code": "BPR26052813",
     "name": "바사그미",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 연동 680-26",
+    "address": "제주 제주시 1100로 2894-72",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "아메리카노 한정 1+1 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26052813",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=699628399efc40b2bc25d621a902ffbd",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.451714251315,
-    "lon": 126.49017132747,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4518335,
+    "lon": 126.4888892,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "브런치",
       "전시"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "699628399efc40b2bc25d621a902ffbd"
   },
   {
     "id": 171,
@@ -3901,18 +3910,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "1만원 이상 구매시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072941",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=929d407e06e74209987de1a59616ce6f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2312272,
-    "lon": 126.2964195,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2312478,
+    "lon": 126.2964213,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "929d407e06e74209987de1a59616ce6f"
   },
   {
     "id": 172,
@@ -3923,54 +3933,56 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1만원 이상 구매시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072942",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4ddd716563df4e928cf7afa5a281abef",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4814784,
-    "lon": 126.4766911,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4814185,
+    "lon": 126.4766442,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "4ddd716563df4e928cf7afa5a281abef"
   },
   {
     "id": 173,
     "code": "BPR2512111",
     "name": "산방휴게소",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 안덕면 사계남로 198",
+    "address": "제주 서귀포시 안덕면 사계남로 198 1층",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "전 메뉴 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512111",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=19d5c977d4174d22b431ac5491dae7aa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.230858215021,
-    "lon": 126.30867870815,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2306966,
+    "lon": 126.3087319,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "버거"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "19d5c977d4174d22b431ac5491dae7aa"
   },
   {
     "id": 174,
     "code": "BPR25090321",
     "name": "세화카페텐더럽",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1426",
+    "address": "제주 제주시 구좌읍 해맞이해안로 1426 2층",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "10% 할인 또는 아메리카노 1+1",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25090321",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=783a7317528c4ecfac328f5794cd4a78",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.525218655909,
-    "lon": 126.85770740407,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.525185,
+    "lon": 126.8577178,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -3979,22 +3991,23 @@ window.NOWDA_DATA = [
       "파노라마뷰",
       "해안가"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "783a7317528c4ecfac328f5794cd4a78"
   },
   {
     "id": 175,
     "code": "BPR25072939",
     "name": "소소샵",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 우도면 우도해안길 518",
+    "address": "제주 제주시 우도면 우도해안길 518 1층 소소샵",
     "location": "제주시",
     "area": "우도",
     "benefit": "전 품목 이용금액에 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072939",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5d186ad1d50847d4b1e92369d04da468",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5201996,
-    "lon": 126.9480709,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5201902,
+    "lon": 126.9480431,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -4003,44 +4016,46 @@ window.NOWDA_DATA = [
       "아이스크림",
       "포토존"
     ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "우도면",
+    "partnerId": "5d186ad1d50847d4b1e92369d04da468"
   },
   {
     "id": 176,
     "code": "BPR2512035",
     "name": "씨에스 다이닝",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문관광로 198",
+    "address": "제주 서귀포시 중문관광로 198 씨에스 호텔 앤 리조트",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인(주류, 세트메뉴 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512035",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d7b95e6ca9b34f84aaf676eec7e66bdf",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.24291591839,
-    "lon": 126.42029332027,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2430114,
+    "lon": 126.4191447,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "다이닝",
       "오션뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "d7b95e6ca9b34f84aaf676eec7e66bdf"
   },
   {
     "id": 177,
     "code": "BPR2512033",
     "name": "씨에스호텔 카노푸스 다이닝",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문관광로 198",
+    "address": "제주 서귀포시 중문관광로 198",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인(주류, 세트메뉴 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512033",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f8a6016d07b43da9273c4e1c1d31e6a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.24291591839,
-    "lon": 126.42029332027,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2425481,
+    "lon": 126.4196243,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
@@ -4048,7 +4063,8 @@ window.NOWDA_DATA = [
       "오션뷰",
       "중문"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "3f8a6016d07b43da9273c4e1c1d31e6a"
   },
   {
     "id": 178,
@@ -4059,11 +4075,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508207",
-    "status": "확인 필요",
-    "note": "나우다는 월정3길 16, 비짓제주 일반 상세는 서해안로 638(아사라베이커리 결)을 안내합니다. 주소·휴무·혜택 적용 지점을 0507-1315-6871로 확인해주세요. (2026-09-07 검토)",
-    "lat": 33.5544394,
-    "lon": 126.7934362,
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2460f303e5f94b3ab13c2b460fddcab5",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.552676,
+    "lon": 126.7922484,
     "operationReview": {
       "checkedAt": "2026-09-07",
       "verdict": "주소·운영시간 상충",
@@ -4085,22 +4101,23 @@ window.NOWDA_DATA = [
       "베이커리",
       "오션뷰"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "2460f303e5f94b3ab13c2b460fddcab5"
   },
   {
     "id": 179,
     "code": "BPR2507256",
     "name": "안도르",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 구좌읍 비자림로 1647",
+    "address": "제주 제주시 구좌읍 비자림로 1647",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "1만원 이상 구매 시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507256",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9fce8303a9c04577916a0e63f41e8632",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4566696,
-    "lon": 126.7720535,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4566058,
+    "lon": 126.7719458,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -4108,7 +4125,8 @@ window.NOWDA_DATA = [
       "정원",
       "제주디저트"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "9fce8303a9c04577916a0e63f41e8632"
   },
   {
     "id": 180,
@@ -4118,12 +4136,12 @@ window.NOWDA_DATA = [
     "address": "제주 제주시 한림읍 명재로 155 1층",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "5% 할인(+물 카페 이용영수증 지참 시 음료수 1개 증정)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2511035",
+    "benefit": "1단계 5% 할인(+물 카페 이용영수증 지참 시 음료수 1개 증정) / 2단계 5% 할인+ 물방울젤리 에피타이저 제공 (+물 카페 이용영수증 지참 시 음료수 1개 증정)",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f2d128256f424e3e94d971994fd7d183",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3925402,
-    "lon": 126.2631306,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.39253,
+    "lon": 126.2630794,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
@@ -4131,7 +4149,8 @@ window.NOWDA_DATA = [
       "오션뷰",
       "해안가"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "f2d128256f424e3e94d971994fd7d183"
   },
   {
     "id": 181,
@@ -4142,39 +4161,42 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "음료 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26032522",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5e466caeaf0944bea76d61cbcb40a4c4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.414896384482,
-    "lon": 126.83592808386,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4148805,
+    "lon": 126.8360016,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "감성카페",
-      "힐링"
+      "힐링",
+      "반려동물동반"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "5e466caeaf0944bea76d61cbcb40a4c4"
   },
   {
     "id": 182,
     "code": "BPR26033155",
     "name": "에이바우트커피서귀포혁신도시점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 서호남로32번길 37",
+    "address": "제주특별자치도 서귀포시 서호남로32번길 37 에이바우트커피",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "제주말차마들렌세트 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26033155",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbebe0590e84401c8dbfc20518bf0d9c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.249469837967,
-    "lon": 126.51449171041,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2494699,
+    "lon": 126.5144917,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "커피"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "fbebe0590e84401c8dbfc20518bf0d9c"
   },
   {
     "id": 183,
@@ -4185,18 +4207,19 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "음료 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072822",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=59af1b715e1345efa0ce5dbd4691f612",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4264438,
-    "lon": 126.4870326,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4264174,
+    "lon": 126.4872568,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "술집",
       "파노라마뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "59af1b715e1345efa0ce5dbd4691f612"
   },
   {
     "id": 184,
@@ -4207,32 +4230,33 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072821",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ce0d8f66314949278f69d7a4f921efa1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4264438,
-    "lon": 126.4870326,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4265885,
+    "lon": 126.4875628,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "파노라마뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "ce0d8f66314949278f69d7a4f921efa1"
   },
   {
     "id": 185,
     "code": "BPR25072898",
     "name": "영아리카페 사계해안본점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 안덕면 사계남로 80",
+    "address": "서귀포시 안덕면 사계남로 80 A동",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "전 메뉴 10% 할인(세트 및 주류 품목 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072898",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b403c1fbf9f40ec804d7c6cb6c2623a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2267705,
-    "lon": 126.2987347,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2267228,
+    "lon": 126.2987754,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -4240,23 +4264,31 @@ window.NOWDA_DATA = [
       "감성카페",
       "해안도로"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "4b403c1fbf9f40ec804d7c6cb6c2623a"
   },
   {
     "id": 186,
     "code": "BPR26040931",
     "name": "오늘은녹차한잔 카페",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772",
+    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4772 2층",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "결제금액 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26040931",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1ad1247b1faa4b2da91e1bc74fba6a0f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.381829574003,
-    "lon": 126.79100489395,
-    "eupmyeon": "표선면"
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3934305,
+    "lon": 126.794625,
+    "eupmyeon": "표선면",
+    "mainCategory": "식음료",
+    "subCategory": "카페",
+    "tags": [
+      "제주디저트",
+      "디저트"
+    ],
+    "partnerId": "1ad1247b1faa4b2da91e1bc74fba6a0f"
   },
   {
     "id": 187,
@@ -4267,11 +4299,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주동부",
     "benefit": "결제금액의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606171",
-    "status": "운영 안내 확인",
-    "note": "함덕 매장 운영 안내를 교차확인했습니다. 07:00~21:00, 라스트오더 19:30, 수요일 정기휴무입니다. (2026-09-07 검토)",
-    "lat": 33.5426264,
-    "lon": 126.6704307,
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fb0ec830fbdf47909098b4869cf8d76e",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.542337,
+    "lon": 126.6754501,
     "operationReview": {
       "checkedAt": "2026-09-07",
       "verdict": "운영 안내 교차확인",
@@ -4292,7 +4324,8 @@ window.NOWDA_DATA = [
     "tags": [
       "향토음식"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "fb0ec830fbdf47909098b4869cf8d76e"
   },
   {
     "id": 188,
@@ -4303,55 +4336,57 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "우도",
     "benefit": "제품 구매 시, 소금빵(3,200원) 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081328",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=673379998ec347fbb47d201700512b33",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5137896,
-    "lon": 126.9569853,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5137829,
+    "lon": 126.9569578,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "우도",
       "베이커리"
     ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "우도면",
+    "partnerId": "673379998ec347fbb47d201700512b33"
   },
   {
     "id": 189,
     "code": "BPR25072863",
     "name": "우유부단 제주성이시돌목장본점",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 한림읍 금악동길 38",
+    "address": "제주시 한림읍 금악동길 38",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "아이스크림, 음료 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072863",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=56fdc428c7a94246b27f2480408fab1f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3476667,
-    "lon": 126.3282377,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3476022,
+    "lon": 126.3280659,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "아이스크림",
       "로컬맛집"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "56fdc428c7a94246b27f2480408fab1f"
   },
   {
     "id": 190,
     "code": "BPR25072871",
     "name": "우정원베이커리 제주삼나무점",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 구좌읍 송당동2길 7-39",
+    "address": "제주시 구좌읍 송당동 2길 7-39",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "15%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072871",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d25e36075cba4f0f9a17ae213b5f65bb",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4672268,
-    "lon": 126.7817315,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4674013,
+    "lon": 126.7813449,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -4359,29 +4394,31 @@ window.NOWDA_DATA = [
       "정원",
       "숲"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "d25e36075cba4f0f9a17ae213b5f65bb"
   },
   {
     "id": 191,
     "code": "BPR25072936",
     "name": "웃뜨리",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 광성로 213",
+    "address": "제주 제주시 애월읍 광성로 213",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072936",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=62372273c4bd46a082ea13e91fc701e5",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.459505315949,
-    "lon": 126.42993152372,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4594786,
+    "lon": 126.4299544,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "대형카페",
       "베이커리"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "62372273c4bd46a082ea13e91fc701e5"
   },
   {
     "id": 192,
@@ -4392,74 +4429,77 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508203",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=75bac4d0a5394bb4993cce6e1f481351",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.499,
-    "lon": 126.448,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4932709,
+    "lon": 126.4224873,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "베이커리",
       "오션뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "75bac4d0a5394bb4993cce6e1f481351"
   },
   {
     "id": 193,
     "code": "BPR2605276",
     "name": "윈드스테이",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 테우해안로 64",
+    "address": "제주특별자치도 제주시 테우해안로 64 (내도동) 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "브런치 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2605276",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=106b8fdbba494fa0aaf016787009df58",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4963716,
-    "lon": 126.4415607,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4963779,
+    "lon": 126.4415143,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰",
       "브런치"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "106b8fdbba494fa0aaf016787009df58"
   },
   {
     "id": 194,
     "code": "BPR25072510",
     "name": "제육이다",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 대청로 12",
+    "address": "서귀동 291-11, 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "전체 비용의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072510",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aab4b2f615724573ac1034dbcfe0ac20",
     "status": "특이사항 미확인",
-    "note": "카카오맵 주소 확인 (2026-07-20)",
-    "lat": 33.2516021,
-    "lon": 126.5011568,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2523967,
+    "lon": 126.500681,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "aab4b2f615724573ac1034dbcfe0ac20"
   },
   {
     "id": 195,
     "code": "BPR2606021",
     "name": "제주기와",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 광령남4길 45-1",
+    "address": "제주특별자치도 제주시 애월읍 광령남4길 45-1 (애월읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606021",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8ea2779a941e4659b14b731185aacef6",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.451142,
     "lon": 126.4253839,
     "mainCategory": "식음료",
@@ -4469,7 +4509,8 @@ window.NOWDA_DATA = [
       "정원",
       "브런치"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "8ea2779a941e4659b14b731185aacef6"
   },
   {
     "id": 196,
@@ -4480,39 +4521,41 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "음료/계란찜/김치찌개 택 1 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25080811",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b843340a594a4f8fbea1d7f968c82dfa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4115279,
-    "lon": 126.2650216,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4115808,
+    "lon": 126.2650615,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "고기"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "b843340a594a4f8fbea1d7f968c82dfa"
   },
   {
     "id": 197,
     "code": "BPR25072931",
     "name": "제주삼춘도넛 성산점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 일출로 274-1",
+    "address": "서귀포시 성산읍 일출로 274-1 1호 2층",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "아메리카노 1잔 주문 시 1잔 무료(기본혜택), 도넛 6개 박스 구매 시 1개 추가증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072931",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=63316d087155426399c90c85474b4531",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4620761,
-    "lon": 126.9346687,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4621055,
+    "lon": 126.9348097,
     "mainCategory": "식음료",
     "subCategory": "간식",
     "tags": [
       "디저트",
       "베이커리"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "63316d087155426399c90c85474b4531"
   },
   {
     "id": 198,
@@ -4523,18 +4566,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "15%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072832",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dec3fcf2ce8749aa98b86b727c743c49",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.304972679171,
-    "lon": 126.31635202613,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3055092,
+    "lon": 126.3176808,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "다이닝",
       "해산물"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "dec3fcf2ce8749aa98b86b727c743c49"
   },
   {
     "id": 199,
@@ -4545,178 +4589,169 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "15%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072834",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=32d0c94798ef4d64ab497b583a75234b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.304972679171,
-    "lon": 126.31635202613,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3075729,
+    "lon": 126.3175965,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "다이닝"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "32d0c94798ef4d64ab497b583a75234b"
   },
   {
     "id": 200,
     "code": "BPR26021912",
     "name": "제주일도 서귀포 성산점",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 신양로 107",
+    "address": "제주 서귀포시 성산읍 신양로 107",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "김치찌개 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26021912",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=46f86c3239e74d25bf02ba255a3aecc0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.436797541912,
-    "lon": 126.92128435435,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4367608,
+    "lon": 126.9213186,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "46f86c3239e74d25bf02ba255a3aecc0"
   },
   {
     "id": 201,
     "code": "BPR26021910",
     "name": "제주흑돼지품",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 섭지코지로 57",
+    "address": "제주 서귀포시 성산읍 섭지코지로 57",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "테이블당 고추장찌개 or 청국장찌개 무료제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26021910",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=319181c7c2dc43b3bc612e82173ec4f0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.437529111614,
-    "lon": 126.92214250256,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4375142,
+    "lon": 126.92214,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": "성산읍"
-  },
-  {
-    "id": 202,
-    "code": "BPR250728102",
-    "name": "창화당 서귀포점",
-    "category": "식음료",
-    "address": "제주특별자치도 서귀포시 신서귀로 43",
-    "location": "서귀포시",
-    "area": "서귀포시내",
-    "benefit": "매장방문 식사 또는 포장 시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR250728102",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2573775,
-    "lon": 126.5106047,
-    "eupmyeon": null
+    "eupmyeon": "성산읍",
+    "partnerId": "319181c7c2dc43b3bc612e82173ec4f0"
   },
   {
     "id": 203,
     "code": "BPR25072876",
     "name": "춘심이네 오메기떡",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 일주서로 7719",
+    "address": "제주시 일주서로 7719 102호",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072876",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aee5f797798c43be8bcabc95473f1b6f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4942455,
-    "lon": 126.4709397,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4942622,
+    "lon": 126.4708247,
     "mainCategory": "식음료",
     "subCategory": "간식",
     "tags": [
       "제주디저트",
       "디저트"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "aee5f797798c43be8bcabc95473f1b6f"
   },
   {
     "id": 204,
     "code": "BPR2512034",
     "name": "카노푸스 카페",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문관광로 198",
+    "address": "제주 서귀포시 중문관광로 198 씨에스호텔앤리조트",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "20%할인(주류, 세트메뉴 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512034",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=45144ba75a624ef9a674979e71041e16",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.24291591839,
-    "lon": 126.42029332027,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.242916,
+    "lon": 126.4202933,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰",
       "중문"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "45144ba75a624ef9a674979e71041e16"
   },
   {
     "id": 205,
     "code": "BPR2508086",
-    "name": "카페 다결",
+    "name": "카페 끄덕",
     "category": "식음료",
     "address": "제주 제주시 우도면 우도해안길 778 1층",
     "location": "제주시",
     "area": "우도",
     "benefit": "전체 메뉴에서 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508086",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=93a0cee1faea4ad7b9377847386868ec",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5164707,
-    "lon": 126.9576765,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5164034,
+    "lon": 126.9577491,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "우도",
       "디저트"
     ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "우도면",
+    "partnerId": "93a0cee1faea4ad7b9377847386868ec"
   },
   {
     "id": 206,
     "code": "BPR2512036",
     "name": "카페 안녕성산",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 일출로 270-1",
+    "address": "제주 서귀포시 성산읍 일출로 270-1 3층",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "모든음료 10%할인 (케이크 종류 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512036",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3505923bf3a5401c8b2e4df460be6e04",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.461895741914,
-    "lon": 126.93453595439,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4618803,
+    "lon": 126.9345409,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "커피",
       "오션뷰"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "3505923bf3a5401c8b2e4df460be6e04"
   },
   {
     "id": 207,
     "code": "BPR2508085",
     "name": "카페살레",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 우도면 우도해안길 816",
+    "address": "제주시 우도면 우도해안길 816 1, 2층",
     "location": "제주시",
     "area": "우도",
     "benefit": "전체 메뉴에서 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508085",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0657882b08854677b8ebf1d19e18efb2",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.514491395398,
-    "lon": 126.95096088356,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5131314,
+    "lon": 126.9577602,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
@@ -4724,50 +4759,30 @@ window.NOWDA_DATA = [
       "오션뷰",
       "디저트"
     ],
-    "eupmyeon": "우도면"
+    "eupmyeon": "우도면",
+    "partnerId": "0657882b08854677b8ebf1d19e18efb2"
   },
   {
     "id": 208,
     "code": "BPR26031122",
     "name": "카페소낭",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 천제연로 127-1",
+    "address": "제주특별자치도 서귀포시 천제연로 127-1 (중문동, 스머프민박), 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "전메뉴 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26031122",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f4c863a069684c77988199b7a74ec3a3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.254280069792,
-    "lon": 126.41915589655,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2542877,
+    "lon": 126.4191539,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "반려동물동반"
     ],
-    "eupmyeon": null
-  },
-  {
-    "id": 209,
-    "code": "BPR26050643",
-    "name": "테우닷",
-    "category": "식음료",
-    "address": "제주특별자치도 제주시 서해안로 24",
-    "location": "제주시",
-    "area": "제주시내",
-    "benefit": "결제금액 10%할인 (중복할인 제외)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26050643",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5062257,
-    "lon": 126.4670436,
-    "mainCategory": "식음료",
-    "subCategory": "카페",
-    "tags": [
-      "감성카페",
-      "한라산뷰"
-    ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "f4c863a069684c77988199b7a74ec3a3"
   },
   {
     "id": 210,
@@ -4778,59 +4793,62 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "전 메뉴 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25081330",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=98e4fcf72fd8456e8637e012fb33d220",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2730349,
-    "lon": 126.2787911,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2729635,
+    "lon": 126.2787627,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "버거"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "98e4fcf72fd8456e8637e012fb33d220"
   },
   {
     "id": 211,
     "code": "BPR25072513",
     "name": "퍼블릭 수제맥주펍",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 중문상로 32",
+    "address": "서귀포시 중문상로 32, 2층(중문동)",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "전 메뉴 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072513",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f76bb79234745c4a9274f7bdb6e82c1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2663449,
-    "lon": 126.4322928,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2512181,
+    "lon": 126.4253981,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "술집"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6f76bb79234745c4a9274f7bdb6e82c1"
   },
   {
     "id": 212,
     "code": "BPR2512041",
     "name": "하와",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 한경면 일주서로 4533-9",
+    "address": "제주 제주시 한경면 일주서로 4533-9",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512041",
+    "benefit": "1단계 5% 할인 / 2단계 10% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6674de03334444f4830cad8a8c28d386",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.365371660921,
-    "lon": 126.19907807837,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3653715,
+    "lon": 126.1991919,
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
       "오션뷰"
     ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "한경면",
+    "partnerId": "6674de03334444f4830cad8a8c28d386"
   },
   {
     "id": 213,
@@ -4841,17 +4859,18 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "매장 내 식사 3만 원 이상 주문 시 10% 할인 (1인 1 메뉴 주문 필수)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2509172",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0dbb06cf184f43c3919c14558346c88e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4842101,
-    "lon": 126.412299,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4842064,
+    "lon": 126.4122105,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "로컬맛집"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "0dbb06cf184f43c3919c14558346c88e"
   },
   {
     "id": 214,
@@ -4862,17 +4881,18 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "흑돼지김치찌개 1인분 또는 고기 2인분주문시 1인분 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25102717",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=40a80207fde449fea3b60482bce3803c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3071802,
-    "lon": 126.3174379,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3050595,
+    "lon": 126.316336,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "고기"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "40a80207fde449fea3b60482bce3803c"
   },
   {
     "id": 215,
@@ -4883,31 +4903,32 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "흑돼지 김치찌개, 해녀라면 중 택1 무료제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25080518",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=14c52a381369461c9e5b379cf72fe404",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4771222,
-    "lon": 126.4916051,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4771134,
+    "lon": 126.4916114,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "해산물",
       "흑돼지"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "14c52a381369461c9e5b379cf72fe404"
   },
   {
     "id": 216,
     "code": "BPR2606294",
     "name": "허당소금빵",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 성산읍 환해장성로 559",
+    "address": "제주특별자치도 서귀포시 성산읍 환해장성로 559 (성산읍) 2층",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "결제금액의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2606294",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=390ddf953c4e4bc6a88ad4e7812dc02f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4052705,
     "lon": 126.9049027,
     "mainCategory": "식음료",
@@ -4915,7 +4936,8 @@ window.NOWDA_DATA = [
     "tags": [
       "베이커리"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "390ddf953c4e4bc6a88ad4e7812dc02f"
   },
   {
     "id": 217,
@@ -4926,32 +4948,33 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "웰컴 김치찌개 또는 유아키즈밀",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25102710",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=666c910d36884535985806ef349ef209",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3071802,
-    "lon": 126.3174379,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3044935,
+    "lon": 126.3159256,
     "mainCategory": "식음료",
     "subCategory": "식당",
     "tags": [
       "흑돼지"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "666c910d36884535985806ef349ef209"
   },
   {
     "id": 218,
     "code": "BPR25072521",
     "name": "회수다옥",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 1100로 453-38",
+    "address": "서귀포시 1100로 453-38(회수동 53-1)",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "한상차림 티백제공, 맡김차림 5%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072521",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7b7c2370c106420d91f9935cbab68b0d",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2860816,
-    "lon": 126.4508581,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2862605,
+    "lon": 126.4508562,
     "mainCategory": "식음료",
     "subCategory": "차",
     "tags": [
@@ -4959,44 +4982,46 @@ window.NOWDA_DATA = [
       "체험",
       "힐링"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "7b7c2370c106420d91f9935cbab68b0d"
   },
   {
     "id": 219,
     "code": "BPR26050642",
     "name": "노베아뷰티",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 1100로 3154",
+    "address": "제주특별자치도 제주시 1100로 3154 (노형동)",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "구매금액에 따른 사은품 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26050642",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b891d73d89d4415b92ed39c428f22100",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4680597,
-    "lon": 126.4854604,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4831861,
+    "lon": 126.5414341,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품",
       "브랜드"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "b891d73d89d4415b92ed39c428f22100"
   },
   {
     "id": 220,
     "code": "BPR2512171",
     "name": "모이소(MOISO)",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 신광로8길 14",
+    "address": "제주 제주시 신광로 8길 14",
     "location": "제주시",
     "area": "제주시내",
-    "benefit": "1만원 이상시부터 구매 금액별 사은품 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512171",
+    "benefit": "1단계 1만원 이상시부터 구매 금액별 사은품 증정 / 2단계 전 품목 5% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f736865a996a48f98f8421e95d01d4c6",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.48709704488,
-    "lon": 126.48852475321,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4870506,
+    "lon": 126.4885317,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
@@ -5004,44 +5029,46 @@ window.NOWDA_DATA = [
       "로컬편집샵",
       "전시"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "f736865a996a48f98f8421e95d01d4c6"
   },
   {
     "id": 221,
     "code": "BPR25072881",
     "name": "선물고팡 제주소품샵 공항점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 월성로 15",
+    "address": "제주시 월성로 15 (용담이동) 1층 선물고팡 공항점",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "15% 할인(중복할인불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072881",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4eafb43604894234a780ecbd7d9f6f9f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.502971772284,
-    "lon": 126.50494105452,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5029551,
+    "lon": 126.5049335,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품",
       "기념품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "4eafb43604894234a780ecbd7d9f6f9f"
   },
   {
     "id": 222,
     "code": "BPR25072882",
     "name": "선물고팡 제주소품샵 중문점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 중문관광로 154-17",
+    "address": "서귀포시 중문관광로 154-17 (색달동) 1층 선물고팡 중문점",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "15% 할인(중복할인불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072882",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ccac68ae1d7847949859bee4adfc432a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.245040354292,
-    "lon": 126.41559915824,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2439771,
+    "lon": 126.4154301,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
@@ -5050,42 +5077,44 @@ window.NOWDA_DATA = [
       "중문",
       "해안가"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "ccac68ae1d7847949859bee4adfc432a"
   },
   {
     "id": 223,
     "code": "BPR26062610",
     "name": "섬결",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 중앙로 19",
+    "address": "제주특별자치도 서귀포시 중앙로 19 (서귀동) 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "1만원 이상 구매시, 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26062610",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=14b5805224f44202a3e4a902bf2256b4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2494056,
-    "lon": 126.5606862,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2464329,
+    "lon": 126.5618782,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품",
       "기념품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "14b5805224f44202a3e4a902bf2256b4"
   },
   {
     "id": 224,
     "code": "BPR26061238",
     "name": "소길별하",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 애월읍 소길남길 34-37",
+    "address": "제주특별자치도 제주시 애월읍 소길남길 34-37 (애월읍) 1층",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "상품 구매 시 5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26061238",
+    "benefit": "1단계 상품 구매 시 5% 할인 / 2단계 1인 무료입장",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f52eb820185d4e12be077bd1888fbc15",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4299726,
     "lon": 126.3752613,
     "mainCategory": "쇼핑",
@@ -5094,7 +5123,8 @@ window.NOWDA_DATA = [
       "로컬편집샵",
       "브랜드"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "f52eb820185d4e12be077bd1888fbc15"
   },
   {
     "id": 225,
@@ -5105,18 +5135,19 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "5만원 이상 구매시 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508054",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=393834c4291a4576829b02042a4bc6c3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.471505,
-    "lon": 126.3669867,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4714821,
+    "lon": 126.3669822,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "핸드메이드",
       "소품"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "393834c4291a4576829b02042a4bc6c3"
   },
   {
     "id": 226,
@@ -5127,54 +5158,56 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "5만원 이상 구매 시 크리스마스 벽걸이 장식 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25102718",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9710af6c2bd54966bbf4e589f08986ea",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.291382,
-    "lon": 126.3278771,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2913123,
+    "lon": 126.3278107,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "9710af6c2bd54966bbf4e589f08986ea"
   },
   {
     "id": 227,
     "code": "BPR2507257",
     "name": "시트러스",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 남원읍 신례천로 46",
+    "address": "제주 서귀포시 남원읍 신례천로 46",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "구매금액 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507257",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fe6495b2e1c94e3c90d5986cbb05bd4f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2865823,
-    "lon": 126.6250017,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2866151,
+    "lon": 126.6249614,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "전통주",
       "기념품"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "fe6495b2e1c94e3c90d5986cbb05bd4f"
   },
   {
     "id": 228,
     "code": "BPR25072899",
     "name": "안온점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 한림읍 금능길 12",
+    "address": "제주시 한림읍 금능길 12 1층",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "1만원 이상 구매(체험)시 풍경 엽서 1종 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072899",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d1abf64a8c1d4a648fbd3da1c5351207",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3865394,
-    "lon": 126.2249882,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3865953,
+    "lon": 126.2248238,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
@@ -5183,7 +5216,8 @@ window.NOWDA_DATA = [
       "체험",
       "해안가"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "d1abf64a8c1d4a648fbd3da1c5351207"
   },
   {
     "id": 229,
@@ -5193,41 +5227,43 @@ window.NOWDA_DATA = [
     "address": "제주 제주시 조천읍 함덕 16길 15",
     "location": "제주시",
     "area": "제주동부",
-    "benefit": "5%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508088",
+    "benefit": "1단계 5%할인 / 2단계 10%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c674dd6074324b5e86f3aa679971975c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.5405542,
-    "lon": 126.6662046,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5403416,
+    "lon": 126.6670437,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "술집",
       "전통주"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "c674dd6074324b5e86f3aa679971975c"
   },
   {
     "id": 230,
     "code": "BPR2512221",
     "name": "인뷰티풀제주",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 중앙로 217",
+    "address": "제주 제주시 중앙로 7길 1",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "매장 방문 시 여행용키트(샴푸+린스+클렌징폼) /1인 1회 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2512221",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9be3784a83e04aa6918f8133cf76fb54",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.500306885636,
-    "lon": 126.52999961696,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5150265,
+    "lon": 126.5250425,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "체험",
       "소품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "9be3784a83e04aa6918f8133cf76fb54"
   },
   {
     "id": 231,
@@ -5238,83 +5274,87 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "15% 할인(중복할인불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072884",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6bbb38cbdbb84c20a51599170ad2d2e4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3096035,
-    "lon": 126.1661999,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4063201,
+    "lon": 126.2564575,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품",
       "기념품"
     ],
-    "eupmyeon": "한림읍"
+    "eupmyeon": "한림읍",
+    "partnerId": "6bbb38cbdbb84c20a51599170ad2d2e4"
   },
   {
     "id": 232,
     "code": "BPR25072883",
     "name": "제주 기념품샵 선물고팡 함덕점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 조천읍 신북로 491-9",
+    "address": "제주시 조천읍 신북로 491-9 (조천읍) 1층 선물고팡 함덕점",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "15% 할인(중복할인불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072883",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0cabc42e962d4db5a34f2841f021755a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.543817050075,
-    "lon": 126.66310036927,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5438201,
+    "lon": 126.6631092,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "소품",
       "기념품"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "0cabc42e962d4db5a34f2841f021755a"
   },
   {
     "id": 233,
     "code": "BPR25072874",
     "name": "제주관광공사 성산면세점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 중문동 2700",
+    "address": "서귀포시 성산읍 성산등용로 130-21 성산포항종합여객터미널",
     "location": "서귀포시",
-    "area": "서귀포시내",
+    "area": "서귀동부",
     "benefit": "성산면세점 150,000원 이상 구매 시 15,000원 할인 및 방문 사은품 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072874",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b096187014e416e8c256350b7016312",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.241202897661,
-    "lon": 126.42428649372,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.472928,
+    "lon": 126.9345063,
     "mainCategory": "쇼핑",
     "subCategory": "브랜드",
     "tags": [
       "브랜드"
     ],
-    "eupmyeon": null
+    "eupmyeon": "성산읍",
+    "partnerId": "4b096187014e416e8c256350b7016312"
   },
   {
     "id": 234,
     "code": "BPR25072873",
     "name": "제주관광공사 중문면세점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 중문동 2700",
+    "address": "서귀포시 중문관광로 224 제주국제컨벤션센터 1층",
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "중문면세점 150,000원 이상 구매 시 15,000원 할인 및 방문 사은품 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072873",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=032541220c264cd29b46ec59106ad587",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.241202897661,
-    "lon": 126.42428649372,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2412891,
+    "lon": 126.4244532,
     "mainCategory": "쇼핑",
     "subCategory": "브랜드",
     "tags": [
       "브랜드",
       "중문"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "032541220c264cd29b46ec59106ad587"
   },
   {
     "id": 235,
@@ -5324,41 +5364,43 @@ window.NOWDA_DATA = [
     "address": "제주 서귀포시 중정로 19",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "전 상품 1% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25080810",
+    "benefit": "1단계 전 상품 1% 할인 / 2단계 전 상품 3% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b9e6ddd1756145678614b8a9dedc41cd",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2477173,
-    "lon": 126.5586715,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2476987,
+    "lon": 126.5585853,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "로컬편집샵",
       "기념품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "b9e6ddd1756145678614b8a9dedc41cd"
   },
   {
     "id": 236,
     "code": "BPR2507291",
     "name": "제주술익는집",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 표선면 중산간동로 4726",
+    "address": "서귀포시 표선면 중산간동로 4726",
     "location": "서귀포시",
     "area": "서귀동부",
-    "benefit": "주류 구매금액 총액에서 5,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507291",
+    "benefit": "1단계 주류 구매금액 총액에서 5,000원 할인 / 2단계 아메리카노, 아이스티, 쉰다리 중 음료 1잔 무료제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cbdeb46367a848c08f3b8fcc523e87f7",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3849217,
-    "lon": 126.7938338,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3849249,
+    "lon": 126.7938917,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "전통주",
       "술집"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "cbdeb46367a848c08f3b8fcc523e87f7"
   },
   {
     "id": 237,
@@ -5369,18 +5411,19 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "무료시식, 방문 시 30% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072943",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=26f0b4ae996c47869e5c7607d2bb3688",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3156414,
-    "lon": 126.6350435,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3160969,
+    "lon": 126.6343685,
     "mainCategory": "쇼핑",
     "subCategory": "브랜드",
     "tags": [
       "기념품",
       "소품"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "26f0b4ae996c47869e5c7607d2bb3688"
   },
   {
     "id": 238,
@@ -5391,40 +5434,42 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주시내",
     "benefit": "1만원 이상 구매시, 5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2508047",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b6a6452948b4c70acea7551477fdce2",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.2820827,
-    "lon": 126.6341666,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5123431,
+    "lon": 126.524263,
     "mainCategory": "식음료",
     "subCategory": "술",
     "tags": [
       "술집",
       "전통주"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "4b6a6452948b4c70acea7551477fdce2"
   },
   {
     "id": 239,
     "code": "BPR25072854",
     "name": "지엘지엔비 두꺼비마유",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 구좌읍 비자림로 1191",
+    "address": "제주시 구좌읍 비자림로 1191",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "5만원 이상 구매 시 5천원 할인, 10만원 이상 구매 시 1만원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR25072854",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=912787483e694f49b6da4196f1671513",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.435282389399,
-    "lon": 126.73201560974,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.435283,
+    "lon": 126.7319666,
     "mainCategory": "쇼핑",
     "subCategory": "브랜드",
     "tags": [
       "브랜드",
       "기념품"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "912787483e694f49b6da4196f1671513"
   },
   {
     "id": 240,
@@ -5435,11 +5480,11 @@ window.NOWDA_DATA = [
     "location": "제주시",
     "area": "제주서부",
     "benefit": "전 제품 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2507285",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a13237d4d77149e5b8d95aa6def82b49",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4685815,
-    "lon": 126.34033,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.468813,
+    "lon": 126.3401703,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
@@ -5447,66 +5492,69 @@ window.NOWDA_DATA = [
       "소품",
       "해안도로"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "a13237d4d77149e5b8d95aa6def82b49"
   },
   {
     "id": 241,
     "code": "BPR2601291",
     "name": "한울제주",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 일주서로 6531",
+    "address": "제주시 애월읍 일주서로 6531 (애월읍), 101호",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2601291",
+    "benefit": "1단계 10%할인 / 2단계 15%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=069c506e9cb6402cb8e447699fbbd8c8",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.466968217216,
-    "lon": 126.35109396863,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4669773,
+    "lon": 126.3511004,
     "mainCategory": "쇼핑",
     "subCategory": "브랜드",
     "tags": [
       "기념품",
       "소품"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "069c506e9cb6402cb8e447699fbbd8c8"
   },
   {
     "id": 242,
     "code": "BPR2511205",
     "name": "행복한상점 동문시장점",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 동문로4길 10-1",
+    "address": "제주 제주시 동문로 4길 10-1 10번게이트 청년몰 앞",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "소품&쵸코렛10%, 과일&생선 5%",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2511205",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ae57bb7d53b549e19dcb8604e97bccb8",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.512549185081,
-    "lon": 126.52780493233,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5125515,
+    "lon": 126.5277714,
     "mainCategory": "쇼핑",
     "subCategory": "소품샵",
     "tags": [
       "기념품",
       "소품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "ae57bb7d53b549e19dcb8604e97bccb8"
   },
   {
     "id": 251,
     "code": "BPR2607061",
     "name": "양서대학",
-    "category": "식음료",
-    "address": "제주특별자치도 제주시 중앙로 243",
+    "category": "쇼핑/소품샵",
+    "address": "제주특별자치도 제주시 중앙로 243 (이도이동) 지하",
     "location": "제주시",
     "area": "제주시내",
-    "benefit": "음료 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607061",
+    "benefit": "1단계 책 구매 시 5% 적립 / 2단계 책10,000원 구입시 음료 20% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=536ae8c4bcbd4ea8b07b6676d131a327",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4982834,
-    "lon": 126.5311002,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.498283,
+    "lon": 126.5311,
     "firstSeen": "2026-07-15",
     "newUntil": "2026-07-21",
     "mainCategory": "식음료",
@@ -5514,20 +5562,21 @@ window.NOWDA_DATA = [
     "tags": [
       "북카페"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "536ae8c4bcbd4ea8b07b6676d131a327"
   },
   {
     "id": 252,
     "code": "BPR26070629",
     "name": "잔잔히",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 신엄안3길 49",
+    "address": "제주특별자치도 제주시 애월읍 신엄안3길 49 (애월읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "결제 금액의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070629",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2af9ea65013f47ad8a0d53d5304a7be3",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4735469,
     "lon": 126.3620327,
     "firstSeen": "2026-07-15",
@@ -5537,22 +5586,23 @@ window.NOWDA_DATA = [
     "tags": [
       "감성카페"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "2af9ea65013f47ad8a0d53d5304a7be3"
   },
   {
     "id": 253,
     "code": "BPR26070631",
     "name": "벨벨왓",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 구좌읍 송당3길 21-20",
+    "address": "제주특별자치도 제주시 구좌읍 송당3길 21-20 (구좌읍)",
     "location": "제주시",
     "area": "제주동부",
-    "benefit": "책방 굿즈 엽서 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070631",
+    "benefit": "1단계 책방 굿즈 엽서 증정 / 2단계 도서구매시 미니수제노트 또는 특별굿즈 증정",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d976b2c2a95144fd801db2de4ecb3125",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.4739956,
-    "lon": 126.7805895,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4740852,
+    "lon": 126.7804768,
     "firstSeen": "2026-07-15",
     "newUntil": "2026-07-21",
     "mainCategory": "쇼핑",
@@ -5561,79 +5611,21 @@ window.NOWDA_DATA = [
       "소품",
       "핸드메이드"
     ],
-    "eupmyeon": "구좌읍"
-  },
-  {
-    "id": 254,
-    "code": "BPR26070743",
-    "name": "스카이 다이어리 (Sky Diary)",
-    "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 월각로 927 제주당 야외광장",
-    "location": "제주시",
-    "area": "제주서부",
-    "benefit": "전 상품 15% 할인 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070743",
-    "status": "확인 필요",
-    "note": "비짓제주에 제주당 야외광장 드론 촬영 운영 안내가 있습니다. 나우다 공개 목록에서는 빠져 있어 할인 적용 여부를 010-4066-6492로 확인해주세요. (2026-09-07 검토)",
-    "lat": 33.3548605,
-    "lon": 126.3557526,
-    "firstSeen": "2026-07-15",
-    "newUntil": "2026-07-21",
-    "operationReview": {
-      "checkedAt": "2026-09-07",
-      "verdict": "운영 안내 있음·나우다 제휴 재확인",
-      "confidence": "공식 상세 존재·공개 혜택 목록 미노출",
-      "sources": [
-        {
-          "title": "비짓제주 스카이 다이어리 공식 상세",
-          "url": "https://www.visitjeju.net/zh/themtour/view?contentsid=CNTS_300000000014534&menuId=DOM_700000000010831"
-        }
-      ]
-    },
-    "mainCategory": "체험",
-    "subCategory": "기타",
-    "tags": [
-      "레포츠",
-      "체험"
-    ],
-    "eupmyeon": "애월읍"
-  },
-  {
-    "id": 255,
-    "code": "BPR26070739",
-    "name": "시원하당",
-    "category": "식음료",
-    "address": "제주특별자치도 제주시 한경면 판포1길 7-3",
-    "location": "제주시",
-    "area": "제주서부",
-    "benefit": "제주산 레드키위로 만든 미니잼 30ml 증정 (선착순/한정수량)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070739",
-    "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
-    "lat": 33.3647785,
-    "lon": 126.1982707,
-    "firstSeen": "2026-07-15",
-    "newUntil": "2026-07-21",
-    "mainCategory": "식음료",
-    "subCategory": "카페",
-    "tags": [
-      "제주디저트",
-      "디저트"
-    ],
-    "eupmyeon": "한경면"
+    "eupmyeon": "구좌읍",
+    "partnerId": "d976b2c2a95144fd801db2de4ecb3125"
   },
   {
     "id": 256,
     "code": "BPR26070741",
     "name": "라봉샵",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 서귀포시 안덕면 사계남로216번길 29",
+    "address": "제주특별자치도 서귀포시 안덕면 사계남로216번길 29 (안덕면) A동108호",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "커스텀굿즈 제작시 커스텀필름 4,000원 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070741",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e492f7f7ac7e426391d432bcfee90a2b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-15)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.2338354,
     "lon": 126.3104243,
     "firstSeen": "2026-07-15",
@@ -5645,20 +5637,21 @@ window.NOWDA_DATA = [
       "체험",
       "기념품"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "e492f7f7ac7e426391d432bcfee90a2b"
   },
   {
     "id": 257,
     "code": "BPR26072024",
     "name": "색달포레스트",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 산록남로1241번길 196-16",
+    "address": "제주특별자치도 서귀포시 산록남로1241번길 196-16 (색달동)",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "성인 1인 입장료 6,000원에 입장 가능 (입장권 25% 할인)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072024",
+    "benefit": "1단계 성인 1인 입장료 6,000원에 입장 가능 (입장권 25% 할인) / 2단계 1인 1회 무료 입장",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d20628c4284b4d33b99b9242e896ae61",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.3111821,
     "lon": 126.4266495,
     "firstSeen": "2026-07-31",
@@ -5669,20 +5662,21 @@ window.NOWDA_DATA = [
       "숲",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "d20628c4284b4d33b99b9242e896ae61"
   },
   {
     "id": 258,
     "code": "BPR26072031",
     "name": "촐파크",
     "category": "관광지",
-    "address": "제주특별자치도 서귀포시 표선면 성읍이리로 74",
+    "address": "제주특별자치도 서귀포시 표선면 성읍이리로 74 (표선면)",
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "입장권 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072031",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=74a1bc1e22434d0bb962dc2a26d1b852",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4117167,
     "lon": 126.7736358,
     "firstSeen": "2026-07-31",
@@ -5693,20 +5687,21 @@ window.NOWDA_DATA = [
       "테마파크",
       "체험"
     ],
-    "eupmyeon": "표선면"
+    "eupmyeon": "표선면",
+    "partnerId": "74a1bc1e22434d0bb962dc2a26d1b852"
   },
   {
     "id": 259,
     "code": "BPR26070742",
     "name": "무지개요트",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 도두항길 28-12",
+    "address": "제주특별자치도 제주시 도두항길 28-12 (도두일동)",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "정가 대비 50% 할인혜택제공(퍼블릭/선셋/해녀투어 모두 적용)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26070742",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6c23bb51d7744f98b2e5d7c95225dbb7",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.5082169,
     "lon": 126.4665643,
     "firstSeen": "2026-07-31",
@@ -5718,20 +5713,21 @@ window.NOWDA_DATA = [
       "바다",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6c23bb51d7744f98b2e5d7c95225dbb7"
   },
   {
     "id": 260,
     "code": "BPR2607102",
     "name": "리버티 셀프스튜디오 셀프사진관 동문시장점",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 관덕로17길 5",
+    "address": "제주특별자치도 제주시 관덕로17길 5 (일도일동) 지하",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "총 금액의 5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607102",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9a61fe1ca5c748158248621cacb01bb1",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.513612,
     "lon": 126.5271107,
     "firstSeen": "2026-07-31",
@@ -5742,20 +5738,21 @@ window.NOWDA_DATA = [
       "사진촬영",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "9a61fe1ca5c748158248621cacb01bb1"
   },
   {
     "id": 261,
     "code": "BPR26072026",
     "name": "제주차농",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 조천읍 와선로 254",
+    "address": "제주특별자치도 제주시 조천읍 와선로 254 (조천읍) 차암문화원",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "오늘의 차 한잔 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072026",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50368b30d7874cc2bced24512d6966c4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4849858,
     "lon": 126.6997267,
     "firstSeen": "2026-07-31",
@@ -5766,22 +5763,23 @@ window.NOWDA_DATA = [
       "카페",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "50368b30d7874cc2bced24512d6966c4"
   },
   {
     "id": 262,
     "code": "BPR26072028",
     "name": "고등어사진관",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 관덕로8길 34",
+    "address": "제주특별자치도 제주시 관덕로8길 34 (삼도이동) 2층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "종이액자1개, 냉장고자석2개 추가 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072028",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b0bd9ad49f97425cb9dd2ffabf9d8878",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
-    "lat": 33.510274,
-    "lon": 126.5232222,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5102994,
+    "lon": 126.5232918,
     "firstSeen": "2026-07-31",
     "newUntil": "2026-08-06",
     "mainCategory": "체험",
@@ -5790,20 +5788,21 @@ window.NOWDA_DATA = [
       "사진촬영",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "b0bd9ad49f97425cb9dd2ffabf9d8878"
   },
   {
     "id": 263,
     "code": "BPR26072029",
     "name": "카페더플로라화련",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 대정읍 무릉전지로 24-4",
+    "address": "제주특별자치도 서귀포시 대정읍 무릉전지로 24-4 (대정읍) 1층",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "1인 체험 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072029",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ffecee7dc79d44519e1d31b6f1400a07",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.2731417,
     "lon": 126.1938061,
     "firstSeen": "2026-07-31",
@@ -5814,20 +5813,21 @@ window.NOWDA_DATA = [
       "플라워공방",
       "체험"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "ffecee7dc79d44519e1d31b6f1400a07"
   },
   {
     "id": 264,
     "code": "BPR26072030",
     "name": "흙빚는화가",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 아란5길 13",
+    "address": "제주특별자치도 제주시 아란5길 13 (아라일동) 201호",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "무료택배 발송",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072030",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=47fd4e989a97463fbcbe1cb0cec175d0",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4754675,
     "lon": 126.5435889,
     "firstSeen": "2026-07-31",
@@ -5839,7 +5839,8 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "47fd4e989a97463fbcbe1cb0cec175d0"
   },
   {
     "id": 265,
@@ -5850,11 +5851,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀동부",
     "benefit": "1인당 체험금액 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072032",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f9688d4e95484185ae36b2e730a3a6bb",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
-    "lat": 33.340271681229,
-    "lon": 126.6830599308,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3402714,
+    "lon": 126.6830623,
     "firstSeen": "2026-07-31",
     "newUntil": "2026-08-06",
     "mainCategory": "체험",
@@ -5863,22 +5864,23 @@ window.NOWDA_DATA = [
       "승마",
       "체험"
     ],
-    "eupmyeon": "남원읍"
+    "eupmyeon": "남원읍",
+    "partnerId": "f9688d4e95484185ae36b2e730a3a6bb"
   },
   {
     "id": 266,
     "code": "BPR26072218",
     "name": "제주돌고래힐링투어",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 대정읍 동일하모로98번길 7",
+    "address": "제주특별자치도 서귀포시 대정읍 동일하모로98번길 14-32 (대정읍, 해녀탈의실)",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "대인 32,000원, 소인 27,000원 추가 지불 후 이용 가능",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072218",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cc76020bb3c74d7e8633d12ec999c39c",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
-    "lat": 33.2278143,
-    "lon": 126.2424106,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2253516,
+    "lon": 126.2416053,
     "firstSeen": "2026-07-31",
     "newUntil": "2026-08-06",
     "mainCategory": "체험",
@@ -5889,20 +5891,21 @@ window.NOWDA_DATA = [
       "힐링",
       "체험"
     ],
-    "eupmyeon": "대정읍"
+    "eupmyeon": "대정읍",
+    "partnerId": "cc76020bb3c74d7e8633d12ec999c39c"
   },
   {
     "id": 267,
     "code": "BPR2607101",
     "name": "텍사스두마리치킨연동점",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 노연로 62",
+    "address": "제주특별자치도 제주시 노연로 62 (연동, 신성오피스텔) 2층",
     "location": "제주시",
     "area": "제주시내",
-    "benefit": "전 메뉴 10% 할인단 (주류 및 타 할인과 중복 적용 불가)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607101",
+    "benefit": "1단계 전 메뉴 10% 할인단 (주류 및 타 할인과 중복 적용 불가) / 2단계 10회 이상 이용 고객 생맥주 1잔 무료제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4576d405d6ac48deaa18d33eba6b16ac",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4857727,
     "lon": 126.4867175,
     "firstSeen": "2026-07-31",
@@ -5912,22 +5915,23 @@ window.NOWDA_DATA = [
     "tags": [
       "치킨"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "4576d405d6ac48deaa18d33eba6b16ac"
   },
   {
     "id": 268,
     "code": "BPR2607103",
     "name": "연향주옥",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 남광로 17",
+    "address": "제주특별자치도 제주시 남광로 17 (이도이동)",
     "location": "제주시",
     "area": "제주시내",
-    "benefit": "연향주옥 시그니처 막걸리 칵테일 제공 (250ml / 9,000원 상당)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607103",
+    "benefit": "1단계 연향주옥 시그니처 막걸리 칵테일 제공 (250ml / 9,000원 상당) / 2단계 연향주옥 베스트 전통주 1병 제공 (업장 사정에 의해 상시 변경될 수 있음)",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f0c6a97fbf8e432abbc6193a3900f505",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
-    "lat": 33.499355,
-    "lon": 126.5450917,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4930249,
+    "lon": 126.5378484,
     "firstSeen": "2026-07-31",
     "newUntil": "2026-08-06",
     "mainCategory": "식음료",
@@ -5936,22 +5940,23 @@ window.NOWDA_DATA = [
       "술집",
       "전통주"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "f0c6a97fbf8e432abbc6193a3900f505"
   },
   {
     "id": 269,
     "code": "BPR26072025",
     "name": "제주육대표",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 일주서로 7895",
+    "address": "제주특별자치도 제주시 일주서로 7895 (연동)",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "5%할인 (할인 중복 적용 가능)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072025",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f9978a724a33498990872ac4e23ace6f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
-    "lat": 33.4941043,
-    "lon": 126.4901511,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.493902,
+    "lon": 126.4902802,
     "firstSeen": "2026-07-31",
     "newUntil": "2026-08-06",
     "mainCategory": "식음료",
@@ -5959,20 +5964,21 @@ window.NOWDA_DATA = [
     "tags": [
       "고기"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "f9978a724a33498990872ac4e23ace6f"
   },
   {
     "id": 270,
     "code": "BPR26072027",
     "name": "메르헨가든",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 봉성로 61",
+    "address": "제주특별자치도 제주시 애월읍 봉성로 61 (애월읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "디저트 2개 이상 구매시 아이스아메리카노 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26072027",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a7710ff4f5fc4f79b1c188c0b029d14e",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-07-31)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4183349,
     "lon": 126.3123396,
     "firstSeen": "2026-07-31",
@@ -5983,20 +5989,21 @@ window.NOWDA_DATA = [
       "정원",
       "베이커리"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "a7710ff4f5fc4f79b1c188c0b029d14e"
   },
   {
     "id": 271,
     "code": "BPR26073119",
     "name": "세이지룸",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 연동4길 28-8",
+    "address": "제주특별자치도 제주시 연동4길 28-8 (연동) 다온빌 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "원데이클래스 수강료 5천원 할인 (캔들, 디퓨저, 석고방향제 체험)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073119",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=53a307cbfc984a59ad03ccd6571b2461",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.483562,
     "lon": 126.4872534,
     "firstSeen": "2026-09-07",
@@ -6008,22 +6015,23 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "53a307cbfc984a59ad03ccd6571b2461"
   },
   {
     "id": 272,
     "code": "BPR26073121",
     "name": "제주팜테이블",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 일주동로 2253",
+    "address": "제주특별자치도 제주시 구좌읍 일주동로 2253 (구좌읍) 1층",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "2만원 상당 소시지 허브 키트 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073121",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4cc404c42e9740d09f535ec6886eb5c4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.5510513,
-    "lon": 126.7711892,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5505633,
+    "lon": 126.7723102,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6032,22 +6040,23 @@ window.NOWDA_DATA = [
       "쿠킹클래스",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "4cc404c42e9740d09f535ec6886eb5c4"
   },
   {
     "id": 273,
     "code": "BPR26073123",
     "name": "무브멘탈랩&뉴로필라테스",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 성산읍 일주동로4120번길 23-20",
+    "address": "제주특별자치도 서귀포시 성산읍 일주동로4120번길 23-20 (성산읍) 신관 2층",
     "location": "서귀포시",
     "area": "서귀동부",
-    "benefit": "1단계: 실내용 신발 무료대여",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073123",
+    "benefit": "1단계 실내용 신발 무료대여 / 2단계 1인 5,000원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=440bcee743324369b292836f15b7c88f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4591059,
-    "lon": 126.9102124,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4688553,
+    "lon": 126.9292196,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6056,22 +6065,23 @@ window.NOWDA_DATA = [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": "성산읍"
+    "eupmyeon": "성산읍",
+    "partnerId": "440bcee743324369b292836f15b7c88f"
   },
   {
     "id": 274,
     "code": "BPR26080711",
     "name": "요가베르데 원데이클래스",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 구좌읍 비자림로 1999-6",
+    "address": "제주특별자치도 제주시 구좌읍 비자림로 1999-6 (구좌읍) 2호 (왼쪽 건물)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "요가베르데 요가 클래스 참여 시 굿즈(자체 제작 떡메모지) 1개 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26080711",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=95bdc183e4a14e6bbe521b91419ec8af",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4844346,
-    "lon": 126.7870743,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4843751,
+    "lon": 126.7866575,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6080,20 +6090,21 @@ window.NOWDA_DATA = [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": "구좌읍"
+    "eupmyeon": "구좌읍",
+    "partnerId": "95bdc183e4a14e6bbe521b91419ec8af"
   },
   {
     "id": 275,
     "code": "BPR2608101",
     "name": "조이아워",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 간월동로 16",
+    "address": "제주특별자치도 제주시 간월동로 16 (아라이동) 3층 302호",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "10,000원 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608101",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=65310e1537ea465084cead258780ff00",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4856788,
     "lon": 126.5445437,
     "firstSeen": "2026-09-07",
@@ -6104,22 +6115,23 @@ window.NOWDA_DATA = [
       "웰니스",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "65310e1537ea465084cead258780ff00"
   },
   {
     "id": 276,
     "code": "BPR26081316",
     "name": "제주드론파크",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 조천읍 남조로 2109-38",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2109-36 (조천읍)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "1인 체험 5,000원 할인 (현장 15,000원 결제)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081316",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a4a369ee684f419bb100a11ea9380168",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4540851,
-    "lon": 126.6576267,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4538234,
+    "lon": 126.6577286,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6128,22 +6140,23 @@ window.NOWDA_DATA = [
       "드론",
       "체험"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "a4a369ee684f419bb100a11ea9380168"
   },
   {
     "id": 277,
     "code": "BPR2608192",
     "name": "사운드벙커",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 서귀포시 안덕면 화순서서로 106",
+    "address": "제주특별자치도 서귀포시 안덕면 화순서서로 106 (안덕면) 2층",
     "location": "서귀포시",
     "area": "서귀서부",
     "benefit": "사운드워킹 키트 장비 대여 (30분 자율 체험)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608192",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=805ec0500e874b15b4fce53788b7bffa",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.2735467,
-    "lon": 126.3155872,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2605563,
+    "lon": 126.3298151,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6153,22 +6166,23 @@ window.NOWDA_DATA = [
       "힐링",
       "체험"
     ],
-    "eupmyeon": "안덕면"
+    "eupmyeon": "안덕면",
+    "partnerId": "805ec0500e874b15b4fce53788b7bffa"
   },
   {
     "id": 278,
     "code": "BPR2608193",
-    "name": "올레사진관",
+    "name": "제주올레사진관",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 연삼로 218",
+    "address": "제주특별자치도 제주시 연삼로 218 (오라일동) 2층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "해녀 컨셉 촬영 시 고화질 보정본 1장 인화 선물 (예약1건/팀당)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608193",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6a589b41b203434f99c25cace2251364",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4936794,
-    "lon": 126.5319836,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4922829,
+    "lon": 126.5156301,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6177,20 +6191,21 @@ window.NOWDA_DATA = [
       "사진촬영",
       "체험"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "6a589b41b203434f99c25cace2251364"
   },
   {
     "id": 279,
     "code": "BPR2608263",
     "name": "뚜띠콜로리 뮤제오",
     "category": "체험/레포츠",
-    "address": "제주특별자치도 제주시 애월읍 장전로 109-12",
+    "address": "제주특별자치도 제주시 애월읍 장전로 109-12 (애월읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "컬러헌팅 체험 고객 10% 할인, 제품 구매 금액 5% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608263",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=204e035feb8c468e8d6650293d785502",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4519201,
     "lon": 126.3898006,
     "firstSeen": "2026-09-07",
@@ -6201,43 +6216,46 @@ window.NOWDA_DATA = [
       "공방체험",
       "체험"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "204e035feb8c468e8d6650293d785502"
   },
   {
     "id": 280,
     "code": "BPR2607288",
     "name": "제주오션뷰카페 마녀의언덕",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 예래해안로 205",
+    "address": "제주특별자치도 서귀포시 예래해안로 205 (하예동)",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "음료 및 베이커리류 20% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2607288",
+    "benefit": "음료 및 베이커리류 30% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2729a46709a4c92b0777e186ee5aeb9",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.2341251,
-    "lon": 126.3845829,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2340375,
+    "lon": 126.3846313,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
     "subCategory": "카페",
     "tags": [
-      "오션뷰"
+      "오션뷰",
+      "반려동물동반"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "e2729a46709a4c92b0777e186ee5aeb9"
   },
   {
     "id": 281,
     "code": "BPR26073118",
     "name": "라망드제주",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 하광로 416",
+    "address": "제주특별자치도 제주시 애월읍 하광로 416 (애월읍)",
     "location": "제주시",
     "area": "제주서부",
     "benefit": "음료15% 할인(음료만 해당,베이커리등 기타상품 미포함)",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073118",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8e00ad4994d742428a06674aca4cf24b",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4535043,
     "lon": 126.4251806,
     "firstSeen": "2026-09-07",
@@ -6247,20 +6265,21 @@ window.NOWDA_DATA = [
     "tags": [
       "베이커리"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "8e00ad4994d742428a06674aca4cf24b"
   },
   {
     "id": 282,
     "code": "BPR26073120",
     "name": "제주수울",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 서문로 72-1",
+    "address": "제주특별자치도 제주시 서문로 72-1 (용담일동) 1층 제주수울 본점",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "제주도 전통주 로컬술 5% 할인제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073120",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bee13cdcc1c940c99c6b26463ff590ec",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.512021,
     "lon": 126.518704,
     "firstSeen": "2026-09-07",
@@ -6271,7 +6290,8 @@ window.NOWDA_DATA = [
       "술집",
       "전통주"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "bee13cdcc1c940c99c6b26463ff590ec"
   },
   {
     "id": 283,
@@ -6282,11 +6302,11 @@ window.NOWDA_DATA = [
     "location": "서귀포시",
     "area": "서귀포시내",
     "benefit": "방문시 아메리카노 50% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26073122",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c99d68cc3997405aa8a1fd7d1fe44ece",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.2387788,
-    "lon": 126.4396208,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2387278,
+    "lon": 126.4394874,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6295,22 +6315,23 @@ window.NOWDA_DATA = [
       "베이커리",
       "오션뷰"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "c99d68cc3997405aa8a1fd7d1fe44ece"
   },
   {
     "id": 284,
     "code": "BPR26081317",
     "name": "카페 영포에버",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 조천읍 남조로 2109-36",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2109-36 (조천읍)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "전체 음료 금액의 10% 할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081317",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c13f8ee481304701a803518d533e3783",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4536844,
-    "lon": 126.6574672,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4538234,
+    "lon": 126.6577286,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6318,22 +6339,23 @@ window.NOWDA_DATA = [
     "tags": [
       "포토존"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "c13f8ee481304701a803518d533e3783"
   },
   {
     "id": 285,
     "code": "BPR26081416",
     "name": "포빈즈 로스터리카페",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 조천읍 중산간동로 668",
+    "address": "제주특별자치도 제주시 조천읍 중산간동로 668 (조천읍) 1층, 나동",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "원두 구매시 창작 11종 중 1잔 무료 제공 또는 커피 원두 구매 시 다른 커피 경험 드립백 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26081416",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e37353fdecd5498fbdc19b29edcd53c6",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4987983,
-    "lon": 126.6565745,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4987506,
+    "lon": 126.6567032,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6341,20 +6363,21 @@ window.NOWDA_DATA = [
     "tags": [
       "커피"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "e37353fdecd5498fbdc19b29edcd53c6"
   },
   {
     "id": 286,
     "code": "BPR26082011",
     "name": "도을",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 조천읍 남조로 2343",
+    "address": "제주특별자치도 제주시 조천읍 남조로 2343 (조천읍) 1층 도을카페",
     "location": "제주시",
     "area": "제주동부",
-    "benefit": "커피메뉴한정 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082011",
+    "benefit": "1단계 커피메뉴한정 10%할인 / 2단계 전체메뉴 10%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5cec284b867842df99b1af2f47fe5c75",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
     "lat": 33.4735811,
     "lon": 126.6571543,
     "firstSeen": "2026-09-07",
@@ -6365,22 +6388,23 @@ window.NOWDA_DATA = [
       "베이커리",
       "커피"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "5cec284b867842df99b1af2f47fe5c75"
   },
   {
     "id": 287,
     "code": "BPR2608211",
     "name": "중문별장",
     "category": "식음료",
-    "address": "제주특별자치도 서귀포시 천제연로 337",
+    "address": "제주 서귀포시 천제연로 337 중문별장",
     "location": "서귀포시",
     "area": "서귀포시내",
-    "benefit": "커피 오마카세 신청시 드립백 1개 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608211",
+    "benefit": "1단계 커피 오마카세 신청시 드립백 1개 증정 / 2단계 테이크 아웃 한정 아메리카노 1+1 이벤트 (1잔 구입시 1잔 추가 무료)",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=567e19b5e36f4bd3af009c92984f1718",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.2522085,
-    "lon": 126.440396,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2523445,
+    "lon": 126.4403076,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6389,22 +6413,23 @@ window.NOWDA_DATA = [
       "중문",
       "커피"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "567e19b5e36f4bd3af009c92984f1718"
   },
   {
     "id": 288,
     "code": "BPR2608191",
     "name": "블리스풀",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 애월읍 산록서로 383",
+    "address": "제주특별자치도 제주시 애월읍 산록서로 383 (애월읍) 1층 블리스풀",
     "location": "제주시",
     "area": "제주서부",
-    "benefit": "반려견 무료입장권 1장 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608191",
+    "benefit": "1단계 반려견 무료입장권 1장 제공 / 2단계 음료1잔& 반려견 무료입장권 1장 제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=90e2fd293c0a4c8482de63d73d1e2834",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4049743,
-    "lon": 126.4075198,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4049876,
+    "lon": 126.4072026,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6412,22 +6437,23 @@ window.NOWDA_DATA = [
     "tags": [
       "반려동물동반"
     ],
-    "eupmyeon": "애월읍"
+    "eupmyeon": "애월읍",
+    "partnerId": "90e2fd293c0a4c8482de63d73d1e2834"
   },
   {
     "id": 289,
     "code": "BPR26082127",
     "name": "덕이네",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 노형1길 18",
+    "address": "제주특별자치도 제주시 노형1길 18 (노형동) 1층",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "5%포인트적립",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082127",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=36623b022b524301be5c423f273c0e0f",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.480521722472,
-    "lon": 126.47520080209,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4805211,
+    "lon": 126.4752018,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6435,22 +6461,23 @@ window.NOWDA_DATA = [
     "tags": [
       "로컬맛집"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "36623b022b524301be5c423f273c0e0f"
   },
   {
     "id": 290,
     "code": "BPR26082521",
     "name": "아우아우",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 조천읍 와산3길 13-105",
+    "address": "제주특별자치도 제주시 조천읍 와산리 173 1층",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "반려동물 간식 증정",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR26082521",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=603fea25be7f4108a6549e8080790e38",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.4881609,
-    "lon": 126.6933136,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4880355,
+    "lon": 126.6932346,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6460,22 +6487,23 @@ window.NOWDA_DATA = [
       "포토존",
       "반려동물동반"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "603fea25be7f4108a6549e8080790e38"
   },
   {
     "id": 291,
     "code": "BPR2608265",
     "name": "글로시말차",
     "category": "식음료",
-    "address": "제주특별자치도 제주시 조천읍 조함해안로 112",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 112 (조천읍)",
     "location": "제주시",
     "area": "제주동부",
     "benefit": "모든 음료, 디저트 10%할인",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608265",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=92bbf5fc4dc14cff96f8a247fcd8962a",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.5458488,
-    "lon": 126.639865,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5456823,
+    "lon": 126.6395823,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "식음료",
@@ -6483,22 +6511,23 @@ window.NOWDA_DATA = [
     "tags": [
       "베이커리"
     ],
-    "eupmyeon": "조천읍"
+    "eupmyeon": "조천읍",
+    "partnerId": "92bbf5fc4dc14cff96f8a247fcd8962a"
   },
   {
     "id": 292,
     "code": "BPR2608264",
     "name": "제주 휠체어투어",
     "category": "쇼핑/소품샵",
-    "address": "제주특별자치도 제주시 공항로1길 14",
+    "address": "제주특별자치도 제주시 공항로1길 14 (용담이동, 제주시 삼영교통 사옥) B1",
     "location": "제주시",
     "area": "제주시내",
     "benefit": "무장애 캐릭터 굿즈 '휠 하르방' 제공",
-    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit-view?code=BPR2608264",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7af0b3473a074aab9685f849416f96b4",
     "status": "특이사항 미확인",
-    "note": "공식 API 확인 (2026-09-07)",
-    "lat": 33.5033448,
-    "lon": 126.4980073,
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4936156,
+    "lon": 126.5339221,
     "firstSeen": "2026-09-07",
     "newUntil": "2026-09-13",
     "mainCategory": "체험",
@@ -6507,6 +6536,429 @@ window.NOWDA_DATA = [
       "체험",
       "기념품"
     ],
-    "eupmyeon": null
+    "eupmyeon": null,
+    "partnerId": "7af0b3473a074aab9685f849416f96b4"
+  },
+  {
+    "id": 293,
+    "code": "BPR26090112",
+    "name": "에가톳 라이브러리",
+    "category": "관광지",
+    "address": "제주특별자치도 서귀포시 안덕면 병악로 266 (안덕면)",
+    "location": "서귀포시",
+    "area": "서귀서부",
+    "benefit": "1단계 라이브러리 이용 찻자리 30% 할인 / 2단계 에가톳 웰니스센터 요가 및 명상 30% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cf84c0a0dd2247c88669637aef92f032",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2931737,
+    "lon": 126.3707376,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "안덕면",
+    "mainCategory": "체험",
+    "subCategory": "웰니스",
+    "tags": [
+      "웰니스",
+      "힐링"
+    ],
+    "partnerId": "cf84c0a0dd2247c88669637aef92f032"
+  },
+  {
+    "id": 295,
+    "code": "BPR2609091",
+    "name": "꿀꺽사진관",
+    "category": "체험/레포츠",
+    "address": "제주특별자치도 서귀포시 성산읍 환해장성로 941 (성산읍)",
+    "location": "서귀포시",
+    "area": "서귀동부",
+    "benefit": "총이용 금액에서 5천원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d2e1ea754b544b97887cfb27c74b36f4",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4348814,
+    "lon": 126.9163285,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "성산읍",
+    "mainCategory": "체험",
+    "subCategory": "사진",
+    "tags": [
+      "사진촬영",
+      "오션뷰"
+    ],
+    "partnerId": "d2e1ea754b544b97887cfb27c74b36f4"
+  },
+  {
+    "id": 296,
+    "code": "BPR2609092",
+    "name": "언더워터플레이 바다씨워킹",
+    "category": "체험/레포츠",
+    "address": "제주특별자치도 제주시 구좌읍 김녕항1길 50-11 (구좌읍) 김녕수산문화복합센터 내 언더워터플레이",
+    "location": "제주시",
+    "area": "제주동부",
+    "benefit": "10% 할인 혜택",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1d1818f217944127b41bad8b28326a2d",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5581302,
+    "lon": 126.7402139,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "구좌읍",
+    "mainCategory": "체험",
+    "subCategory": "바다",
+    "tags": [
+      "바다",
+      "체험"
+    ],
+    "partnerId": "1d1818f217944127b41bad8b28326a2d"
+  },
+  {
+    "id": 297,
+    "code": "BPR2609161",
+    "name": "오션트래블러",
+    "category": "체험/레포츠",
+    "address": "제주특별자치도 서귀포시 신북로 12 (서호동) 1층",
+    "location": "서귀포시",
+    "area": "서귀포시내",
+    "benefit": "10%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0e6f54ed46bc45e6b2fe0d891d7bba71",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2583451,
+    "lon": 126.513079,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "체험",
+    "subCategory": "바다",
+    "tags": [
+      "다이빙",
+      "바다"
+    ],
+    "partnerId": "0e6f54ed46bc45e6b2fe0d891d7bba71"
+  },
+  {
+    "id": 298,
+    "code": "BPR2609282",
+    "name": "호다부난",
+    "category": "체험/레포츠",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 6723 (애월읍, 몽돌빌 1차) 702호",
+    "location": "제주시",
+    "area": "제주서부",
+    "benefit": "1인 5000원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=45a2bcee9c454babba1fbca876607ad1",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4725573,
+    "lon": 126.3702239,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "애월읍",
+    "mainCategory": "체험",
+    "subCategory": "공방",
+    "tags": [
+      "공방체험",
+      "핸드메이드"
+    ],
+    "partnerId": "45a2bcee9c454babba1fbca876607ad1"
+  },
+  {
+    "id": 300,
+    "code": "BPR26090111",
+    "name": "오또도넛 함덕점",
+    "category": "식음료",
+    "address": "제주특별자치도 제주시 조천읍 함덕13길 2 (조천읍)",
+    "location": "제주시",
+    "area": "제주동부",
+    "benefit": "모든 음료 테이크아웃 시 오리지널 글레이즈 도넛 1개 무료 제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=96892dfedbe04b57b8de984a33058736",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.541472,
+    "lon": 126.6677777,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "조천읍",
+    "mainCategory": "식음료",
+    "subCategory": "간식",
+    "tags": [
+      "디저트",
+      "베이커리"
+    ],
+    "partnerId": "96892dfedbe04b57b8de984a33058736"
+  },
+  {
+    "id": 301,
+    "code": "BPR26090114",
+    "name": "제주왕족보",
+    "category": "식음료",
+    "address": "제주특별자치도 제주시 중앙로24길 26 (삼도이동, 중앙주택)",
+    "location": "제주시",
+    "area": "제주시내",
+    "benefit": "방문 포장 시 사이즈 별 금액 할인(소:1000원, 중: 2000원, 대/특대: 3000원)",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbbd4d7aaa9e4d629a3f1b26edbff50c",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5060352,
+    "lon": 126.5224202,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "식음료",
+    "subCategory": "식당",
+    "tags": [
+      "고기"
+    ],
+    "partnerId": "fbbd4d7aaa9e4d629a3f1b26edbff50c"
+  },
+  {
+    "id": 302,
+    "code": "BPR26090416",
+    "name": "표선카라반국수",
+    "category": "식음료",
+    "address": "제주특별자치도 서귀포시 표선면 표선동서로 324-18 (표선면)",
+    "location": "서귀포시",
+    "area": "서귀동부",
+    "benefit": "향긋한쑥전(小) 제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3b4af4b2c0f94f9fbbaf34bbd3853f73",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3301167,
+    "lon": 126.8386719,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": "표선면",
+    "mainCategory": "식음료",
+    "subCategory": "식당",
+    "tags": [
+      "로컬맛집"
+    ],
+    "partnerId": "3b4af4b2c0f94f9fbbaf34bbd3853f73"
+  },
+  {
+    "id": 303,
+    "code": "BPR2609162",
+    "name": "숲속의도토리",
+    "category": "식음료",
+    "address": "제주특별자치도 제주시 도근내길 18 (외도일동) 1층",
+    "location": "제주시",
+    "area": "제주시내",
+    "benefit": "1단계 단품 주문시 도토리묵제공 ,코스 주문시 도토리 김가루밥 서비스 / 2단계 도토리 새싹전 추가 50% 할인 (정상가 만원)",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=382b1aaf94204a2f9a459c52c323f54c",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4924296,
+    "lon": 126.4330133,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "식음료",
+    "subCategory": "식당",
+    "tags": [
+      "로컬맛집"
+    ],
+    "partnerId": "382b1aaf94204a2f9a459c52c323f54c"
+  },
+  {
+    "id": 304,
+    "code": "BPR26091717",
+    "name": "추자본섬횟집 연동점",
+    "category": "식음료",
+    "address": "제주특별자치도 제주시 선덕로 14-1 (연동) 1층",
+    "location": "제주시",
+    "area": "제주시내",
+    "benefit": "코스요리 주문 시 10% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bfc9cd2869c4f5dba6a924340762063",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4854198,
+    "lon": 126.4982215,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "식음료",
+    "subCategory": "식당",
+    "tags": [
+      "해산물"
+    ],
+    "partnerId": "7bfc9cd2869c4f5dba6a924340762063"
+  },
+  {
+    "id": 305,
+    "code": "BPR2609102",
+    "name": "만달",
+    "category": "쇼핑/소품샵",
+    "address": "제주특별자치도 서귀포시 일주서로 710 (중문동) 1층",
+    "location": "서귀포시",
+    "area": "서귀포시내",
+    "benefit": "2만원 이상 구매시 10% 할인적용",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=adea9cfc774e4effa9589b3d19d133a4",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.2565869,
+    "lon": 126.433938,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "쇼핑",
+    "subCategory": "소품샵",
+    "tags": [
+      "소품",
+      "기념품",
+      "핸드메이드"
+    ],
+    "partnerId": "adea9cfc774e4effa9589b3d19d133a4"
+  },
+  {
+    "id": 306,
+    "code": "BPR2609189",
+    "name": "제주소품샵 엘비",
+    "category": "쇼핑/소품샵",
+    "address": "제주특별자치도 제주시 남광로 187 (일도이동, 대유상가) 2층 214호",
+    "location": "제주시",
+    "area": "제주시내",
+    "benefit": "지비츠&마그넷증정",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=386cadd9c5964584aacbc43ee25d08b8",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5015296,
+    "lon": 126.5528987,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "쇼핑",
+    "subCategory": "소품샵",
+    "tags": [
+      "캐릭터",
+      "소품"
+    ],
+    "partnerId": "386cadd9c5964584aacbc43ee25d08b8"
+  },
+  {
+    "id": 307,
+    "code": "BPR2609305",
+    "name": "핸드(HAND_HAVE A NICE DAY)",
+    "category": "쇼핑/소품샵",
+    "address": "제주특별자치도 제주시 신성로 82-8 (도남동) 1층, 핸드",
+    "location": "제주시",
+    "area": "제주시내",
+    "benefit": "구매금액 10%할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8cf664fe3f604ee8820a6284295b57e9",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4950464,
+    "lon": 126.5281102,
+    "firstSeen": "2026-10-13",
+    "newUntil": "2026-10-19",
+    "eupmyeon": null,
+    "mainCategory": "체험",
+    "subCategory": "공방",
+    "tags": [
+      "공방체험",
+      "핸드메이드"
+    ],
+    "partnerId": "8cf664fe3f604ee8820a6284295b57e9"
+  },
+  {
+    "id": 308,
+    "code": "9855469ce0a146608198b1941e95e244",
+    "firstSeen": "2026-10-26",
+    "newUntil": "2026-11-01",
+    "location": "서귀포시",
+    "area": "서귀동부",
+    "eupmyeon": "표선면",
+    "mainCategory": "식음료",
+    "subCategory": "카페",
+    "tags": [
+      "커피",
+      "감성카페"
+    ],
+    "address": "제주특별자치도 서귀포시 표선면 토산중앙로 22 (표선면) 1층",
+    "name": "그라포드커피",
+    "category": "식음료",
+    "benefit": "전메뉴 10% 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9855469ce0a146608198b1941e95e244",
+    "partnerId": "9855469ce0a146608198b1941e95e244",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3089272,
+    "lon": 126.7790381
+  },
+  {
+    "id": 309,
+    "code": "b2412a88324a428a904e0a6fe7cdf6a1",
+    "firstSeen": "2026-10-26",
+    "newUntil": "2026-11-01",
+    "location": "서귀포시",
+    "area": "서귀서부",
+    "eupmyeon": "안덕면",
+    "mainCategory": "식음료",
+    "subCategory": "간식",
+    "tags": [
+      "제주디저트",
+      "디저트"
+    ],
+    "address": "제주특별자치도 서귀포시 안덕면 신화역사로685번길 236 (안덕면)",
+    "name": "소소당",
+    "category": "식음료",
+    "benefit": "1인체험 5,000원 할인",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b2412a88324a428a904e0a6fe7cdf6a1",
+    "partnerId": "b2412a88324a428a904e0a6fe7cdf6a1",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.3261574,
+    "lon": 126.3786882
+  },
+  {
+    "id": 310,
+    "code": "599412cdb501446db98cff8e0d62f0e5",
+    "firstSeen": "2026-10-26",
+    "newUntil": "2026-11-01",
+    "location": "제주시",
+    "area": "제주시내",
+    "eupmyeon": null,
+    "mainCategory": "식음료",
+    "subCategory": "간식",
+    "tags": [
+      "제주디저트",
+      "디저트"
+    ],
+    "address": "제주특별자치도 제주시 공항로 2 (용담이동, 제주국제공항) 4번 GATE 인근",
+    "name": "우무 제주공항점",
+    "category": "식음료",
+    "benefit": "LEVEL 2 이상 웰컴푸드 증정",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=599412cdb501446db98cff8e0d62f0e5",
+    "partnerId": "599412cdb501446db98cff8e0d62f0e5",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.5070772,
+    "lon": 126.4934311
+  },
+  {
+    "id": 311,
+    "code": "b20c416917e7415fb4eedce2c7898319",
+    "firstSeen": "2026-10-26",
+    "newUntil": "2026-11-01",
+    "location": "제주시",
+    "area": "제주시내",
+    "eupmyeon": null,
+    "mainCategory": "쇼핑",
+    "subCategory": "소품샵",
+    "tags": [
+      "전시",
+      "로컬편집샵"
+    ],
+    "address": "제주특별자치도 제주시 원노형10길 38-1 (노형동) 1층",
+    "name": "아트42",
+    "category": "쇼핑/소품샵",
+    "benefit": "방문 시, 아트 엽서 3종 세트 무료 제공",
+    "sourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b20c416917e7415fb4eedce2c7898319",
+    "partnerId": "b20c416917e7415fb4eedce2c7898319",
+    "status": "특이사항 미확인",
+    "note": "비짓제주 나우다 공식 목록 확인 (2026-10-26)",
+    "lat": 33.4826498,
+    "lon": 126.4863868
   }
 ];
