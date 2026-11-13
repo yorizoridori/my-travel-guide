@@ -15,7 +15,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화요일",
     "phone": "064-710-8981",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d498604774494201a24c741e48d1e544"
   },
@@ -35,7 +35,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "064-792-5700",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c39de099577247dcbcb15d732e819bea"
   },
@@ -55,7 +55,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:50 - 18:30 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-783-6700",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=02350a98c5594d0abdce899f55415a54"
   },
@@ -75,7 +75,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-710-7475",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0b0ba5f5034f4e7f891601d2a55187e6"
   },
@@ -95,7 +95,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:00~18:00 입장마감: 17:00 · 휴무안내: 매주 월요일",
     "phone": "064-773-5800",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0903d6c1c0bf490693eaccf4986cb36b"
   },
@@ -115,7 +115,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일 / 1월 1일, 설날, 추석",
     "phone": "064-733-1586",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9fa222023a224e918766d24a0a940340"
   },
@@ -135,7 +135,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간 : 09:00 - 17:50 입장마감 17:00 · 휴무일 : 연중무휴",
     "phone": "0507-1402-9266",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=815e3afe5cb6447aaf2b45dad27112fa"
   },
@@ -155,7 +155,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 18:00 입장마감 17:30 · 휴무안내: 매주 목요일(정기휴무), 1월 1일",
     "phone": "064-900-9097",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a2df63ae7e3a4b3088a24115a5140c91"
   },
@@ -183,7 +183,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "노루생태전시관/상시관찰원 : 09:00 - 18:00 매표마감 17:00 · 노루먹이주기체험/노루만들기 체험 : 09:00 - 16:00 매표마감 15:30 · 노루생태 주 관찰원(거친오름 탐방로) : 동절기(11월~2월) 09:00 - 17:00 매표마감 16:00 · 하절기(3월~10월) 09:00 - 18:00 매표마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-728-3611",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=df1c4236b0fd4d1d8b880f4a7a5e0fd6"
   },
@@ -203,7 +203,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "064-713-1888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e3c9deddbb1a48329540151583931751"
   },
@@ -223,7 +223,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-795-8080",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=596d58c7cb1e45c9884d5d4e2c6bdfbb"
   },
@@ -243,7 +243,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "064-805-0888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0e0ee9049a384939a105bc3caff96d4c"
   },
@@ -263,7 +263,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "※ 업체 사전 유선예약 필수 · 휴무안내: 연중무휴 · 1. 업체 사전 유선예약 필수입니다. · 3. 기상 악화 또는 업체 사정으로 운항시간 및 휴무일이 변경 될 수 있습니다.",
     "phone": "064-794-5490 (평일 및 공휴일 포함 08:00 - 17:00)",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3fbafac77a3b4b36bba7fce2dc12ba50"
   },
@@ -282,8 +282,8 @@ window.NOWDA_DETAILS = {
       }
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 매주 첫째주 수요일",
-    "phone": "094-710-7903",
-    "checkedAt": "2026-10-26",
+    "phone": "064-710-7903",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9ba32b58cf5a401fb1048e7375292c06"
   },
@@ -303,7 +303,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 매표마감 17:30 · 휴무안내: 매주 월요일 / 1월 1일, 명절 및 명절 다음날",
     "phone": "064-710-7708",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b987f775815493cbb95b060ef2621b5"
   },
@@ -323,7 +323,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "064-805-0888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bfb0fa2f5a234e80a68d55161bbcff8e"
   },
@@ -343,7 +343,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 09:00~18:00 (입장마감 17:00) · 휴무일",
     "phone": "064-884-6566",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bd3350d90e4f4ac9907d5b247b160242"
   },
@@ -363,7 +363,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-792-8108",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=86effbc43c7245278838a2fe5c13aa70"
   },
@@ -387,7 +387,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "하절기(3월~10월) : 08:00 - 18:00 매표마감 17:00 · 동절기(11월~2월) : 09:00 - 17:00 매표마감 16:00 · 휴무안내: 연중무휴",
     "phone": "064-760-3559",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b540c2797b95404aa8e1347eb2854a39"
   },
@@ -407,7 +407,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "064-792-0702",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=42f7f7d57b9241869007df988f17e063"
   },
@@ -427,7 +427,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-710-7911",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fda23d61e8fc43a0a3aab8a5880bc93c"
   },
@@ -451,7 +451,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "간·하절기(3~10월) : 08:45~18:00 입장마감 17:00 · 동절기(11~2월) : 08:45~17:30 입장마감 16:30 · 휴무일: · 1. 기상 악화 및 업체 사정으로 인하여 운영 시간 및 휴무 일이 변경될 수 있습니다.",
     "phone": "064-773-0000",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=881fa76470414a699af8ec750e65b975"
   },
@@ -471,7 +471,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 -18:00 입장마감 일몰시간에 따라 변동 · 휴무안내: 연중무휴",
     "phone": "064-794-2940",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2b709a2037124343950083544e2a7d20"
   },
@@ -491,7 +491,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일: 연중무휴",
     "phone": "064-784-4187",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50660479ddf94684a327f8a3fb5b8046"
   },
@@ -511,7 +511,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:30 · 휴무안내: 연중무휴 (1/1. 설날, 추석 10시 개장)",
     "phone": "064-722-3315",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=51d8818ec481419398815dd656f975a1"
   },
@@ -531,7 +531,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "0507-1380-9738",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a9b64a155b904ba0be5621ca3a5e53cd"
   },
@@ -551,7 +551,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-733-2200",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5f9fced587b84fc1a71004bc1b3eab27"
   },
@@ -571,7 +571,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1324-3701",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a45cbad2d28f489a927bda180260f20c"
   },
@@ -595,7 +595,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 2. 서귀포 치유의 숲 체험 프로그램은 사전 예약 필수 입니다.",
     "phone": "064-7603-0678",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dedc1dc3737a4632ad405110ba5439f0"
   },
@@ -615,7 +615,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 1월 1일, 설날, 추석",
     "phone": "064-760-6398",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6bcb9378e1a34dc1aa9b5ac525c21650"
   },
@@ -635,7 +635,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일 / 1월 1일, 설날, 추석, 내부사정에 따른 임시휴관일",
     "phone": "064-739-9701",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5986cce0cebc432daaf227528f0d9646"
   },
@@ -655,7 +655,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-783-7272",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f8fb143ec4d42b783150d8c9b47c65b"
   },
@@ -675,7 +675,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:00~18:00 입장마감 17:00 · 휴무안내:",
     "phone": "064-784-9001",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0386baf633d1477593409463dda6302c"
   },
@@ -703,7 +703,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "동절기(11월~익년2월) : 06:00 - 18:00 매표마감 17:00 · 춘/추절기(3~4월, 9~10월) : 05:00 - 19:00 매표마감 18:00 · 하절기(5~8월) : 04:30 - 20:00 매표마감 19:00 · 휴무안내: 매달 첫번째 월요일",
     "phone": "064-783-0959",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8acc4bde89644ee9b5569d32b0ca8a66"
   },
@@ -723,7 +723,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-794-5400",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3e402f7c36aa480a870de61de3b404af"
   },
@@ -743,7 +743,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간 : 09:00 - 18:00 입장마감 17:30 · 휴무안내: 연중무휴",
     "phone": "010-9076-9953",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c63e6baa57684780a2c2500965037a14"
   },
@@ -767,7 +767,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "* 하절기(4월~9월): 09:00 ~ 19:00(입장마감 18:00) · * 동절기(10월~3월): 09:00 ~ 18:00(입장마감 17:00) · 휴무안내:",
     "phone": "064-805-1118",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6ac62519804a41d38a775da625f242d3"
   },
@@ -787,7 +787,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00~20:00 (입장마감 19:00) · 휴무안내: 연중무휴",
     "phone": "1899-5008",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ae0a05f8ee0644a0a5950c1e20151ca7"
   },
@@ -807,7 +807,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1335-1062",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7b36f298842547fcb13eb0db95152dba"
   },
@@ -827,7 +827,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:30 - 22:00 입장마감 주간 17:20 야간 20:30 · 휴무안내: 연중무휴",
     "phone": "064-802-8000",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a76db8cc111e4f9f89ec2114a8421b71"
   },
@@ -847,7 +847,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-760-6321",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3a90815909764e66abdee26df430a067"
   },
@@ -867,7 +867,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:30 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-766-6077",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cfde71b24dcb426b9ee2ea4a5ff51fab"
   },
@@ -887,7 +887,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 ~ 20:00 (입장마감 19:00) · 휴무안내: 연중무휴",
     "phone": "0507-1344-6430",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e99f461af42a463bb51be3107f926b28"
   },
@@ -907,7 +907,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일",
     "phone": "064-760-3567",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d3fdc7e3eb844633a917902f4ef2729f"
   },
@@ -927,7 +927,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "064-784-2080",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7db8f55ac3aa457d982926cba74e37b0"
   },
@@ -947,7 +947,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1446-3048",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=42348dbf6c5441c684a92f0aa8ee9fb1"
   },
@@ -967,7 +967,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-733-1530",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3de3e11830064d6593336460a61bb0b3"
   },
@@ -991,7 +991,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 매표마감 17:30 · 하절기(7~9월) : 09:00 - 17:00 매표마감 16:30 · 휴무안내: 매주 월요일 / 1월 1일, 추석, 설날",
     "phone": "064-710-4150",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d29fedc3932e4d94b418b816e28df258"
   },
@@ -1011,7 +1011,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 매표마감 17:00 · 휴무안내: 매주월요일 / 1월 1일, 설날, 추석",
     "phone": "064-710-4300",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bb11e4411175409897cc245098a788c1"
   },
@@ -1031,7 +1031,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 매표마감 17:00 · 휴무안내: 매주 월요일",
     "phone": "064-710-7731",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cdd9483e7aac4a51848b3150d3d61468"
   },
@@ -1051,7 +1051,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "입장마감 : · 휴무일 :",
     "phone": "064-712-6988",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bf26b62e95f46b1897d41d4ff26a9b9"
   },
@@ -1071,7 +1071,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 매표마감 17:30 · 휴무안내: 연중무휴",
     "phone": "064-740-6714",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3af59ec2c6304f619830a726796a6183"
   },
@@ -1095,7 +1095,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "※ 입장마감 1시간전 · 09:30~18:00 입장마감 17:00 · 09:30~19:00 입장마감 18:00 · 휴무일:",
     "phone": "064-787-4501",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=23157b8692914aa4862fe339925fa64c"
   },
@@ -1115,29 +1115,9 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일 / 1월 1일, 설/추석 당일 · 1. 입장은 현장 발매로 진행됩니다. (단체방문은 예약 필수)",
     "phone": "064-728-8900",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=629a3d8d57684d22be63f81fd9dde466"
-  },
-  "56": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/443b0071-f2a8-426a-a2e4-6c521f3f1cbb.webp",
-    "imageAlt": "제주불빛정원 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3549165c7ed94653a6e68910ae52cf40",
-    "summary": "환상적인 빛의 축제가 펼쳐지는 제주 불빛정원에서 특별한 밤을 만끽하는 공간",
-    "description": "빛으로 물든 제주 야경, 그리고 낭만적인 바비큐까지! 제주의 밤을 더욱 아름답게 만들어줄 공간, 제주불빛정원은 해가 지고 어둠이 내려앉으면, 정원 전체가 수만 개의 조명과 예술적 조형물로 환상적인 야경을 선사합니다.",
-    "address": "제주시 애월읍 평화로 2346",
-    "weeklyHours": [
-      {
-        "days": "운영일",
-        "hours": "17:00 - 24:00"
-      }
-    ],
-    "hoursNote": "운영시간: 17:00 - 24:00 매표마감 23:00 · 휴무안내: 연중무휴",
-    "phone": "0507-1416-6996",
-    "checkedAt": "2026-10-26",
-    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
-    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3549165c7ed94653a6e68910ae52cf40"
   },
   "57": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/bae42f86-fb45-4689-abdc-d3233fa6dc93.webp",
@@ -1155,7 +1135,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 17:50 매표마감 17:20 · 휴무안내: 매월 첫번째 화요일 / 설날, 추석",
     "phone": "064-710-8980",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=846d6c4403974633ac260abd9bc99d5a"
   },
@@ -1175,7 +1155,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "공연시간 : 09:40 / 11:00 / 14:30 *공연시작 후 입장마감 · 휴무안내: 연중무휴 · 3) 현장 상황에 따라 공연 시간 및 휴무일 변동될 수 있습니다.",
     "phone": "064-787-2258",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=23afd2aa41cd4a11bbe90b8b73e3209c"
   },
@@ -1195,7 +1175,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매달 3번째 월요일 정기 휴무",
     "phone": "064-800-2000",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ca64b998af6c4fcba84bf4c54d0e7715"
   },
@@ -1215,7 +1195,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일 / 1월 1일, 설날, 추석",
     "phone": "064-782-9898",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2a5f9b8c1e5744f6a85028032d499814"
   },
@@ -1235,7 +1215,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00~17:00 (입장마감 16:15) · 휴무일: 연중무휴",
     "phone": "064-739-1024",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d21279167a2a4955a8855f5b42e3745d"
   },
@@ -1255,7 +1235,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:00 - 17:30 입장마감 17:10 · 휴무안내:",
     "phone": "064-738-1521",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=eb96744007ca43dba70db14b61e90847"
   },
@@ -1275,7 +1255,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 17:50 입장마감 17:10 · 휴무안내: 연중무휴",
     "phone": "064-760-6331",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dffccb78b9fb4d09b7b6c2a96a8ac86f"
   },
@@ -1299,7 +1279,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "하절기(4월~10월) 09:00 - 19:00 입장마감 18:20 · 동절기(11월~3월) 09:00 - 17:00 입장마감 16:20 · 휴무안내: 연중무휴",
     "phone": "064-733-1528",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=47c4b147e1944a788aa21dcd6057d49a"
   },
@@ -1327,7 +1307,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "입장마감 : · 휴무안내 :",
     "phone": "064-759-0088",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aa31cc1df26946f3a85a03d222f734c3"
   },
@@ -1347,7 +1327,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "070-8861-8899",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1b4e1c40b4e24427bd726531e370a533"
   },
@@ -1367,7 +1347,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1309-0967",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0fba42c2a8f64a6c84627f909d97ca02"
   },
@@ -1387,7 +1367,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:30 - 18:00 입장마감 17:30 · 휴무안내: 연중무휴",
     "phone": "0507-1433-2264",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cc5bae4d398741639de7b3fb65ee03af"
   },
@@ -1407,7 +1387,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "070-8850-8850",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c17393af3393436f842596051ac0b577"
   },
@@ -1427,7 +1407,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "064-805-0996",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6fbd401b3869406da5e275afe5ad4443"
   },
@@ -1447,7 +1427,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 20:00 입장마감 19:00 · 휴무안내: 연중무휴",
     "phone": "0507-1329-1666",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50678ebf4484495fab48b87961c251e3"
   },
@@ -1467,7 +1447,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1328-3350",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1d68cb842fa84d779f9b46525296daad"
   },
@@ -1487,7 +1467,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주월요일 / 1월 1일, 설날, 추석",
     "phone": "064-710-7801",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2e2428523484a29af795ef3f828179b"
   },
@@ -1507,7 +1487,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 하절기_4~10월 17:00 · 휴무안내: 연중무휴",
     "phone": "0507-1388-9988",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cac61cbe37a248a596d5495b59cd2c31"
   },
@@ -1527,7 +1507,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일 오전 휴무",
     "phone": "0507-1431-2488",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7fdaa0bb82e44b69983e08ac84292c9d"
   },
@@ -1547,7 +1527,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 3~9월 17:30 / 10~2월 16:30 · 휴무안내: 연중무휴",
     "phone": "064-732-2114",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a34e96fdba57417aaf43d0cc44ec10d1"
   },
@@ -1567,7 +1547,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "1833-9810",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f83f8b8fdfbc44cabc0093650b285740"
   },
@@ -1587,7 +1567,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일정: · 1. 사전 예약 필수",
     "phone": "064-730-1421 / 064-730-1465",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c17c667be65142e5ad6cd4122a57a2c1"
   },
@@ -1607,7 +1587,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "웰니스 센터 수영장 실내 08:00 - 21:30 (실외 09:00 - 20:00) 입장마감 20:30 · 휴무일정: 연중무휴 · 1. 사전 예약 필수",
     "phone": "064-730-1462",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=608b9d850c1048fca2e91bd1cbc77eea"
   },
@@ -1631,7 +1611,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "3월~10월 9:00 - 18:30 입장마감 11:40, 18:00 · 11월~2월 9:00 - 18:00 입장마감 11:40, 17:30 · 휴무안내: 연중무휴",
     "phone": "064-805-0888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6ec7e9085bbc4343b1c97342c67f1da9"
   },
@@ -1651,7 +1631,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:50~18:30 (입장마감 18:00) · 휴무일: 연중무휴",
     "phone": "010-9507-4319",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c01cbb70f3304052bc180ba7133ec3c3"
   },
@@ -1671,7 +1651,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 업체 사전 예약 필수 : 사전 예약 시",
     "phone": "0507-1407-7785",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8562b1f43e254872aa12ad7c38607323"
   },
@@ -1691,7 +1671,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 -17:30 입장마감 16:30 · 휴무안내: 연중무휴",
     "phone": "064-792-7200",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7789f912f9894fa4a9aaf989ff6d9a9d"
   },
@@ -1711,7 +1691,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "010-6833-3696",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=393be62fdd034a2ca5281e202008f7a3"
   },
@@ -1731,7 +1711,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "010-6833-3696",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1482e7ffa318457980d529ccd24acdfa"
   },
@@ -1751,7 +1731,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 17:00 입장마감 16:30 휴게시간 12:00 - 13:00 · 휴무안내: 연중무휴",
     "phone": "064-787-2256",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b8eda30e4cbe462b8fbbd487594a858d"
   },
@@ -1771,7 +1751,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1433-7766",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5c131d22247e4b61bcef115618e105db"
   },
@@ -1791,7 +1771,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 -18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "0507-1326-0912",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2270a6375e04113b51e55a76db433d1"
   },
@@ -1811,7 +1791,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 19:00 입장마감 18:00 · 휴무안내: 연중무휴",
     "phone": "064-792-0702",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=20d3e4944ad8437e99e5842cf6441550"
   },
@@ -1831,7 +1811,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:50~18:30 (입장마감 18:00) · 휴무일: 연중무휴",
     "phone": "010-9507-4319",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e40e7b209f4a437c8736c121814c0dd4"
   },
@@ -1851,7 +1831,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 2. 업체 유선 예약 필수(0507-1336-1433)",
     "phone": "0507-1336-1433",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=acc638a6dca840bca04f8b63b57da1d3"
   },
@@ -1871,7 +1851,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 사전 예약 필수 입니다. ※ 예약하러 가기 ☞",
     "phone": "064-794-6661",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c3fa07da90c947b080398b8bbb67d2e4"
   },
@@ -1891,7 +1871,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-787-5220",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=81e3db76e9d54fada288b904d732f809"
   },
@@ -1911,7 +1891,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 사전 예약 필수",
     "phone": "0507-1486-4520",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9e71acd8b7dc4e3687e64300f2ba2826"
   },
@@ -1931,7 +1911,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1353-9837",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7a95a755e6594a4a8bbd43a7b2ba051b"
   },
@@ -1951,7 +1931,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1316-4967",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3b2a466ccdf94bdca0e4ca21c6cb42c7"
   },
@@ -1971,7 +1951,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "1~2단계: 1인 체험 5,000원 할인(전화 예약 필수) · 휴무안내: 연중무휴 · 1. 유선 예약 필수",
     "phone": "010-9074-2781",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=914b858341804ea4a9d4a1c5ac2f9e5a"
   },
@@ -1991,7 +1971,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 유선 예약 필수",
     "phone": "064-794-1066",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b6a4ac0decf44aa6a8da702201ccfcee"
   },
@@ -2011,7 +1991,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: · 1. 48시간 전 사전 예약 필수입니다.",
     "phone": "010-4395-3909",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3da482da261c4a18bf4eb8ba7fea7439"
   },
@@ -2031,7 +2011,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 17:00 매표마감 16:30 · 휴무안내: 연중무휴",
     "phone": "064-784-3631",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=264d6a16185d4e8fb51058436ae75f33"
   },
@@ -2051,7 +2031,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-4255-4176",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d8dad865e8444236bb7db9809855e11b"
   },
@@ -2071,7 +2051,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 전화 예약 필수",
     "phone": "064-732-1717",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=009fdef5a593414a941e3eeeffb6b46a"
   },
@@ -2091,7 +2071,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 40분 간격으로 운항합니다. ※ 사전 유선예약 필수 · 2. 기상악화 및 업체사정으로 운항시간 및 휴무일이 변경될 수 있습니다.",
     "phone": "064-732-6060",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=43cb26f5424241dd904940bbfa2b76b9"
   },
@@ -2111,7 +2091,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:00~21:00 / 입장마감 20:30 · 휴무안내:",
     "phone": "010-6717-4028",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7c95a2b6ff2740cc817095a900f9d584"
   },
@@ -2131,7 +2111,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1) 성산포유람선 15시 당일예약은 13시 30분까지 전화로 사전예약 필수입니다.",
     "phone": "064-782-0012",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbdf480a690f497c8924373280b888d4"
   },
@@ -2151,7 +2131,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일",
     "phone": "010-7622-6055",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d8421520af2043c494f0cb8e614b74c0"
   },
@@ -2171,7 +2151,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매월 1, 3번째 일요일",
     "phone": "0507-1369-1320",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8265e454b27e4b8c8ef622857b9eab9d"
   },
@@ -2191,7 +2171,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:30 - 18:00 라스트오더 17:30 · 휴무안내: 매주 화요일",
     "phone": "0507-1428-3664",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f291a553c9b8477ca5190f90249fc6e7"
   },
@@ -2211,7 +2191,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 20:00 입장마감 18:50 · 휴무안내: 연중무휴",
     "phone": "064-739-2839",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cd36a5f6bc86409c888d3be130770bc1"
   },
@@ -2231,7 +2211,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "064-796-0880",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=48a36e7d746d47b2a70fe647071bcff1"
   },
@@ -2251,7 +2231,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-2907-2754",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9a68e82178924a6fbe6ed0f94c886bfb"
   },
@@ -2271,7 +2251,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 18:00 입장마감 16:30 · 휴무안내: 연중무휴",
     "phone": "0507-1383-6896",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8641e62c50ea4d75b57e22f22ff7b238"
   },
@@ -2291,7 +2271,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 2. 사전 예약 필수",
     "phone": "064-787-6888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0f6bb90545a94536be3e9010999759c9"
   },
@@ -2311,7 +2291,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일:",
     "phone": "064-787-9990",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=503e40a8f1f64557b59c1561f1cf3191"
   },
@@ -2331,7 +2311,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화/수요일 휴무",
     "phone": "0507-1306-9762",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=10c7bf12491c4e84a78a5a10ce4f2d58"
   },
@@ -2351,7 +2331,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 수요일",
     "phone": "0507-1365-3141",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=22dde38fb2334ac698a34bb6823237de"
   },
@@ -2371,7 +2351,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1371-6198",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=11617f8fe90949ba95b3d740adc4627e"
   },
@@ -2391,7 +2371,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "07-1391-0372",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6573bf8d6e6a4433a9d75f535d9bbb0e"
   },
@@ -2411,13 +2391,13 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 방문 전 업체 사전예약 필수입니다.",
     "phone": "064-702-2664",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1daed239359340ef9180e386375f22f9"
   },
   "121": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/d59db8fa-51ad-4be7-984e-16726745ba33.webp",
-    "imageAlt": "제주어울림감귤체험농장 대표이미지",
+    "imageAlt": "제주옥림 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f63233890cf4e3e800a153731175911",
     "summary": "제주의 특별한 문화인 감귤따기 체험을 통해 여행의 즐거움을 더해보세요!",
@@ -2431,7 +2411,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-9342-2545",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f63233890cf4e3e800a153731175911"
   },
@@ -2451,7 +2431,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "070-4281-0081",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f090110490d24a9dbc97eccd0e12ea9b"
   },
@@ -2471,7 +2451,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-739-3939",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5a458ab871c6491c8ead9707704b2b27"
   },
@@ -2491,7 +2471,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1398-2260",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a0b28489475a46a5a90a752a7496ab4e"
   },
@@ -2511,7 +2491,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 강풍/우천 시 휴무입니다.",
     "phone": "0507-1353-3705",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=384deb1ee56743b8aaccb3f81eb9c8c9"
   },
@@ -2531,7 +2511,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1391-3810",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=172e79102b034897baddf9583a865275"
   },
@@ -2551,7 +2531,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-745-0309",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8f570353cabf4bb29a8bfd8aa8eb39fa"
   },
@@ -2571,7 +2551,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일",
     "phone": "0507-1318-7676",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b2866d5f920242868e76c7b6b95806d5"
   },
@@ -2591,7 +2571,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 18:00 입장마감 17:00 · 휴무안내: 연중무휴",
     "phone": "0507-1443-2463",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=28ab102343d24248845c3f6fe8a78a24"
   },
@@ -2611,7 +2591,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 19:00 입장마감 16:00 · 휴무안내: 연중무휴 · 3. 사전 예약 필수",
     "phone": "0507-1374-0637",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=13b13e23b5ce4187b20f4b5730b7254e"
   },
@@ -2631,7 +2611,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일:",
     "phone": "010-9347-7151",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9bbb4c767bc7444b9cc91d3a6d418389"
   },
@@ -2651,7 +2631,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 유선 예약 필수 · 2. 기상 악화(주의보 등)시 휴무",
     "phone": "010-3698-6660",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=be1ea3afc48749ff862ad345ec8b2acd"
   },
@@ -2671,7 +2651,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-2859-9504",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cd9428700f3d4445a3a444f56d93c7e0"
   },
@@ -2691,13 +2671,13 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: · 사전 유선 예약 필수입니다.",
     "phone": "010-7289-2559",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0422f8c60a924b7faf7bf3f8206d79d5"
   },
   "136": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/1692923e-5497-42ed-abe9-2dad2596e57c.webp",
-    "imageAlt": "79대포제주화순점 대표이미지",
+    "imageAlt": "화순놀이터 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3d0bdc83d25a49b8a2f4303cb8e378f3",
     "summary": "한국인의 소울푸드 파전을 재해석한 빠삭파전을 맛볼 수 있는 가성비 맛집!",
@@ -2711,7 +2691,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일",
     "phone": "010-6550-9007",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3d0bdc83d25a49b8a2f4303cb8e378f3"
   },
@@ -2731,7 +2711,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 07:00 - 22:00 입장마감 22:00 / 로비라운지 23:00 · 휴무일정: 연중무휴 · 1. 사전 예약 필수",
     "phone": "064-730-1271",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f7e9133fc5884e459d011ffb72db1c63"
   },
@@ -2751,7 +2731,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "정보 확인 필요",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a22ed0774666474087f5db0d51e11b3e"
   },
@@ -2771,7 +2751,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00~18:00 (라스트오더 17:00) · 휴무일: 연중무휴",
     "phone": "010-8350-1212",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=88faf479dfd44678b96a25364947c017"
   },
@@ -2791,7 +2771,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-4399-8369",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9cede4216ad748b0ad851db9fc3a210d"
   },
@@ -2811,7 +2791,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 20:00 라스트오더 19:30 · 휴무안내: 매주 목요일 휴무",
     "phone": "0507-1323-4244",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=77be30777b914fd9be07933fdf0211ff"
   },
@@ -2831,7 +2811,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일 : 매주 토요일",
     "phone": "0507-1448-2252",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f4f41cfeb8743d69ca3f0ee3fcf9769"
   },
@@ -2851,7 +2831,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-901-5089",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ea6b0ce0b4a64f9cbe7dc00628131789"
   },
@@ -2871,7 +2851,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "11:30-23:00 라스트오더 22:00 · 휴무안내:",
     "phone": "064-738-6543",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a3d3917ec26c4a1ebfba324274a8d449"
   },
@@ -2891,7 +2871,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1421-1940",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=effc7c1f099f4362a56cb423e10bcccc"
   },
@@ -2911,7 +2891,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "064-794-9224",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a5ed16c42b6447cb9f9c5ff3bc9140cc"
   },
@@ -2931,7 +2911,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:00 - 21:00 라스트오더 점심 14:00, 저녁 20:10 · 휴무안내: 연중무휴",
     "phone": "064-749-0055",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a2fe6050baba484ea2fa0a3dbf54bad3"
   },
@@ -2951,7 +2931,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "사전 예약 필수 입니다. · 휴무안내: 연중무휴 · 2. 사전예약 필수",
     "phone": "064-739-6013",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3fb5ef99de3a43668240b429640b5a7b"
   },
@@ -2971,7 +2951,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일 : 매주 화요일",
     "phone": "0507-1435-6162",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=19d47145ed6a41d18257f7a925b8934a"
   },
@@ -2991,7 +2971,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1490-0896",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0dd903a1f6814878b637185762120402"
   },
@@ -3011,7 +2991,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 12:00 - 24:00 라스트오더 23:15 · 휴무안내: 연중무휴",
     "phone": "0507-1411-4507",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c70aa77b8b4e4acd8147a2f6870fd641"
   },
@@ -3031,7 +3011,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 17:00 입장마감 16:00 · 휴무안내: 연중무휴",
     "phone": "0507-1410-1917",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bb397dc93651478db668db9dfac21b40"
   },
@@ -3051,29 +3031,9 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간 : 09:00 - 16:00 주문 마감 15:30 · 휴무안내 : 연중무휴",
     "phone": "064-901-2197",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=16620c5ad74e428f80a9fd7a930d67a9"
-  },
-  "157": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/ff89c116-4815-4cff-a75f-00932f2facb7.webp",
-    "imageAlt": "딜라이트 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=758cc5ff94c84104af1e2f9d44a28c15",
-    "summary": "제주 유기농 재료로 정성을 다해 만들고, 다양한 쿠킹클래스와 편안한 휴식 공간을 제공하는 카페",
-    "description": "제주 유기농 재료로 정성을 다해 만들고, 다양한 쿠킹클래스와 편안한 휴식 공간을 제공하는 카페",
-    "address": "제주 제주시 아연로 216-17 1층",
-    "weeklyHours": [
-      {
-        "days": "운영일",
-        "hours": "12:00 - 17:00"
-      }
-    ],
-    "hoursNote": "운영시간: 12:00 - 17:00 라스트오더 16:30 · 휴무안내: 매주 일요일",
-    "phone": "0507-1339-2869",
-    "checkedAt": "2026-10-26",
-    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
-    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=758cc5ff94c84104af1e2f9d44a28c15"
   },
   "158": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/00152df8-a38e-4049-bdd1-a0811af9b472.webp",
@@ -3091,7 +3051,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "10:00~21:00 (라스트오더 : 19:00) · 휴무안내:",
     "phone": "07-1374-5804",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f04fd82d8ee49979392d7b8858e7739"
   },
@@ -3111,7 +3071,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "070-8870-6886",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=750656338ed34345aca7b837b5934eeb"
   },
@@ -3131,7 +3091,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 08:30 - 20:00 라스트오더 19:00 · 휴무안내: 연중무휴",
     "phone": "0507-1473-3411",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bd50ca5b06994ab084db96bc8c1c0909"
   },
@@ -3151,7 +3111,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-782-6006",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4ac2d66474744591ad852764f92cfafe"
   },
@@ -3171,7 +3131,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-799-2969",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=08e11d0ba9114dadb4dfe6c196ff65ce"
   },
@@ -3191,7 +3151,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1364-1477",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b93d93995f1e42c289af93dbb2869116"
   },
@@ -3211,7 +3171,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일",
     "phone": "0507-1483-8294",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=136d16d4cd8d4eb3b8cf16752572be34"
   },
@@ -3231,7 +3191,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 20:00 라스트오더 19:30 · 휴무안내: 연중무휴",
     "phone": "070-8822-9212",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7900e5a40119412992e0edbc79301eae"
   },
@@ -3251,7 +3211,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "07-1353-4362",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cb648c87204b4b3494d90b0e5262ef0c"
   },
@@ -3271,7 +3231,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1471-5025",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f488f87744348f5ad5c2c94b9bb1b1d"
   },
@@ -3291,7 +3251,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매달 1, 3번째 금요일 정기휴무",
     "phone": "0507-1395-8385",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=750677b3bae14a399ecd4c2cfa5ba192"
   },
@@ -3311,7 +3271,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:30~20:00 라스트오더 19:00 · 휴무안내:",
     "phone": "07-1408-1303",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=699628399efc40b2bc25d621a902ffbd"
   },
@@ -3331,7 +3291,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 수요일 휴무 · 1) 화 or 목요일 임시 휴무하는 경우, 인스타그램 공지",
     "phone": "064-792-8402",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=929d407e06e74209987de1a59616ce6f"
   },
@@ -3351,7 +3311,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 수요일 휴무",
     "phone": "0507-1377-8402",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4ddd716563df4e928cf7afa5a281abef"
   },
@@ -3371,7 +3331,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 18:00 브레이크타임 15:00-16:00 라스트오더 17:30 · 휴무안내: 연중무휴",
     "phone": "0507-1342-1378",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=19d5c977d4174d22b431ac5491dae7aa"
   },
@@ -3391,7 +3351,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴 · 1. 매월 2회 비정기적 휴무로 운영합니다.",
     "phone": "0507-1321-4970",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=783a7317528c4ecfac328f5794cd4a78"
   },
@@ -3411,7 +3371,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1375-5251",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5d186ad1d50847d4b1e92369d04da468"
   },
@@ -3431,29 +3391,9 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 07:00-22:00 브레이크타임 10:00-17:00 라스트오더 20:30 · 휴무안내: 연중무휴",
     "phone": "0507-1483-3047",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d7b95e6ca9b34f84aaf676eec7e66bdf"
-  },
-  "177": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/7d79d065-adf8-46a6-89fe-77a58772d355.webp",
-    "imageAlt": "씨에스호텔 카노푸스 다이닝 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f8a6016d07b43da9273c4e1c1d31e6a",
-    "summary": "제주의 푸른 바다를 배경으로 한 선상 컨셉의 스페셜 오션 다이닝인 카노푸스 다이닝에서 \r\n야자수와 어우러진 제주의 아름다운 풍경을 두 눈에 담으며 잊지 못할 특별한 시간을 보내세요!",
-    "description": "제주의 푸른 바다를 배경으로 한 선상 컨셉의 스페셜 오션 다이닝인 카노푸스 다이닝에서 야자수와 어우러진 제주의 아름다운 풍경을 두 눈에 담으며 잊지 못할 특별한 시간을 보내세요!",
-    "address": "제주 서귀포시 중문관광로 198",
-    "weeklyHours": [
-      {
-        "days": "운영일",
-        "hours": "11:00 - 22:00 / 15:00-17:00"
-      }
-    ],
-    "hoursNote": "운영시간: 11:00 - 22:00 브레이크타임 15:00-17:00 라스트오더 21:00 · 휴무안내: 연중무휴",
-    "phone": "0507-1413-3039",
-    "checkedAt": "2026-10-26",
-    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
-    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3f8a6016d07b43da9273c4e1c1d31e6a"
   },
   "178": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/cf3f7b9c-b22d-4b8d-aa86-e06243a1db6a.webp",
@@ -3471,7 +3411,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 수요일 휴무",
     "phone": "0507-1315-6871",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2460f303e5f94b3ab13c2b460fddcab5"
   },
@@ -3491,29 +3431,9 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "라스트오더 · 휴무일 :",
     "phone": "07-1468-5536",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9fce8303a9c04577916a0e63f41e8632"
-  },
-  "180": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/4083b4a2-b0f5-4edb-b4b2-de574de00fe9.webp",
-    "imageAlt": "애월연어 협재직영점 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f2d128256f424e3e94d971994fd7d183",
-    "summary": "제주의 푸른바다 협재해변과 함께 비양도를 볼 수 있는 오션뷰에서 맛과 가성비를\r\n둘다 잡아 여행에 특별함을 더해보세요!",
-    "description": "제주의 푸른 바다 협재 해변과 함께 비양도를 볼 수 있는 오션뷰에서 맛과 가성비를 둘다 잡아 여행에 특별함을 더해보세요!",
-    "address": "제주 제주시 한림읍 명재로 155 1층",
-    "weeklyHours": [
-      {
-        "days": "운영일",
-        "hours": "11:00 - 20:30"
-      }
-    ],
-    "hoursNote": "운영시간: 11:00 - 20:30 라스트오더 19:50 · 휴무안내: 매주 일요일",
-    "phone": "0507-1496-8936",
-    "checkedAt": "2026-10-26",
-    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
-    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f2d128256f424e3e94d971994fd7d183"
   },
   "181": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/fa74f1f2-c21c-447a-aeb1-0f08236604da.webp",
@@ -3531,7 +3451,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 ~ 20:30 (라스트오더 20:00) · 휴무일: 연중무휴",
     "phone": "0507-1321-0498",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5e466caeaf0944bea76d61cbcb40a4c4"
   },
@@ -3551,7 +3471,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일: 연중무휴",
     "phone": "064-738-3237",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbebe0590e84401c8dbfc20518bf0d9c"
   },
@@ -3571,7 +3491,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 : 연중무휴",
     "phone": "0507-1483-3328",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=59af1b715e1345efa0ce5dbd4691f612"
   },
@@ -3586,12 +3506,12 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [
       {
         "days": "운영일",
-        "hours": "07:30 - 1:30 / 14:30 - 18:00"
+        "hours": "07:30 - 21:00 / 10:30 - 11:30 / 14:30 - 18:00 / 14:30 - 17:30 / 07:30 - 14:30"
       }
     ],
     "hoursNote": "휴무안내 : 연중무휴",
     "phone": "0507-1333-3320",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ce0d8f66314949278f69d7a4f921efa1"
   },
@@ -3611,7 +3531,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 19:00 입장마감 18:30 · 휴무안내: 매주 화요일",
     "phone": "0507-1312-0608",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b403c1fbf9f40ec804d7c6cb6c2623a"
   },
@@ -3631,7 +3551,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일: 연중무휴",
     "phone": "064-787-6888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1ad1247b1faa4b2da91e1bc74fba6a0f"
   },
@@ -3646,7 +3566,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "업체 사정에 따라 변경될 수 있으므로 방문 전 공식 안내를 확인하세요.",
     "phone": "정보 확인 필요",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fb0ec830fbdf47909098b4869cf8d76e"
   },
@@ -3666,7 +3586,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴(우도 도항선 미운항 시 휴무)",
     "phone": "010-2922-7128",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=673379998ec347fbb47d201700512b33"
   },
@@ -3686,7 +3606,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-796-2033",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=56fdc428c7a94246b27f2480408fab1f"
   },
@@ -3710,7 +3630,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1338-7271",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d25e36075cba4f0f9a17ae213b5f65bb"
   },
@@ -3730,7 +3650,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1372-2044",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=62372273c4bd46a082ea13e91fc701e5"
   },
@@ -3750,7 +3670,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-7409-1078",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=75bac4d0a5394bb4993cce6e1f481351"
   },
@@ -3770,7 +3690,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "010-9389-0113",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=106b8fdbba494fa0aaf016787009df58"
   },
@@ -3790,7 +3710,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일 : 매주 토요일",
     "phone": "010-5845-2450",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aab4b2f615724573ac1034dbcfe0ac20"
   },
@@ -3810,7 +3730,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "09:00~18:00 라스트오더 17:30 · 휴무안내: · 연중무휴 (휴무별도공지)",
     "phone": "070-8899-7515",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8ea2779a941e4659b14b731185aacef6"
   },
@@ -3830,7 +3750,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 12:00 - 23:55 라스트오더 21:55 · 휴무안내: 연중무휴",
     "phone": "0507-1351-5641",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b843340a594a4f8fbea1d7f968c82dfa"
   },
@@ -3850,7 +3770,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1315-6211",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=63316d087155426399c90c85474b4531"
   },
@@ -3870,7 +3790,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1394-2306",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=dec3fcf2ce8749aa98b86b727c743c49"
   },
@@ -3890,7 +3810,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1494-1428",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=32d0c94798ef4d64ab497b583a75234b"
   },
@@ -3910,7 +3830,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 11:00 - 23:00 라스트오더 22:00 · 휴무안내: 연중무휴",
     "phone": "0507-1378-1568",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=46f86c3239e74d25bf02ba255a3aecc0"
   },
@@ -3930,7 +3850,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 15:00 - 23:00 라스트오더 22:00 · 휴무안내: 연중무휴",
     "phone": "0507-1363-6020",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=319181c7c2dc43b3bc612e82173ec4f0"
   },
@@ -3950,7 +3870,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-747-4060",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=aee5f797798c43be8bcabc95473f1b6f"
   },
@@ -3970,7 +3890,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 22:00 라스트오더 21:00 · 휴무안내: 연중무휴",
     "phone": "0507-1484-3047",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=45144ba75a624ef9a674979e71041e16"
   },
@@ -3990,7 +3910,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1387-4783",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=93a0cee1faea4ad7b9377847386868ec"
   },
@@ -4010,7 +3930,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 10:00 - 19:00 라스트오더 18:00 · 휴무안내: 연중무휴",
     "phone": "0507-1316-4299",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3505923bf3a5401c8b2e4df460be6e04"
   },
@@ -4030,7 +3950,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-9158-1513",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0657882b08854677b8ebf1d19e18efb2"
   },
@@ -4050,7 +3970,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:30~18:00 라스트오더 17:30 · 휴무일: 매주 화요일 휴무",
     "phone": "0507-1340-0580",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f4c863a069684c77988199b7a74ec3a3"
   },
@@ -4070,7 +3990,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일",
     "phone": "064-900-2050",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=98e4fcf72fd8456e8637e012fb33d220"
   },
@@ -4090,7 +4010,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일",
     "phone": "0507-1368-9110",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6f76bb79234745c4a9274f7bdb6e82c1"
   },
@@ -4110,7 +4030,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 09:00 - 22:00 라스트오더 21:30 · 휴무안내: 연중무휴",
     "phone": "0507-1361-0773",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6674de03334444f4830cad8a8c28d386"
   },
@@ -4130,7 +4050,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화요일",
     "phone": "010-7778-2869",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0dbb06cf184f43c3919c14558346c88e"
   },
@@ -4150,7 +4070,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 11:00 - 23:00 라스트오더 22:00 · 휴무안내: 연중무휴",
     "phone": "064-909-2203",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=40a80207fde449fea3b60482bce3803c"
   },
@@ -4170,7 +4090,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 12:00 - 21:30 라스트오더 21:00 · 휴무안내: 연중무휴",
     "phone": "0507-1312-8855",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=14c52a381369461c9e5b379cf72fe404"
   },
@@ -4194,7 +4114,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "평일 10:00-18:00 / 라스트오더 17:00 · 주말 10:00-21:00 / 라스트오더 20:00 · 휴무안내:",
     "phone": "064 782",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=390ddf953c4e4bc6a88ad4e7812dc02f"
   },
@@ -4214,7 +4134,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 11:00 - 23:00 라스트오더 식사 22:30, 주류/음료 22:45 · 휴무안내: 연중무휴",
     "phone": "0507-1370-9059",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=666c910d36884535985806ef349ef209"
   },
@@ -4234,7 +4154,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "맡김차림 이용 시, 사전예약 필수 (2인 이상 이용 가능합니다) · 휴무안내: 매주 화요일 · 1. 맡김차림 이용시 : 사전예약 필수, 2인이상 이용가능",
     "phone": "0507-1303-7651",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7b7c2370c106420d91f9935cbab68b0d"
   },
@@ -4254,7 +4174,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일:",
     "phone": "064-743-1017",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b891d73d89d4415b92ed39c428f22100"
   },
@@ -4274,7 +4194,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1448-0005",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f736865a996a48f98f8421e95d01d4c6"
   },
@@ -4294,7 +4214,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1416-3951",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4eafb43604894234a780ecbd7d9f6f9f"
   },
@@ -4314,7 +4234,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-7936-4414",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ccac68ae1d7847949859bee4adfc432a"
   },
@@ -4334,7 +4254,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "07-1326-8890",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=14b5805224f44202a3e4a902bf2256b4"
   },
@@ -4354,7 +4274,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "07-1430-4838",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f52eb820185d4e12be077bd1888fbc15"
   },
@@ -4374,7 +4294,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 인스타공지",
     "phone": "0507-1474-8765",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=393834c4291a4576829b02042a4bc6c3"
   },
@@ -4394,7 +4314,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1391-1597",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9710af6c2bd54966bbf4e589f08986ea"
   },
@@ -4414,7 +4334,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일",
     "phone": "064-767-9800",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fe6495b2e1c94e3c90d5986cbb05bd4f"
   },
@@ -4434,7 +4354,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화요일",
     "phone": "0507-1380-7444",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d1abf64a8c1d4a648fbd3da1c5351207"
   },
@@ -4454,7 +4374,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1359-6095",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c674dd6074324b5e86f3aa679971975c"
   },
@@ -4474,7 +4394,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화요일 정기휴무",
     "phone": "0507-1371-1420",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9be3784a83e04aa6918f8133cf76fb54"
   },
@@ -4494,7 +4414,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-6622-9239",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6bbb38cbdbb84c20a51599170ad2d2e4"
   },
@@ -4514,7 +4434,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-7683-4414",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0cabc42e962d4db5a34f2841f021755a"
   },
@@ -4534,7 +4454,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-780-7700",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b096187014e416e8c256350b7016312"
   },
@@ -4544,7 +4464,7 @@ window.NOWDA_DETAILS = {
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=032541220c264cd29b46ec59106ad587",
     "summary": "제주 중문관광단지 내 글로벌 브랜드와 합리적 가격을 갖춘 쇼핑 명소",
-    "description": "국내에서 제주 여행, 출장, 방문시 면세품 쇼핑이 가능한 제주면세점, 제주관광공사면세점 입니다. 중문관광단지 내 주상절리 옆, 중문면세점! 천혜의 자연과 환경, 생태, 단대해수욕이 한데 어우러지는 제주관광 핵심인 중문관광단지 내 제주국제컨벤션센터에 위치하고 있습니다. 주류, 담배, 선글라스, 화장품, 향수, 패션, 잡화, 리쿼 등 다양한 상품과 글로벌 브랜드까지 제주 여행의 필수 쇼핑 성지입니다.",
+    "description": "국내에서 제주 여행, 출장, 방문시 면세품 쇼핑이 가능한 제주면세점, 제주관광공사면세점 입니다. 중문관광단지 내 주상절리 옆, 중문면세점! 천혜의 자연과 환경, 생태, 중문색달해수욕장이 한데 어우러지는 제주관광 핵심인 중문관광단지 내 제주국제컨벤션센터에 위치하고 있습니다. 주류, 담배, 선글라스, 화장품, 향수, 패션, 잡화, 리쿼 등 다양한 상품과 글로벌 브랜드까지 제주 여행의 필수 쇼핑 성지입니다.",
     "address": "서귀포시 중문관광로 224 제주국제컨벤션센터 1층",
     "weeklyHours": [
       {
@@ -4554,7 +4474,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "064-780-7700",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=032541220c264cd29b46ec59106ad587"
   },
@@ -4574,7 +4494,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 일요일 휴무",
     "phone": "064-767-2170",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b9e6ddd1756145678614b8a9dedc41cd"
   },
@@ -4594,7 +4514,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1416-5046",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cbdeb46367a848c08f3b8fcc523e87f7"
   },
@@ -4614,7 +4534,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 토/일요일 휴무",
     "phone": "010-2869-3575",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=26f0b4ae996c47869e5c7607d2bb3688"
   },
@@ -4634,7 +4554,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "운영시간: 11:00 - 20:00 라스트오더 19:30 · 휴무안내: 매주 월요일, 화요일 정기휴무",
     "phone": "0507-1363-7520",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4b6a6452948b4c70acea7551477fdce2"
   },
@@ -4654,7 +4574,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "070-7756-0509",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=912787483e694f49b6da4196f1671513"
   },
@@ -4674,7 +4594,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "0507-1378-2709",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a13237d4d77149e5b8d95aa6def82b49"
   },
@@ -4694,7 +4614,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 토,일 휴무",
     "phone": "064-796-5030",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=069c506e9cb6402cb8e447699fbbd8c8"
   },
@@ -4714,12 +4634,12 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 연중무휴",
     "phone": "010-9621-0340",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ae57bb7d53b549e19dcb8604e97bccb8"
   },
   "251": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/022ecdf0-4606-4ef5-a33a-951df66517e2.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/b765b0ff-4ab2-4632-9a81-8ce1b99fedd7.webp",
     "imageAlt": "양서대학 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=536ae8c4bcbd4ea8b07b6676d131a327",
@@ -4738,7 +4658,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "010-9945-4489",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=536ae8c4bcbd4ea8b07b6676d131a327"
   },
@@ -4758,7 +4678,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 화, 수 · (비정기적 휴무일은 네이버 or 인스타그램 참조)",
     "phone": "010-4892-7357",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2af9ea65013f47ad8a0d53d5304a7be3"
   },
@@ -4778,7 +4698,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: 매주 월요일",
     "phone": "0507-1439-1078",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d976b2c2a95144fd801db2de4ecb3125"
   },
@@ -4798,7 +4718,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "010-9788-4104",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e492f7f7ac7e426391d432bcfee90a2b"
   },
@@ -4822,7 +4742,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "하절기(6~9월) 09:00~18:00 (17:30 입장마감) · 휴무안내",
     "phone": "07-1409-3733",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d20628c4284b4d33b99b9242e896ae61"
   },
@@ -4842,7 +4762,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 09:00~18:00 (입장마감 17:30) · 휴무안내",
     "phone": "07-1352-1309",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=74a1bc1e22434d0bb962dc2a26d1b852"
   },
@@ -4862,7 +4782,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내: · 1) 사전예약 필수입니다.",
     "phone": "064-745-1324",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6c23bb51d7744f98b2e5d7c95225dbb7"
   },
@@ -4882,7 +4802,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-7277-9790",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9a61fe1ca5c748158248621cacb01bb1"
   },
@@ -4902,7 +4822,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-3061-5726",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=50368b30d7874cc2bced24512d6966c4"
   },
@@ -4922,7 +4842,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 · 1. 사전 예약 필수입니다.",
     "phone": "07-1324-1754",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b0bd9ad49f97425cb9dd2ffabf9d8878"
   },
@@ -4942,7 +4862,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-2461-4456",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ffecee7dc79d44519e1d31b6f1400a07"
   },
@@ -4962,7 +4882,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "정보 확인 필요",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=47fd4e989a97463fbcbe1cb0cec175d0"
   },
@@ -4982,7 +4902,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 09:00~17:00 입장마감 16:30 · 휴무안내",
     "phone": "07-1469-1615",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f9688d4e95484185ae36b2e730a3a6bb"
   },
@@ -5002,7 +4922,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 · : 기상악화로 인해 출항 불가 시 휴무 · 1. 사전 예약 필수입니다.",
     "phone": "07-1357-0716",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cc76020bb3c74d7e8633d12ec999c39c"
   },
@@ -5022,7 +4942,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "064-744-8292",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4576d405d6ac48deaa18d33eba6b16ac"
   },
@@ -5042,7 +4962,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 18:00 ~ 24:00 라스트오더 23:00 · 휴무안내 · : 매주 일요일 휴무 · (이외 휴무일 별도 공지)",
     "phone": "010-2812-3143",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f0c6a97fbf8e432abbc6193a3900f505"
   },
@@ -5062,7 +4982,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 매일 12:00~22:30 라스트오더 22:00 · 휴무안내 · : 연중무휴 (명절 당일은 휴무입니다.)",
     "phone": "064-747-0092",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f9978a724a33498990872ac4e23ace6f"
   },
@@ -5082,7 +5002,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "07-1323-5439",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a7710ff4f5fc4f79b1c188c0b029d14e"
   },
@@ -5102,7 +5022,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-6290-3720",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=53a307cbfc984a59ad03ccd6571b2461"
   },
@@ -5122,7 +5042,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "064-782-2252",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4cc404c42e9740d09f535ec6886eb5c4"
   },
@@ -5137,7 +5057,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "휴무안내",
     "phone": "07-1341-2075",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=440bcee743324369b292836f15b7c88f"
   },
@@ -5157,7 +5077,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "07-1393-6090",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=95bdc183e4a14e6bbe521b91419ec8af"
   },
@@ -5177,7 +5097,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-2564-8737",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=65310e1537ea465084cead258780ff00"
   },
@@ -5192,7 +5112,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "업체 사정에 따라 변경될 수 있으므로 방문 전 공식 안내를 확인하세요.",
     "phone": "07-1497-2888",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a4a369ee684f419bb100a11ea9380168"
   },
@@ -5207,7 +5127,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "휴무일자 · 1) 유선 예약 필수입니다.",
     "phone": "010-6350-0032",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=805ec0500e874b15b4fce53788b7bffa"
   },
@@ -5227,12 +5147,12 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자 · 1) 사전 예약 필수입니다.",
     "phone": "010-7715-1926",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6a589b41b203434f99c25cace2251364"
   },
   "279": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/424c2ad2-6314-4feb-9904-cca49c49abaa.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/a87d9d8f-8148-449c-8b42-fbb158290491.webp",
     "imageAlt": "뚜띠콜로리 뮤제오 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=204e035feb8c468e8d6650293d785502",
@@ -5247,7 +5167,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자:",
     "phone": "064-805-5009 / 010-2428-0410",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=204e035feb8c468e8d6650293d785502"
   },
@@ -5267,7 +5187,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 매일 08:00~20:00 라스트오더 19:40 · 휴무안내",
     "phone": "010-2544-9632",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e2729a46709a4c92b0777e186ee5aeb9"
   },
@@ -5287,7 +5207,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 09:00~20:00 라스트오더 19:30 · 휴무안내",
     "phone": "07-1324-4777",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8e00ad4994d742428a06674aca4cf24b"
   },
@@ -5307,7 +5227,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내:",
     "phone": "07-1419-3023",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=bee13cdcc1c940c99c6b26463ff590ec"
   },
@@ -5327,7 +5247,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 · : 월, 화 정기휴무",
     "phone": "07-1469-0201",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c99d68cc3997405aa8a1fd7d1fe44ece"
   },
@@ -5347,7 +5267,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "업체 사정에 따라 변경될 수 있으므로 방문 전 공식 안내를 확인하세요.",
     "phone": "070-4400-3300",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=c13f8ee481304701a803518d533e3783"
   },
@@ -5367,7 +5287,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "070-4203-0246",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e37353fdecd5498fbdc19b29edcd53c6"
   },
@@ -5387,7 +5307,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 11:00~16:00 라스트오더 15:30 · 휴무일자",
     "phone": "070-8844-0828",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5cec284b867842df99b1af2f47fe5c75"
   },
@@ -5407,7 +5327,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "라스트오더 · 휴무일자",
     "phone": "07-1439-3427",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=567e19b5e36f4bd3af009c92984f1718"
   },
@@ -5427,7 +5347,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "라스트오더 · 휴무일",
     "phone": "064-799-8596",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=90e2fd293c0a4c8482de63d73d1e2834"
   },
@@ -5447,7 +5367,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "라스트오더 · 휴무일자",
     "phone": "070-4149-7870",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=36623b022b524301be5c423f273c0e0f"
   },
@@ -5462,12 +5382,12 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "휴무일자",
     "phone": "07-1369-4930",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=603fea25be7f4108a6549e8080790e38"
   },
   "291": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/5dfe88e2-f7d9-40f6-951b-261d5fd867f7.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/563ce534-cc79-4f8e-b537-e1cf5178e875.webp",
     "imageAlt": "글로시말차 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=92bbf5fc4dc14cff96f8a247fcd8962a",
@@ -5482,7 +5402,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "07-1391-7850",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=92bbf5fc4dc14cff96f8a247fcd8962a"
   },
@@ -5497,7 +5417,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "휴무일자 · 1) 사전 문의 및 예약 필수입니다.",
     "phone": "010-2350-0607 / 070-4900-0607",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7af0b3473a074aab9685f849416f96b4"
   },
@@ -5517,7 +5437,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "07-1491-5245",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cf84c0a0dd2247c88669637aef92f032"
   },
@@ -5537,7 +5457,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자 · 1) 사전 유선 예약 필수입니다.",
     "phone": "010-4146-6508",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d2e1ea754b544b97887cfb27c74b36f4"
   },
@@ -5557,7 +5477,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "07-1363-6949",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=1d1818f217944127b41bad8b28326a2d"
   },
@@ -5577,7 +5497,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-3579-1207",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0e6f54ed46bc45e6b2fe0d891d7bba71"
   },
@@ -5592,7 +5512,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": "1) 사전 유선 예약 필수입니다.",
     "phone": "010-7676-9431",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=45a2bcee9c454babba1fbca876607ad1"
   },
@@ -5612,7 +5532,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "010-5590-5289",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=96892dfedbe04b57b8de984a33058736"
   },
@@ -5632,7 +5552,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무일자",
     "phone": "064-702-5800",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbbd4d7aaa9e4d629a3f1b26edbff50c"
   },
@@ -5647,7 +5567,7 @@ window.NOWDA_DETAILS = {
     "weeklyHours": [],
     "hoursNote": ": 08시30분~20시 라스트오더 19시 · 휴무일자",
     "phone": "064-787-0520",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3b4af4b2c0f94f9fbbaf34bbd3853f73"
   },
@@ -5667,12 +5587,12 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "라스트오더 : 점심 14:00 / 저녁 19:00 · 휴무안내",
     "phone": "064-742-5868",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=382b1aaf94204a2f9a459c52c323f54c"
   },
   "304": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/93024258-3676-4604-9766-90b1b039247e.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/02dda80d-6d1c-4e54-83be-65018731e1a5.webp",
     "imageAlt": "추자본섬횟집 연동점 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bfc9cd2869c4f5dba6a924340762063",
@@ -5687,7 +5607,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 · : 명절 전일 휴무, 기상악화 시 휴무",
     "phone": "064-747-1115",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bfc9cd2869c4f5dba6a924340762063"
   },
@@ -5707,7 +5627,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "064-739-7896",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=adea9cfc774e4effa9589b3d19d133a4"
   },
@@ -5727,7 +5647,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-2721-0087",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=386cadd9c5964584aacbc43ee25d08b8"
   },
@@ -5747,7 +5667,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-4835-2307",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8cf664fe3f604ee8820a6284295b57e9"
   },
@@ -5767,7 +5687,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": ": 10:00 ~ 18:00 라스트오더 17:30 · 휴무안내",
     "phone": "010-6830-1105",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9855469ce0a146608198b1941e95e244"
   },
@@ -5787,7 +5707,7 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "064-902-1988",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b2412a88324a428a904e0a6fe7cdf6a1"
   },
@@ -5807,12 +5727,12 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내",
     "phone": "010-2691-0064",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=599412cdb501446db98cff8e0d62f0e5"
   },
   "311": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/fe48a299-824c-416e-9447-581cda5ebcab.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/782e4dfc-ecd6-48ed-a0e3-45fa11b18a74.webp",
     "imageAlt": "아트42 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b20c416917e7415fb4eedce2c7898319",
@@ -5827,8 +5747,158 @@ window.NOWDA_DETAILS = {
     ],
     "hoursNote": "휴무안내 · : 설날, 추석 당일 휴무",
     "phone": "064-805-5858",
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-11-13",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b20c416917e7415fb4eedce2c7898319"
+  },
+  "312": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/31ecf3c7-f1e2-4ce7-b540-37cf1c0ed9d8.webp",
+    "imageAlt": "바솔트랩 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e8358d9481204a7eba324f403e276297",
+    "summary": "제주의 화산 지형과 자연에서 영감을 받은 프리미엄 라이프스타일 브랜드로, 바디케어부터 입욕제, 디퓨저까지 제주의 향기와 감성을 담은 특별한 선물을 만나볼 수 있는 공간.",
+    "description": "제주의 화산 지형과 자연에서 영감을 받은 프리미엄 라이프스타일 브랜드로, 바디케어부터 입욕제, 디퓨저까지 제주의 향기와 감성을 담은 특별한 선물을 만나볼 수 있는 공간.",
+    "address": "제주특별자치도 제주시 탑동로 66 (삼도이동, 라마다프라자호텔) 1층",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "10:00~19:00"
+      }
+    ],
+    "hoursNote": "휴무일",
+    "phone": "064-722-7625",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e8358d9481204a7eba324f403e276297"
+  },
+  "313": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/381fdd2f-1231-49f7-997b-3279ebbf3928.webp",
+    "imageAlt": "제주애퐁당 칠성로점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0051d8948f0d4059a558ea124aeb4870",
+    "summary": "제주 원도심 칠성로에 위치한 기념품숍으로, 1~2층에 걸쳐 퐁당패밀리 굿즈부터 제주 간식, 캔들, 생활소품까지 다채로운 선물을 만나볼 수 있는 공간.",
+    "description": "제주 원도심 칠성로에 위치한 기념품숍으로, 1~2층에 걸쳐 퐁당패밀리 굿즈부터 제주 간식, 캔들, 생활소품까지 다채로운 선물을 만나볼 수 있는 공간.",
+    "address": "제주특별자치도 제주시 중앙로3길 16 (일도일동)",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "12:00~21:00"
+      }
+    ],
+    "hoursNote": "휴무일",
+    "phone": "07-1421-3340",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0051d8948f0d4059a558ea124aeb4870"
+  },
+  "314": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/654cc24f-246e-4360-8e3e-f3ea40d64134.webp",
+    "imageAlt": "제주애퐁당 올레시장점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ebbf009f7f104de599c20a026766b7a9",
+    "summary": "제주 대표 캐릭터 ‘퐁당패밀리’의 공식 매장으로, 제주 감성을 담은 다양한 기념품을 만나볼 수 있는 공간.",
+    "description": "제주 대표 캐릭터 ‘퐁당패밀리’의 공식 매장으로, 제주 감성을 담은 다양한 기념품을 만나볼 수 있는 공간.",
+    "address": "제주특별자치도 서귀포시 중앙로 54 (서귀동) 1층",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "11:00~20:00"
+      }
+    ],
+    "hoursNote": "휴무일",
+    "phone": "07-1350-3362",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ebbf009f7f104de599c20a026766b7a9"
+  },
+  "315": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/2146eb8c-94c1-482e-82e2-2ca908a02664.webp",
+    "imageAlt": "황금타로 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9181876764f94903be62219055a20cc3",
+    "summary": "제주 여행 중 특별한 경험과 마음의 쉼표가 필요하다면, 황금타로에서 나와 소중한 사람들의 이야기를 만나보세요.",
+    "description": "제주 여행 중 특별한 경험과 마음의 쉼표가 필요하다면, 황금타로에서 나와 소중한 사람들의 이야기를 만나보세요.",
+    "address": "제주특별자치도 서귀포시 중정로 120 (서귀동, 청심 공인중개사 사무소) 1층 황금타로",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "10:00~20:00"
+      }
+    ],
+    "hoursNote": "휴무안내 · 1) 사전 유선 예약 필수입니다.",
+    "phone": "010-5144-3650",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9181876764f94903be62219055a20cc3"
+  },
+  "316": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/27/0d8a1486-ccd5-4b6f-943e-64df60fa0e01.webp",
+    "imageAlt": "보림숲 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=105a1db43c8e4272baef6b258d5cc7f9",
+    "summary": "제주 자연을 담은 플랜테리어 공방! 싱그러운 식물과 함께 나만의 테라리움을 만들며 초록빛 힐링을 경험할 수 있는 특별한 공간",
+    "description": "제주 자연을 담은 플랜테리어 공방! 싱그러운 식물과 함께 나만의 테라리움을 만들며 초록빛 힐링을 경험할 수 있는 특별한 공간",
+    "address": "제주특별자치도 제주시 구산동길 7 (아라일동) 1층",
+    "weeklyHours": [],
+    "hoursNote": "휴무안내 · 1) 사전 유선 예약 필수입니다.",
+    "phone": "010-6540-0504",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=105a1db43c8e4272baef6b258d5cc7f9"
+  },
+  "317": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/622cff05-45dc-4a65-9509-c65c63edaf52.webp",
+    "imageAlt": "힐링도테라 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6cd51cbf2ee648b89fefce9b5ddc0df3",
+    "summary": "제주 한경면에 위치한 아로마 공방! 향기로운 아로마 오일을 활용한 체험으로 나만의 특별한 작품을 만들고, 제주 여행의 추억을 간직할 수 있는 공간",
+    "description": "제주 한경면에 위치한 아로마 공방! 향기로운 아로마 오일을 활용한 체험으로 나만의 특별한 작품을 만들고, 제주 여행의 추억을 간직할 수 있는 공간",
+    "address": "제주특별자치도 제주시 한경면 판포4길 41-41 (한경면)",
+    "weeklyHours": [],
+    "hoursNote": "휴무안내 · 1) 사전 유선 예약 필수입니다.",
+    "phone": "010-3455-5335",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6cd51cbf2ee648b89fefce9b5ddc0df3"
+  },
+  "318": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/12/2e757219-9d52-4848-a475-03a538648e9b.webp",
+    "imageAlt": "해녀슈퍼 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=902f0aa009f94a628cbc8adfe0d72c86",
+    "summary": "제주 금능포구에 위치한 해녀슈퍼! 탁 트인 바다를 바라보며 해녀라면과 신선한 해물 토핑, 바삭한 부추전을 즐길 수 있는 감성 맛집",
+    "description": "제주 금능포구에 위치한 해녀슈퍼! 탁 트인 바다를 바라보며 해녀라면과 신선한 해물 토핑, 바삭한 부추전을 즐길 수 있는 감성 맛집",
+    "address": "제주특별자치도 제주시 한림읍 금능7길 22 (한림읍, 금능어촌계복지회관) 해녀슈퍼",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "11:00 ~ 22:00"
+      }
+    ],
+    "hoursNote": "운영시간: 11:00 ~ 22:00 라스트오더 21:00 · 휴무안내: 매주 수요일",
+    "phone": "064-803-0723",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=902f0aa009f94a628cbc8adfe0d72c86"
+  },
+  "319": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/27/3878a043-6335-4fb3-a0e0-eb58a08a40de.webp",
+    "imageAlt": "세화마을협동조합 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a0b557fad3ab471a9f2636763630744d",
+    "summary": "UN관광청이 선정한 세계 최우수 관광마을 세화마을! 해녀 체험, 다랑쉬오름 웰니스, 마을투어 등 주민들이 직접 운영하는 특별한 제주 로컬 여행을 경험해 보세요.",
+    "description": "UN관광청이 선정한 세계 최우수 관광마을 세화마을! 해녀 체험, 다랑쉬오름 웰니스, 마을투어 등 주민들이 직접 운영하는 특별한 제주 로컬 여행을 경험해 보세요.",
+    "address": "제주특별자치도 제주시 구좌읍 세평항로 46-9 (구좌읍, 세화리사무소) 1층",
+    "weeklyHours": [
+      {
+        "days": "운영일",
+        "hours": "09:00 ~ 17:00"
+      }
+    ],
+    "hoursNote": "휴무안내",
+    "phone": "010-4928-9298",
+    "checkedAt": "2026-11-13",
+    "infoSourceLabel": "비짓제주 나우다 공식 페이지",
+    "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a0b557fad3ab471a9f2636763630744d"
   }
 };
