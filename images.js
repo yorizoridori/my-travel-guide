@@ -576,7 +576,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b6a4ac0decf44aa6a8da702201ccfcee"
   },
   "100": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/212ddb9e-02c7-4468-8e5a-d67f6179985d.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/17/49690a9d-9054-4a54-8e8c-1836aad28021.webp",
     "imageAlt": "백미리 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3da482da261c4a18bf4eb8ba7fea7439"
@@ -977,12 +977,6 @@ window.NOWDA_IMAGES = {
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4ddd716563df4e928cf7afa5a281abef"
   },
-  "173": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/bfd2fe98-3cb2-41e5-b386-746ea18dc8bb.webp",
-    "imageAlt": "산방휴게소 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=19d5c977d4174d22b431ac5491dae7aa"
-  },
   "174": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/7413324c-e76e-4dd8-aa97-14d738a236de.webp",
     "imageAlt": "세화카페텐더럽 대표이미지",
@@ -1000,12 +994,6 @@ window.NOWDA_IMAGES = {
     "imageAlt": "씨에스 다이닝 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=d7b95e6ca9b34f84aaf676eec7e66bdf"
-  },
-  "178": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/cf3f7b9c-b22d-4b8d-aa86-e06243a1db6a.webp",
-    "imageAlt": "아사라베이커리 대표이미지",
-    "imageSourceLabel": "비짓제주 나우다",
-    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=2460f303e5f94b3ab13c2b460fddcab5"
   },
   "179": {
     "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/3e3a78e8-6c5c-46fe-a8da-4b5e30de4901.webp",
@@ -1410,7 +1398,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=74a1bc1e22434d0bb962dc2a26d1b852"
   },
   "259": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/787b28df-2250-4b82-89f9-fd08f333ae55.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/d6a7f85d-d836-491a-8751-a8fb606effd8.webp",
     "imageAlt": "무지개요트 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=6c23bb51d7744f98b2e5d7c95225dbb7"
@@ -1434,7 +1422,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b0bd9ad49f97425cb9dd2ffabf9d8878"
   },
   "263": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/4e1ce0ff-5d7d-4524-ac15-c765b2cb5b1d.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/3796fccd-1c79-48f8-a348-f52166076c39.webp",
     "imageAlt": "카페더플로라화련 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ffecee7dc79d44519e1d31b6f1400a07"
@@ -1452,7 +1440,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=f9688d4e95484185ae36b2e730a3a6bb"
   },
   "266": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/47825469-57ac-46d7-ba61-981d68306ee9.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/8832b0ef-0e46-4587-b15a-9e9d077cba29.webp",
     "imageAlt": "제주돌고래힐링투어 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=cc76020bb3c74d7e8633d12ec999c39c"
@@ -1488,7 +1476,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=53a307cbfc984a59ad03ccd6571b2461"
   },
   "272": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/693d3666-3c9e-42d4-b571-7184a7bd7aa3.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/28884ec3-7603-41cc-9927-7d4b1469bcbb.webp",
     "imageAlt": "제주팜테이블 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=4cc404c42e9740d09f535ec6886eb5c4"
@@ -1578,13 +1566,13 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=5cec284b867842df99b1af2f47fe5c75"
   },
   "287": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/98862f66-9a37-469b-a20b-4b08a18ddd21.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/43e40793-eff4-4580-a1c0-1e5c8a21fa92.webp",
     "imageAlt": "중문별장 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=567e19b5e36f4bd3af009c92984f1718"
   },
   "288": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/b15b8674-5008-4a81-965e-f2170e8bda4f.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/68a886b6-b164-497f-9538-22b90a724e8e.webp",
     "imageAlt": "블리스풀 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=90e2fd293c0a4c8482de63d73d1e2834"
@@ -1596,7 +1584,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=36623b022b524301be5c423f273c0e0f"
   },
   "290": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/3d8a1441-041a-4846-a428-d91b4fbdc3b6.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/88ac7057-f6e6-481f-924d-0130abc7d9fc.webp",
     "imageAlt": "아우아우 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=603fea25be7f4108a6549e8080790e38"
@@ -1644,7 +1632,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=45a2bcee9c454babba1fbca876607ad1"
   },
   "300": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/74bc6a01-0022-47de-ab3b-aa178ecaa41d.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/34bd551f-ed76-4214-bb6c-8043a8ae03d5.webp",
     "imageAlt": "오또도넛 함덕점 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=96892dfedbe04b57b8de984a33058736"
@@ -1656,13 +1644,13 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=fbbd4d7aaa9e4d629a3f1b26edbff50c"
   },
   "302": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/0468f59f-23a2-485b-9ff2-2217b3b38406.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/5ff84ae3-10f5-466d-b2b5-4ce6211b27a1.webp",
     "imageAlt": "표선카라반국수 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=3b4af4b2c0f94f9fbbaf34bbd3853f73"
   },
   "303": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/099a4e36-4f06-4f19-8fee-21dd0a16ac0a.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/d8833d8a-4057-431b-96af-75887bb7c35c.webp",
     "imageAlt": "숲속의도토리 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=382b1aaf94204a2f9a459c52c323f54c"
@@ -1674,19 +1662,19 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=7bfc9cd2869c4f5dba6a924340762063"
   },
   "305": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/226c21ba-d4e0-47f3-8208-d789c8a0acb6.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/45938706-4e74-4661-9a26-b53dfd29b46a.webp",
     "imageAlt": "만달 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=adea9cfc774e4effa9589b3d19d133a4"
   },
   "306": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/1369bed8-ae90-44fa-9efb-91602a7adcad.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/149caa93-fc5d-4e16-9c8e-2de905998258.webp",
     "imageAlt": "제주소품샵 엘비 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=386cadd9c5964584aacbc43ee25d08b8"
   },
   "307": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202610/15/5dc6ad94-38e2-4077-9dbf-c2835682f299.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/061c0cc7-58f3-4b22-91a6-63780b751b59.webp",
     "imageAlt": "핸드(HAND_HAVE A NICE DAY) 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=8cf664fe3f604ee8820a6284295b57e9"
@@ -1716,7 +1704,7 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=b20c416917e7415fb4eedce2c7898319"
   },
   "312": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/31ecf3c7-f1e2-4ce7-b540-37cf1c0ed9d8.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/af15ac25-e588-47b4-b7a9-25b7b7e64088.webp",
     "imageAlt": "바솔트랩 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=e8358d9481204a7eba324f403e276297"
@@ -1728,13 +1716,13 @@ window.NOWDA_IMAGES = {
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=0051d8948f0d4059a558ea124aeb4870"
   },
   "314": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/654cc24f-246e-4360-8e3e-f3ea40d64134.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/7802a932-810e-46c9-84d6-08c7d5053a33.webp",
     "imageAlt": "제주애퐁당 올레시장점 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=ebbf009f7f104de599c20a026766b7a9"
   },
   "315": {
-    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/04/2146eb8c-94c1-482e-82e2-2ca908a02664.webp",
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/320f92e8-25d6-4a6e-a751-1aa8df569e5d.webp",
     "imageAlt": "황금타로 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=9181876764f94903be62219055a20cc3"
@@ -1762,5 +1750,23 @@ window.NOWDA_IMAGES = {
     "imageAlt": "세화마을협동조합 대표이미지",
     "imageSourceLabel": "비짓제주 나우다",
     "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=a0b557fad3ab471a9f2636763630744d"
+  },
+  "320": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/24/cd60c2a4-eb98-436e-9091-3cf6503a8d36.webp",
+    "imageAlt": "서귀피안 보래드베이커스 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=455d9461ffeb4027844e332c81bbe8b8"
+  },
+  "321": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/16/388416c2-a570-4c90-aee4-486755301b51.webp",
+    "imageAlt": "귤메달하우스 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=20db4ac6af604145bec9a777c49cd8c3"
+  },
+  "322": {
+    "imageUrl": "https://api.cdn.visitjeju.net/vjDgtPartners/thumbnail/202611/14/cc07e1bf-96e6-4717-bb1f-32aaba7f9aef.webp",
+    "imageAlt": "우무 제주공항 출발점 대표이미지",
+    "imageSourceLabel": "비짓제주 나우다",
+    "imageSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=df1c33a8be984707a128fa8bef8fc1f4"
   }
 };
