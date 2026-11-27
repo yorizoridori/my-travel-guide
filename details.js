@@ -5876,7 +5876,7 @@ window.NOWDA_DETAILS = {
       }
     ],
     "hoursNote": ": 08:00~20:00 라스트오더 19:20 · 휴무일",
-    "phone": "07-1314-1450",
+    "phone": "0507-1314-1450",
     "checkedAt": "2026-11-27",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=455d9461ffeb4027844e332c81bbe8b8"
@@ -5896,7 +5896,7 @@ window.NOWDA_DETAILS = {
       }
     ],
     "hoursNote": "휴무일",
-    "phone": "정보 확인 필요",
+    "phone": "064-725-9771",
     "checkedAt": "2026-11-27",
     "infoSourceLabel": "비짓제주 나우다 공식 페이지",
     "infoSourceUrl": "https://www.visitjeju.net/kr/nowda/benefit?menuId=DOM_200000000011220&partnerid=20db4ac6af604145bec9a777c49cd8c3"
